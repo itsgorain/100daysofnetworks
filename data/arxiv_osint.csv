@@ -1,0 +1,261 @@
+date_published,title,authors,summary,url,category
+2023-10-03 11:42:29+00:00,Online Multimedia Verification with Computational Tools and OSINT: Russia-Ukraine Conflict Case Studies,"['Sohail Ahmed Khan', 'Jan Gunnar Furuly', 'Henrik Brattli Vold', 'Rano Tahseen', 'Duc-Tien Dang-Nguyen']","This paper investigates the use of computational tools and Open-Source
+Intelligence (OSINT) techniques for verifying online multimedia content, with a
+specific focus on real-world cases from the Russia-Ukraine conflict. Over a
+nine-month period from April to December 2022, we examine verification
+workflows, tools, and case studies published by \faktiskbar. Our study
+showcases the effectiveness of diverse resources, including AI tools,
+geolocation tools, internet archives, and social media monitoring platforms, in
+enabling journalists and fact-checkers to efficiently process and corroborate
+evidence, ensuring the dissemination of accurate information. This research
+underscores the vital role of computational tools and OSINT techniques in
+promoting evidence-based reporting and combatting misinformation. We also touch
+on the current limitations of available tools and prospects for future
+developments in multimedia verification.",http://arxiv.org/pdf/2310.01978v1,cs.MM
+2023-09-06 19:03:49+00:00,C-CLIP: Contrastive Image-Text Encoders to Close the Descriptive-Commentative Gap,"['William Theisen', 'Walter Scheirer']","The interplay between the image and comment on a social media post is one of
+high importance for understanding its overall message. Recent strides in
+multimodal embedding models, namely CLIP, have provided an avenue forward in
+relating image and text. However the current training regime for CLIP models is
+insufficient for matching content found on social media, regardless of site or
+language. Current CLIP training data is based on what we call ``descriptive''
+text: text in which an image is merely described. This is something rarely seen
+on social media, where the vast majority of text content is ``commentative'' in
+nature. The captions provide commentary and broader context related to the
+image, rather than describing what is in it. Current CLIP models perform poorly
+on retrieval tasks where image-caption pairs display a commentative
+relationship. Closing this gap would be beneficial for several important
+application areas related to social media. For instance, it would allow groups
+focused on Open-Source Intelligence Operations (OSINT) to further aid efforts
+during disaster events, such as the ongoing Russian invasion of Ukraine, by
+easily exposing data to non-technical users for discovery and analysis. In
+order to close this gap we demonstrate that training contrastive image-text
+encoders on explicitly commentative pairs results in large improvements in
+retrieval results, with the results extending across a variety of non-English
+languages.",http://arxiv.org/pdf/2309.03921v1,cs.CV
+2023-07-27 23:03:57+00:00,A Secure Open-Source Intelligence Framework For Cyberbullying Investigation,"['Sylvia Worlali Azumah', 'Victor Adewopo', 'Zag ElSayed', 'Nelly Elsayed', 'Murat Ozer']","Cyberbullying has become a pervasive issue based on the rise of cell phones
+and internet usage affecting individuals worldwide. This paper proposes an
+open-source intelligence pipeline using data from Twitter to track keywords
+relevant to cyberbullying in social media to build dashboards for law
+enforcement agents. We discuss the prevalence of cyberbullying on social media,
+factors that compel individuals to indulge in cyberbullying, and the legal
+implications of cyberbullying in different countries also highlight the lack of
+direction, resources, training, and support that law enforcement officers face
+in investigating cyberbullying cases. The proposed interventions for
+cyberbullying involve collective efforts from various stakeholders, including
+parents, law enforcement, social media platforms, educational institutions,
+educators, and researchers. Our research provides a framework for cyberbullying
+and provides a comprehensive view of the digital landscape for investigators to
+track and identify cyberbullies, their tactics, and patterns. An OSINT
+dashboard with real-time monitoring empowers law enforcement to swiftly take
+action, protect victims, and make significant strides toward creating a safer
+online environment.",http://arxiv.org/pdf/2307.15225v2,cs.CY
+2023-06-09 18:18:58+00:00,The Use of Public Data and Free Tools in National CSIRTs' Operational Practices: A Systematic Literature Review,"['Sharifah Roziah Binti Mohd Kassim', 'Shujun Li', 'Budi Arief']","Many CSIRTs, including national CSIRTs, routinely use public data, including
+open-source intelligence (OSINT) and free tools, which include open-source
+tools in their work. However, we observed a lack of public information and
+systematic discussions regarding how national CSIRTs use and perceive public
+data and free tools in their operational practices. Therefore, this paper
+provides a systematic literature review (SLR) to comprehensively understand how
+national CSIRTs use and perceive public data and free tools in facilitating
+incident responses in operations. Our SLR method followed a three-stage
+approach: 1) a systematic search to identify relevant publications from
+websites of pertinent CSIRT organisations, 2) a conventional SLR into the
+research literature, and 3) synthesise data from stages one and two to answer
+the research questions. In the first stage, we searched the websites of 100
+national CSIRTs and 11 cross-CSIRT organisations to identify relevant
+information about national CSIRTs. In the second stage, we searched a
+scientific database (Scopus) to identify relevant research papers. Our primary
+finding from the SLR is that most discussions concerning public data and free
+tools by national CSIRTs are incomplete, ad hoc, or fragmented. We discovered a
+lack of discussions on how the staff of national CSIRTs perceive the usefulness
+of public data and free tools to facilitate incident responses. Such gaps can
+prevent us from understanding how national CSIRTs can benefit from public data
+and free tools and how other organisations, individuals and researchers can
+help by providing such data and tools to improve national CSIRTs' operation.
+These findings call for more empirical research on how national CSIRTs use and
+perceive public data and free tools to improve the overall incident responses
+at national CSIRTs and other incident response organisations.",http://arxiv.org/pdf/2306.07988v1,cs.DL
+2023-04-24 09:53:33+00:00,ThreatCrawl: A BERT-based Focused Crawler for the Cybersecurity Domain,"['Philipp Kuehn', 'Mike Schmidt', 'Markus Bayer', 'Christian Reuter']","Publicly available information contains valuable information for Cyber Threat
+Intelligence (CTI). This can be used to prevent attacks that have already taken
+place on other systems. Ideally, only the initial attack succeeds and all
+subsequent ones are detected and stopped. But while there are different
+standards to exchange this information, a lot of it is shared in articles or
+blog posts in non-standardized ways. Manually scanning through multiple online
+portals and news pages to discover new threats and extracting them is a
+time-consuming task. To automize parts of this scanning process, multiple
+papers propose extractors that use Natural Language Processing (NLP) to extract
+Indicators of Compromise (IOCs) from documents. However, while this already
+solves the problem of extracting the information out of documents, the search
+for these documents is rarely considered. In this paper, a new focused crawler
+is proposed called ThreatCrawl, which uses Bidirectional Encoder
+Representations from Transformers (BERT)-based models to classify documents and
+adapt its crawling path dynamically. While ThreatCrawl has difficulties to
+classify the specific type of Open Source Intelligence (OSINT) named in texts,
+e.g., IOC content, it can successfully find relevant documents and modify its
+path accordingly. It yields harvest rates of up to 52%, which are, to the best
+of our knowledge, better than the current state of the art.",http://arxiv.org/pdf/2304.11960v2,cs.CR
+2021-02-08 16:54:35+00:00,Generating Fake Cyber Threat Intelligence Using Transformer-Based Models,"['Priyanka Ranade', 'Aritran Piplai', 'Sudip Mittal', 'Anupam Joshi', 'Tim Finin']","Cyber-defense systems are being developed to automatically ingest Cyber
+Threat Intelligence (CTI) that contains semi-structured data and/or text to
+populate knowledge graphs. A potential risk is that fake CTI can be generated
+and spread through Open-Source Intelligence (OSINT) communities or on the Web
+to effect a data poisoning attack on these systems. Adversaries can use fake
+CTI examples as training input to subvert cyber defense systems, forcing the
+model to learn incorrect inputs to serve their malicious needs.
+  In this paper, we automatically generate fake CTI text descriptions using
+transformers. We show that given an initial prompt sentence, a public language
+model like GPT-2 with fine-tuning, can generate plausible CTI text with the
+ability of corrupting cyber-defense systems. We utilize the generated fake CTI
+text to perform a data poisoning attack on a Cybersecurity Knowledge Graph
+(CKG) and a cybersecurity corpus. The poisoning attack introduced adverse
+impacts such as returning incorrect reasoning outputs, representation
+poisoning, and corruption of other dependent AI-based cyber defense systems. We
+evaluate with traditional approaches and conduct a human evaluation study with
+cybersecurity professionals and threat hunters. Based on the study,
+professional threat hunters were equally likely to consider our fake generated
+CTI as true.",http://arxiv.org/pdf/2102.04351v3,cs.CR
+2020-12-02 12:58:04+00:00,Smarter Password Guessing Techniques Leveraging Contextual Information and OSINT,"['Aikaterini Kanta', 'Iwen Coisel', 'Mark Scanlon']","In recent decades, criminals have increasingly used the web to research,
+assist and perpetrate criminal behaviour. One of the most important ways in
+which law enforcement can battle this growing trend is through accessing
+pertinent information about suspects in a timely manner. A significant
+hindrance to this is the difficulty of accessing any system a suspect uses that
+requires authentication via password. Password guessing techniques generally
+consider common user behaviour while generating their passwords, as well as the
+password policy in place. Such techniques can offer a modest success rate
+considering a large/average population. However, they tend to fail when
+focusing on a single target -- especially when the latter is an educated user
+taking precautions as a savvy criminal would be expected to do. Open Source
+Intelligence is being increasingly leveraged by Law Enforcement in order to
+gain useful information about a suspect, but very little is currently being
+done to integrate this knowledge in an automated way within password cracking.
+The purpose of this research is to delve into the techniques that enable the
+gathering of the necessary context about a suspect and find ways to leverage
+this information within password guessing techniques.",http://arxiv.org/pdf/2012.01159v1,cs.CR
+2020-10-28 07:08:52+00:00,PeopleXploit -- A hybrid tool to collect public data,"['Arjun Anand V', 'Buvanasri A K', 'Meenakshi R', 'Dr. Karthika S', 'Ashok Kumar Mohan']","This paper introduces the concept of Open Source Intelligence (OSINT) as an
+important application in intelligent profiling of individuals. With a variety
+of tools available, significant data shall be obtained on an individual as a
+consequence of analyzing his/her internet presence but all of this comes at the
+cost of low relevance. To increase the relevance score in profiling,
+PeopleXploit is being introduced. PeopleXploit is a hybrid tool which helps in
+collecting the publicly available information that is reliable and relevant to
+the given input. This tool is used to track and trace the given target with
+their digital footprints like Name, Email, Phone Number, User IDs etc. and the
+tool will scan & search other associated data from public available records
+from the internet and create a summary report against the target. PeopleXploit
+profiles a person using authorship analysis and finds the best matching guess.
+Also, the type of analysis performed (professional/matrimonial/criminal entity)
+varies with the requirement of the user.",http://arxiv.org/pdf/2010.15668v1,cs.CY
+2020-04-01 14:50:43+00:00,Objects of violence: synthetic data for practical ML in human rights investigations,"['Lachlan Kermode', 'Jan Freyberg', 'Alican Akturk', 'Robert Trafford', 'Denis Kochetkov', 'Rafael Pardinas', 'Eyal Weizman', 'Julien Cornebise']","We introduce a machine learning workflow to search for, identify, and
+meaningfully triage videos and images of munitions, weapons, and military
+equipment, even when limited training data exists for the object of interest.
+This workflow is designed to expedite the work of OSINT (""open source
+intelligence"") researchers in human rights investigations. It consists of three
+components: automatic rendering and annotating of synthetic datasets that make
+up for a lack of training data; training image classifiers from combined sets
+of photographic and synthetic data; and mtriage, an open source software that
+orchestrates these classifiers' deployment to triage public domain media, and
+visualise predictions in a web interface. We show that synthetic data helps to
+train classifiers more effectively, and that certain approaches yield better
+results for different architectures. We then demonstrate our workflow in two
+real-world human rights investigations: the use of the Triple-Chaser tear gas
+grenade against civilians, and the verification of allegations of military
+presence in Ukraine in 2014.",http://arxiv.org/pdf/2004.01030v1,cs.CV
+2020-01-07 21:20:26+00:00,Is Cryptojacking Dead after Coinhive Shutdown?,"['Said Varlioglu', 'Bilal Gonen', 'Murat Ozer', 'Mehmet F. Bastug']","Cryptojacking is the exploitation of victims' computer resources to mine for
+cryptocurrency using malicious scripts. It has become popular after 2017 when
+attackers started to exploit legal mining scripts, especially Coinhive scripts.
+Coinhive was actually a legal mining service that provided scripts and servers
+for in-browser mining activities. Nevertheless, over 10 million web users had
+been victims every month before the Coinhive shutdown that happened in Mar
+2019. This paper explores the new era of the cryptojacking world after Coinhive
+discontinued its service. We aimed to see whether and how attackers continue
+cryptojacking, generate new malicious scripts, and developed new methods. We
+used a capable cryptojacking detector named CMTracker that proposed by Hong et
+al. in 2018. We automatically and manually examined 2770 websites that had been
+detected by CMTracker before the Coinhive shutdown. The results revealed that
+99\% of sites no longer continue cryptojacking. 1\% of websites still run 8
+unique mining scripts. By tracking these mining scripts, we detected 632 unique
+cryptojacking websites. Moreover, open-source investigations (OSINT)
+demonstrated that attackers still use the same methods. Therefore, we listed
+the typical patterns of cryptojacking. We concluded that cryptojacking is not
+dead after the Coinhive shutdown. It is still alive, but not as attractive as
+it used to be.",http://arxiv.org/pdf/2001.02975v3,cs.CR
+2019-10-31 12:23:31+00:00,A machine-learning approach to Detect users' suspicious behaviour through the Facebook wall,"['Aimilia Panagiotou', 'Bogdan Ghita', 'Stavros Shiaeles', 'Keltoum Bendiab']","Facebook represents the current de-facto choice for social media, changing
+the nature of social relationships. The increasing amount of personal
+information that runs through this platform publicly exposes user behaviour and
+social trends, allowing aggregation of data through conventional intelligence
+collection techniques such as OSINT (Open Source Intelligence). In this paper,
+we propose a new method to detect and diagnose variations in overall Facebook
+user psychology through Open Source Intelligence (OSINT) and machine learning
+techniques. We are aggregating the spectrum of user sentiments and views by
+using N-Games charts, which exhibit noticeable variations over time, validated
+through long term collection. We postulate that the proposed approach can be
+used by security organisations to understand and evaluate the user psychology,
+then use the information to predict insider threats or prevent insider attacks.",http://arxiv.org/pdf/1910.14417v1,cs.CR
+2019-01-22 14:20:00+00:00,Information Operations Recognition: from Nonlinear Analysis to Decision-making,"['Aleksandr G. Dodonov', 'Dmitry V. Lande', 'Vitaliy V. Tsyganok', 'Oleh V. Andriichuk', 'Sergii V. Kadenko', 'Anastasia N. Graivoronskaya']","The book is dedicated to the issues of information operations recognition
+based on analysis of information space, particularly, web-resources, social
+networks, and blogs. In this context, open source intelligence technology
+(OSINT) solves the problem of initial analysis of modern-time information
+flows. The book provides a detailed description of mathematical principles of
+information operations recognition, based on mathematical statistics, nonlinear
+dynamics, complex networks theory, information and mathematical modeling,
+sociology. A separate chapter covers the applications of approaches from expert
+estimation theory and decision-making support to information operation
+recognition. The book is addressed to a broad circle of specialists from
+information technology and security domains.",http://arxiv.org/pdf/1901.10876v2,cs.OH
+2019-01-03 18:51:30+00:00,A First Look at the Crypto-Mining Malware Ecosystem: A Decade of Unrestricted Wealth,"['Sergio Pastrana', 'Guillermo Suarez-Tangil']","Illicit crypto-mining leverages resources stolen from victims to mine
+cryptocurrencies on behalf of criminals. While recent works have analyzed one
+side of this threat, i.e.: web-browser cryptojacking, only commercial reports
+have partially covered binary-based crypto-mining malware. In this paper, we
+conduct the largest measurement of crypto-mining malware to date, analyzing
+approximately 4.5 million malware samples (1.2 million malicious miners), over
+a period of twelve years from 2007 to 2019. Our analysis pipeline applies both
+static and dynamic analysis to extract information from the samples, such as
+wallet identifiers and mining pools. Together with OSINT data, this information
+is used to group samples into campaigns. We then analyze publicly-available
+payments sent to the wallets from mining-pools as a reward for mining, and
+estimate profits for the different campaigns. All this together is is done in a
+fully automated fashion, which enables us to leverage measurement-based
+findings of illicit crypto-mining at scale. Our profit analysis reveals
+campaigns with multi-million earnings, associating over 4.4% of Monero with
+illicit mining. We analyze the infrastructure related with the different
+campaigns, showing that a high proportion of this ecosystem is supported by
+underground economies such as Pay-Per-Install services. We also uncover novel
+techniques that allow criminals to run successful campaigns.",http://arxiv.org/pdf/1901.00846v2,cs.CR
+2018-07-19 16:14:08+00:00,Using Deep Neural Networks to Translate Multi-lingual Threat Intelligence,"['Priyanka Ranade', 'Sudip Mittal', 'Anupam Joshi', 'Karuna Joshi']","The multilingual nature of the Internet increases complications in the
+cybersecurity community's ongoing efforts to strategically mine threat
+intelligence from OSINT data on the web. OSINT sources such as social media,
+blogs, and dark web vulnerability markets exist in diverse languages and hinder
+security analysts, who are unable to draw conclusions from intelligence in
+languages they don't understand. Although third party translation engines are
+growing stronger, they are unsuited for private security environments. First,
+sensitive intelligence is not a permitted input to third party engines due to
+privacy and confidentiality policies. In addition, third party engines produce
+generalized translations that tend to lack exclusive cybersecurity terminology.
+In this paper, we address these issues and describe our system that enables
+threat intelligence understanding across unfamiliar languages. We create a
+neural network based system that takes in cybersecurity data in a different
+language and outputs the respective English translation. The English
+translation can then be understood by an analyst, and can also serve as input
+to an AI based cyber-defense system that can take mitigative action. As a proof
+of concept, we have created a pipeline which takes Russian threats and
+generates its corresponding English, RDF, and vectorized representations. Our
+network optimizes translations on specifically, cybersecurity data.",http://arxiv.org/pdf/1807.07517v1,cs.CL
+2018-03-14 11:02:03+00:00,OSINT Analysis of the TOR Foundation,"['Maxence Delong', 'Eric Filiol', 'Clément Coddet', 'Olivier Fatou', 'Clément Suhard']","This research paper is a study on the TOR Foundation and the TOR Network. Due
+to the blind confidence over this network and this foundation we have collect
+data and gather information in open sources to understand how it is organized.
+We discovered that the US government is very active through the financial
+aspect and development aspect. Furthermore, we discovered that some critical
+points of the TOR network are running by unknown people who have special nodes
+and the foundations never talks about them.",http://arxiv.org/pdf/1803.05201v3,cs.CR
+2016-08-02 17:09:19+00:00,PicHunt: Social Media Image Retrieval for Improved Law Enforcement,"['Sonal Goel', 'Niharika Sachdeva', 'Ponnurangam Kumaraguru', 'A V Subramanyam', 'Divam Gupta']","First responders are increasingly using social media to identify and reduce
+crime for well-being and safety of the society. Images shared on social media
+hurting religious, political, communal and other sentiments of people, often
+instigate violence and create law & order situations in society. This results
+in the need for first responders to inspect the spread of such images and users
+propagating them on social media. In this paper, we present a comparison
+between different hand-crafted features and a Convolutional Neural Network
+(CNN) model to retrieve similar images, which outperforms state-of-art
+hand-crafted features. We propose an Open-Source-Intelligent (OSINT) real-time
+image search system, robust to retrieve modified images that allows first
+responders to analyze the current spread of images, sentiments floating and
+details of users propagating such content. The system also aids officials to
+save time of manually analyzing the content by reducing the search space on an
+average by 67%.",http://arxiv.org/pdf/1608.00905v2,cs.MM
