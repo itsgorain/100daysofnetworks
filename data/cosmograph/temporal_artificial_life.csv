@@ -1,0 +1,379 @@
+date,author,title,authors
+2023-10-18 14:50:39+00:00,Alessandro Scirè,Emergence and criticality in spatiotemporal synchronization: the complementarity model,Alessandro Scirè
+2023-10-13 11:58:18+00:00,Lakshwin Shreesha,Role of Morphogenetic Competency on Evolution,Lakshwin Shreesha
+2023-06-22 19:32:53+00:00,M Charity,Amorphous Fortress: Observing Emergent Behavior in Multi-Agent FSMs,M Charity
+2023-06-22 19:32:53+00:00,Dipika Rajesh,Amorphous Fortress: Observing Emergent Behavior in Multi-Agent FSMs,Dipika Rajesh
+2023-06-22 19:32:53+00:00,Sam Earle,Amorphous Fortress: Observing Emergent Behavior in Multi-Agent FSMs,Sam Earle
+2023-06-22 19:32:53+00:00,Julian Togelius,Amorphous Fortress: Observing Emergent Behavior in Multi-Agent FSMs,Julian Togelius
+2023-05-16 12:01:08+00:00,Sanyam Jain,Capturing Emerging Complexity in Lenia,Sanyam Jain
+2023-05-16 12:01:08+00:00,Aarati Shrestha,Capturing Emerging Complexity in Lenia,Aarati Shrestha
+2023-05-16 12:01:08+00:00,Stefano Nichele,Capturing Emerging Complexity in Lenia,Stefano Nichele
+2023-04-24 02:36:25+00:00,Craig Reynolds,Coevolution of Camouflage,Craig Reynolds
+2023-04-12 06:40:11+00:00,Bert Wang-Chak Chan,Towards Large-Scale Simulations of Open-Ended Evolution in Continuous Cellular Automata,Bert Wang-Chak Chan
+2023-02-19 08:31:54+00:00,Yong Zher Koh,On the Liveliness of Artificial Life,Yong Zher Koh
+2023-02-19 08:31:54+00:00,Maurice HT Ling,On the Liveliness of Artificial Life,Maurice HT Ling
+2023-02-19 03:37:03+00:00,Maurice HT Ling,"An Artificial Life Simulation Library Based on Genetic Algorithm, 3-Character Genetic Code and Biological Hierarchy",Maurice HT Ling
+2023-02-18 06:48:23+00:00,Joel Lehman,Machine Love,Joel Lehman
+2023-02-03 14:56:22+00:00,Soo Ling Lim,The Agent-based Modelling for Human Behaviour Special Issue,Soo Ling Lim
+2023-02-03 14:56:22+00:00,Peter J. Bentley,The Agent-based Modelling for Human Behaviour Special Issue,Peter J. Bentley
+2022-12-14 15:07:21+00:00,Erwan Plantec,Flow-Lenia: Towards open-ended evolution in cellular automata through mass conservation and parameter localization,Erwan Plantec
+2022-12-14 15:07:21+00:00,Gautier Hamon,Flow-Lenia: Towards open-ended evolution in cellular automata through mass conservation and parameter localization,Gautier Hamon
+2022-12-14 15:07:21+00:00,Mayalen Etcheverry,Flow-Lenia: Towards open-ended evolution in cellular automata through mass conservation and parameter localization,Mayalen Etcheverry
+2022-12-14 15:07:21+00:00,Pierre-Yves Oudeyer,Flow-Lenia: Towards open-ended evolution in cellular automata through mass conservation and parameter localization,Pierre-Yves Oudeyer
+2022-12-14 15:07:21+00:00,Clément Moulin-Frier,Flow-Lenia: Towards open-ended evolution in cellular automata through mass conservation and parameter localization,Clément Moulin-Frier
+2022-12-14 15:07:21+00:00,Bert Wang-Chak Chan,Flow-Lenia: Towards open-ended evolution in cellular automata through mass conservation and parameter localization,Bert Wang-Chak Chan
+2022-12-01 05:18:06+00:00,Manuel Baltieri,"Hybrid Life: Integrating Biological, Artificial, and Cognitive Systems",Manuel Baltieri
+2022-12-01 05:18:06+00:00,Hiroyuki Iizuka,"Hybrid Life: Integrating Biological, Artificial, and Cognitive Systems",Hiroyuki Iizuka
+2022-12-01 05:18:06+00:00,Olaf Witkowski,"Hybrid Life: Integrating Biological, Artificial, and Cognitive Systems",Olaf Witkowski
+2022-12-01 05:18:06+00:00,Lana Sinapayen,"Hybrid Life: Integrating Biological, Artificial, and Cognitive Systems",Lana Sinapayen
+2022-12-01 05:18:06+00:00,Keisuke Suzuki,"Hybrid Life: Integrating Biological, Artificial, and Cognitive Systems",Keisuke Suzuki
+2022-11-24 18:23:28+00:00,John P. Agapiou,Melting Pot 2.0,John P. Agapiou
+2022-11-24 18:23:28+00:00,Alexander Sasha Vezhnevets,Melting Pot 2.0,Alexander Sasha Vezhnevets
+2022-11-24 18:23:28+00:00,Edgar A. Duéñez-Guzmán,Melting Pot 2.0,Edgar A. Duéñez-Guzmán
+2022-11-24 18:23:28+00:00,Jayd Matyas,Melting Pot 2.0,Jayd Matyas
+2022-11-24 18:23:28+00:00,Yiran Mao,Melting Pot 2.0,Yiran Mao
+2022-11-24 18:23:28+00:00,Peter Sunehag,Melting Pot 2.0,Peter Sunehag
+2022-11-24 18:23:28+00:00,Raphael Köster,Melting Pot 2.0,Raphael Köster
+2022-11-24 18:23:28+00:00,Udari Madhushani,Melting Pot 2.0,Udari Madhushani
+2022-11-24 18:23:28+00:00,Kavya Kopparapu,Melting Pot 2.0,Kavya Kopparapu
+2022-11-24 18:23:28+00:00,Ramona Comanescu,Melting Pot 2.0,Ramona Comanescu
+2022-11-24 18:23:28+00:00,DJ Strouse,Melting Pot 2.0,DJ Strouse
+2022-11-24 18:23:28+00:00,Michael B. Johanson,Melting Pot 2.0,Michael B. Johanson
+2022-11-24 18:23:28+00:00,Sukhdeep Singh,Melting Pot 2.0,Sukhdeep Singh
+2022-11-24 18:23:28+00:00,Julia Haas,Melting Pot 2.0,Julia Haas
+2022-11-24 18:23:28+00:00,Igor Mordatch,Melting Pot 2.0,Igor Mordatch
+2022-11-24 18:23:28+00:00,Dean Mobbs,Melting Pot 2.0,Dean Mobbs
+2022-11-24 18:23:28+00:00,Joel Z. Leibo,Melting Pot 2.0,Joel Z. Leibo
+2022-11-03 10:51:25+00:00,Natalya Weber,Scaling up the self-optimization model by means of on-the-fly computation of weights,Natalya Weber
+2022-11-03 10:51:25+00:00,Werner Koch,Scaling up the self-optimization model by means of on-the-fly computation of weights,Werner Koch
+2022-11-03 10:51:25+00:00,Tom Froese,Scaling up the self-optimization model by means of on-the-fly computation of weights,Tom Froese
+2022-10-11 07:49:54+00:00,Stuart Bartlett,Provenance of Lyfe: Chemical Autonomous Agents Surviving through Associative Learning,Stuart Bartlett
+2022-10-11 07:49:54+00:00,David Louapre,Provenance of Lyfe: Chemical Autonomous Agents Surviving through Associative Learning,David Louapre
+2022-10-07 15:59:27+00:00,Keishu Utimula,Artificial Life using a Book and Bookmarker,Keishu Utimula
+2022-06-01 00:08:41+00:00,Sudev Pradhan,Design and Simulation of an Autonomous Quantum Flying Robot Vehicle: An IBM Quantum Experience,Sudev Pradhan
+2022-06-01 00:08:41+00:00,Anshuman Padhi,Design and Simulation of an Autonomous Quantum Flying Robot Vehicle: An IBM Quantum Experience,Anshuman Padhi
+2022-06-01 00:08:41+00:00,Bikash Kumar Behera,Design and Simulation of an Autonomous Quantum Flying Robot Vehicle: An IBM Quantum Experience,Bikash Kumar Behera
+2022-05-16 14:49:58+00:00,Fabien Furfaro,An Artificial Neural Network Functionalized by Evolution,Fabien Furfaro
+2022-05-16 14:49:58+00:00,Avner Bar-Hen,An Artificial Neural Network Functionalized by Evolution,Avner Bar-Hen
+2022-05-16 14:49:58+00:00,Geoffroy Berthelot,An Artificial Neural Network Functionalized by Evolution,Geoffroy Berthelot
+2022-05-06 14:09:38+00:00,W. B. Langdon,A Trillion Genetic Programming Instructions per Second,W. B. Langdon
+2022-05-01 13:36:27+00:00,Federico Pigozzi,Shape Change and Control of Pressure-based Soft Agents,Federico Pigozzi
+2022-04-27 18:51:18+00:00,Stoyan K. Smoukov,Sustainably Grown: The Underdog Robots of the Future,Stoyan K. Smoukov
+2022-03-24 12:55:23+00:00,James M. Borg,Evolved Open-Endedness in Cultural Evolution: A New Dimension in Open-Ended Evolution Research,James M. Borg
+2022-03-24 12:55:23+00:00,Andrew Buskell,Evolved Open-Endedness in Cultural Evolution: A New Dimension in Open-Ended Evolution Research,Andrew Buskell
+2022-03-24 12:55:23+00:00,Rohan Kapitany,Evolved Open-Endedness in Cultural Evolution: A New Dimension in Open-Ended Evolution Research,Rohan Kapitany
+2022-03-24 12:55:23+00:00,Simon T. Powers,Evolved Open-Endedness in Cultural Evolution: A New Dimension in Open-Ended Evolution Research,Simon T. Powers
+2022-03-24 12:55:23+00:00,Eva Reindl,Evolved Open-Endedness in Cultural Evolution: A New Dimension in Open-Ended Evolution Research,Eva Reindl
+2022-03-24 12:55:23+00:00,Claudio Tennie,Evolved Open-Endedness in Cultural Evolution: A New Dimension in Open-Ended Evolution Research,Claudio Tennie
+2022-03-03 21:10:22+00:00,Aaron Dharna,Transfer Dynamics in Emergent Evolutionary Curricula,Aaron Dharna
+2022-03-03 21:10:22+00:00,Amy K Hoover,Transfer Dynamics in Emergent Evolutionary Curricula,Amy K Hoover
+2022-03-03 21:10:22+00:00,Julian Togelius,Transfer Dynamics in Emergent Evolutionary Curricula,Julian Togelius
+2022-03-03 21:10:22+00:00,L. B. Soros,Transfer Dynamics in Emergent Evolutionary Curricula,L. B. Soros
+2022-02-17 18:55:13+00:00,Eleni Nisioti,Plasticity and evolvability under environmental variability: the joint role of fitness-based selection and niche-limited competition,Eleni Nisioti
+2022-02-17 18:55:13+00:00,Clément Moulin-Frier,Plasticity and evolvability under environmental variability: the joint role of fitness-based selection and niche-limited competition,Clément Moulin-Frier
+2021-12-25 14:53:50+00:00,Lana Sinapayen,Evolutionary Generation of Visual Motion Illusions,Lana Sinapayen
+2021-12-25 14:53:50+00:00,Eiji Watanabe,Evolutionary Generation of Visual Motion Illusions,Eiji Watanabe
+2021-08-10 08:21:45+00:00,Matthew Andres Moreno,"Matchmaker, Matchmaker, Make Me a Match: Geometric, Variational, and Evolutionary Implications of Criteria for Tag Affinity",Matthew Andres Moreno
+2021-08-10 08:21:45+00:00,Alexander Lalejini,"Matchmaker, Matchmaker, Make Me a Match: Geometric, Variational, and Evolutionary Implications of Criteria for Tag Affinity",Alexander Lalejini
+2021-08-10 08:21:45+00:00,Charles Ofria,"Matchmaker, Matchmaker, Make Me a Match: Geometric, Variational, and Evolutionary Implications of Criteria for Tag Affinity",Charles Ofria
+2021-08-09 19:03:15+00:00,Carlos Gershenson,"Intelligence as information processing: brains, swarms, and computers",Carlos Gershenson
+2021-08-01 07:20:49+00:00,Matthew Andres Moreno,SignalGP-Lite: Event Driven Genetic Programming Library for Large-Scale Artificial Life Applications,Matthew Andres Moreno
+2021-08-01 07:20:49+00:00,Santiago Rodriguez Papa,SignalGP-Lite: Event Driven Genetic Programming Library for Large-Scale Artificial Life Applications,Santiago Rodriguez Papa
+2021-08-01 07:20:49+00:00,Alexander Lalejini,SignalGP-Lite: Event Driven Genetic Programming Library for Large-Scale Artificial Life Applications,Alexander Lalejini
+2021-08-01 07:20:49+00:00,Charles Ofria,SignalGP-Lite: Event Driven Genetic Programming Library for Large-Scale Artificial Life Applications,Charles Ofria
+2021-07-13 00:07:44+00:00,Q. Tyrell Davis,Carle's Game: An Open-Ended Challenge in Exploratory Machine Creativity,Q. Tyrell Davis
+2021-07-03 13:07:58+00:00,Aritra Sarkar,QKSA: Quantum Knowledge Seeking Agent,Aritra Sarkar
+2021-05-27 16:54:23+00:00,Carlos Gershenson,Artificial life: sustainable self-replicating systems,Carlos Gershenson
+2021-05-27 16:54:23+00:00,Jitka Cejkova,Artificial life: sustainable self-replicating systems,Jitka Cejkova
+2021-04-30 16:40:52+00:00,Carlos Gershenson,Emergence in artificial life,Carlos Gershenson
+2021-03-15 14:33:19+00:00,Lance R. Williams,Increased Complexity and Fitness of Artificial Cells that Reproduce Using Spatially Distributed Asynchronous Parallel Processes,Lance R. Williams
+2021-03-15 09:55:43+00:00,Germán Kruszewski,Emergence of Self-Reproducing Metabolisms as Recursive Algorithms in an Artificial Chemistry,Germán Kruszewski
+2021-03-15 09:55:43+00:00,Tomas Mikolov,Emergence of Self-Reproducing Metabolisms as Recursive Algorithms in an Artificial Chemistry,Tomas Mikolov
+2021-02-24 15:49:20+00:00,Aymeric Vie,Modelling SARS-CoV-2 coevolution with genetic algorithms,Aymeric Vie
+2021-02-24 05:43:44+00:00,Lana Sinapayen,Perspective: Purposeful Failure in Artificial Life and Artificial Intelligence,Lana Sinapayen
+2021-01-19 14:02:54+00:00,Karol Gregor,Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm,Karol Gregor
+2021-01-19 14:02:54+00:00,Frederic Besse,Self-Organizing Intelligent Matter: A blueprint for an AI generating algorithm,Frederic Besse
+2020-12-21 19:21:12+00:00,Fosco Loregian,Rosen's no-go theorem for regular categories,Fosco Loregian
+2020-11-11 02:18:02+00:00,Tatjana Škrbić,Building blocks of protein structures -- Physics meets Biology,Tatjana Škrbić
+2020-11-11 02:18:02+00:00,Amos Maritan,Building blocks of protein structures -- Physics meets Biology,Amos Maritan
+2020-11-11 02:18:02+00:00,Achille Giacometti,Building blocks of protein structures -- Physics meets Biology,Achille Giacometti
+2020-11-11 02:18:02+00:00,George D. Rose,Building blocks of protein structures -- Physics meets Biology,George D. Rose
+2020-11-11 02:18:02+00:00,Jayanth R. Banavar,Building blocks of protein structures -- Physics meets Biology,Jayanth R. Banavar
+2020-11-05 17:53:33+00:00,Aymeric Vie,"Qualities, challenges and future of genetic algorithms: a literature review",Aymeric Vie
+2020-11-05 17:53:33+00:00,Alissa M. Kleinnijenhuis,"Qualities, challenges and future of genetic algorithms: a literature review",Alissa M. Kleinnijenhuis
+2020-11-05 17:53:33+00:00,Doyne J. Farmer,"Qualities, challenges and future of genetic algorithms: a literature review",Doyne J. Farmer
+2020-09-09 18:59:53+00:00,Kristine Heiney,On Artificial Life and Emergent Computation in Physical Substrates,Kristine Heiney
+2020-09-09 18:59:53+00:00,Gunnar Tufte,On Artificial Life and Emergent Computation in Physical Substrates,Gunnar Tufte
+2020-09-09 18:59:53+00:00,Stefano Nichele,On Artificial Life and Emergent Computation in Physical Substrates,Stefano Nichele
+2020-08-31 11:47:45+00:00,Barbora Hudcova,Classification of Complex Systems Based on Transients,Barbora Hudcova
+2020-08-31 11:47:45+00:00,Tomas Mikolov,Classification of Complex Systems Based on Transients,Tomas Mikolov
+2020-07-16 17:48:05+00:00,Aaron Dharna,Co-generation of game levels and game-playing agents,Aaron Dharna
+2020-07-16 17:48:05+00:00,Julian Togelius,Co-generation of game levels and game-playing agents,Julian Togelius
+2020-07-16 17:48:05+00:00,L. B. Soros,Co-generation of game levels and game-playing agents,L. B. Soros
+2020-07-07 21:04:10+00:00,Anya E. Vostinar,Artificial Life in Game Mods for Intuitive Evolution Education,Anya E. Vostinar
+2020-07-07 21:04:10+00:00,Barbara Z. Johnson,Artificial Life in Game Mods for Intuitive Evolution Education,Barbara Z. Johnson
+2020-07-07 21:04:10+00:00,Kevin Connors,Artificial Life in Game Mods for Intuitive Evolution Education,Kevin Connors
+2020-06-29 17:14:29+00:00,Matt Grove,Coloured noise time series as appropriate models for environmental variation in artificial evolutionary systems,Matt Grove
+2020-06-29 17:14:29+00:00,James M. Borg,Coloured noise time series as appropriate models for environmental variation in artificial evolutionary systems,James M. Borg
+2020-06-29 17:14:29+00:00,Fiona Polack,Coloured noise time series as appropriate models for environmental variation in artificial evolutionary systems,Fiona Polack
+2020-06-12 22:28:09+00:00,Adrien Ecoffet,Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity,Adrien Ecoffet
+2020-06-12 22:28:09+00:00,Jeff Clune,Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity,Jeff Clune
+2020-06-12 22:28:09+00:00,Joel Lehman,Open Questions in Creating Safe Open-ended AI: Tensions Between Control and Creativity,Joel Lehman
+2020-06-04 18:02:31+00:00,Tim Taylor,The Importance of Open-Endedness (for the Sake of Open-Endedness),Tim Taylor
+2020-05-12 21:28:31+00:00,M. Buliga,Artificial life properties of directed interaction combinators vs. chemlambda,M. Buliga
+2020-05-07 20:41:13+00:00,Bert Wang-Chak Chan,Lenia and Expanded Universe,Bert Wang-Chak Chan
+2020-04-25 07:45:20+00:00,Lucas Lamata,Quantum machine learning and quantum biomimetics: A perspective,Lucas Lamata
+2020-04-07 00:13:14+00:00,Una-May O'Reilly,Adversarial Genetic Programming for Cyber Security: A Rising Application Domain Where GP Matters,Una-May O'Reilly
+2020-04-07 00:13:14+00:00,Jamal Toutouh,Adversarial Genetic Programming for Cyber Security: A Rising Application Domain Where GP Matters,Jamal Toutouh
+2020-04-07 00:13:14+00:00,Marcos Pertierra,Adversarial Genetic Programming for Cyber Security: A Rising Application Domain Where GP Matters,Marcos Pertierra
+2020-04-07 00:13:14+00:00,Daniel Prado Sanchez,Adversarial Genetic Programming for Cyber Security: A Rising Application Domain Where GP Matters,Daniel Prado Sanchez
+2020-04-07 00:13:14+00:00,Dennis Garcia,Adversarial Genetic Programming for Cyber Security: A Rising Application Domain Where GP Matters,Dennis Garcia
+2020-04-07 00:13:14+00:00,Anthony Erb Luogo,Adversarial Genetic Programming for Cyber Security: A Rising Application Domain Where GP Matters,Anthony Erb Luogo
+2020-04-07 00:13:14+00:00,Jonathan Kelly,Adversarial Genetic Programming for Cyber Security: A Rising Application Domain Where GP Matters,Jonathan Kelly
+2020-04-07 00:13:14+00:00,Erik Hemberg,Adversarial Genetic Programming for Cyber Security: A Rising Application Domain Where GP Matters,Erik Hemberg
+2020-02-28 18:54:37+00:00,Juste Raimbault,Cities as they could be: Artificial Life and Urban Systems,Juste Raimbault
+2019-11-04 09:35:54+00:00,Hugo Cisneros,Evolving Structures in Complex Systems,Hugo Cisneros
+2019-11-04 09:35:54+00:00,Josef Sivic,Evolving Structures in Complex Systems,Josef Sivic
+2019-11-04 09:35:54+00:00,Tomas Mikolov,Evolving Structures in Complex Systems,Tomas Mikolov
+2019-09-10 12:20:19+00:00,Norman Packard,An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue,Norman Packard
+2019-09-10 12:20:19+00:00,Mark A. Bedau,An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue,Mark A. Bedau
+2019-09-10 12:20:19+00:00,Alastair Channon,An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue,Alastair Channon
+2019-09-10 12:20:19+00:00,Takashi Ikegami,An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue,Takashi Ikegami
+2019-09-10 12:20:19+00:00,Steen Rasmussen,An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue,Steen Rasmussen
+2019-09-10 12:20:19+00:00,Kenneth O. Stanley,An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue,Kenneth O. Stanley
+2019-09-10 12:20:19+00:00,Tim Taylor,An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue,Tim Taylor
+2019-07-30 09:51:30+00:00,David Kadish,An artifcial life approach to studying niche differentiation in soundscape ecology,David Kadish
+2019-07-30 09:51:30+00:00,Sebastian Risi,An artifcial life approach to studying niche differentiation in soundscape ecology,Sebastian Risi
+2019-07-30 09:51:30+00:00,Laura Beloff,An artifcial life approach to studying niche differentiation in soundscape ecology,Laura Beloff
+2019-06-06 22:46:05+00:00,Hortense Le Ferrand,Robotics: Science preceding science fiction,Hortense Le Ferrand
+2019-03-14 21:26:43+00:00,Carlos Gershenson,Self-Organization and Artificial Life,Carlos Gershenson
+2019-03-14 21:26:43+00:00,Vito Trianni,Self-Organization and Artificial Life,Vito Trianni
+2019-03-14 21:26:43+00:00,Justin Werfel,Self-Organization and Artificial Life,Justin Werfel
+2019-03-14 21:26:43+00:00,Hiroki Sayama,Self-Organization and Artificial Life,Hiroki Sayama
+2018-12-30 11:00:48+00:00,Yew-Soon Ong,AIR5: Five Pillars of Artificial Intelligence Research,Yew-Soon Ong
+2018-12-30 11:00:48+00:00,Abhishek Gupta,AIR5: Five Pillars of Artificial Intelligence Research,Abhishek Gupta
+2018-12-13 13:58:24+00:00,Bert Wang-Chak Chan,Lenia - Biology of Artificial Life,Bert Wang-Chak Chan
+2018-07-16 16:16:11+00:00,Dennis G Wilson,Evolving Differentiable Gene Regulatory Networks,Dennis G Wilson
+2018-07-16 16:16:11+00:00,Kyle Harrington,Evolving Differentiable Gene Regulatory Networks,Kyle Harrington
+2018-07-16 16:16:11+00:00,Sylvain Cussat-Blanc,Evolving Differentiable Gene Regulatory Networks,Sylvain Cussat-Blanc
+2018-07-16 16:16:11+00:00,Hervé Luga,Evolving Differentiable Gene Regulatory Networks,Hervé Luga
+2018-07-12 10:08:21+00:00,Erik Aaron Hansen,Achieving Connectivity Between Wide Areas Through Self-Organising Robot Swarm Using Embodied Evolution,Erik Aaron Hansen
+2018-07-12 10:08:21+00:00,Stefano Nichele,Achieving Connectivity Between Wide Areas Through Self-Organising Robot Swarm Using Embodied Evolution,Stefano Nichele
+2018-07-12 10:08:21+00:00,Anis Yazidi,Achieving Connectivity Between Wide Areas Through Self-Organising Robot Swarm Using Embodied Evolution,Anis Yazidi
+2018-07-12 10:08:21+00:00,Hårek Haugerud,Achieving Connectivity Between Wide Areas Through Self-Organising Robot Swarm Using Embodied Evolution,Hårek Haugerud
+2018-07-12 10:08:21+00:00,Asieh Abolpour Mofrad,Achieving Connectivity Between Wide Areas Through Self-Organising Robot Swarm Using Embodied Evolution,Asieh Abolpour Mofrad
+2018-07-12 10:08:21+00:00,Alex Alcocer,Achieving Connectivity Between Wide Areas Through Self-Organising Robot Swarm Using Embodied Evolution,Alex Alcocer
+2018-06-23 07:47:57+00:00,Janardan Misra,An Inductive Formalization of Self Reproduction in Dynamical Hierarchies,Janardan Misra
+2018-06-04 18:52:40+00:00,Tim Taylor,Past Visions of Artificial Futures: One Hundred and Fifty Years under the Spectre of Evolving Machines,Tim Taylor
+2018-06-04 18:52:40+00:00,Alan Dorin,Past Visions of Artificial Futures: One Hundred and Fifty Years under the Spectre of Evolving Machines,Alan Dorin
+2018-04-03 19:44:09+00:00,Carlos Gershenson,Self-Organization and Artificial Life: A Review,Carlos Gershenson
+2018-04-03 19:44:09+00:00,Vito Trianni,Self-Organization and Artificial Life: A Review,Vito Trianni
+2018-04-03 19:44:09+00:00,Justin Werfel,Self-Organization and Artificial Life: A Review,Justin Werfel
+2018-04-03 19:44:09+00:00,Hiroki Sayama,Self-Organization and Artificial Life: A Review,Hiroki Sayama
+2018-03-09 10:17:18+00:00,Joel Lehman,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Joel Lehman
+2018-03-09 10:17:18+00:00,Jeff Clune,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Jeff Clune
+2018-03-09 10:17:18+00:00,Dusan Misevic,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Dusan Misevic
+2018-03-09 10:17:18+00:00,Christoph Adami,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Christoph Adami
+2018-03-09 10:17:18+00:00,Lee Altenberg,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Lee Altenberg
+2018-03-09 10:17:18+00:00,Julie Beaulieu,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Julie Beaulieu
+2018-03-09 10:17:18+00:00,Peter J. Bentley,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Peter J. Bentley
+2018-03-09 10:17:18+00:00,Samuel Bernard,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Samuel Bernard
+2018-03-09 10:17:18+00:00,Guillaume Beslon,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Guillaume Beslon
+2018-03-09 10:17:18+00:00,David M. Bryson,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,David M. Bryson
+2018-03-09 10:17:18+00:00,Patryk Chrabaszcz,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Patryk Chrabaszcz
+2018-03-09 10:17:18+00:00,Nick Cheney,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Nick Cheney
+2018-03-09 10:17:18+00:00,Antoine Cully,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Antoine Cully
+2018-03-09 10:17:18+00:00,Stephane Doncieux,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Stephane Doncieux
+2018-03-09 10:17:18+00:00,Fred C. Dyer,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Fred C. Dyer
+2018-03-09 10:17:18+00:00,Kai Olav Ellefsen,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Kai Olav Ellefsen
+2018-03-09 10:17:18+00:00,Robert Feldt,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Robert Feldt
+2018-03-09 10:17:18+00:00,Stephan Fischer,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Stephan Fischer
+2018-03-09 10:17:18+00:00,Stephanie Forrest,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Stephanie Forrest
+2018-03-09 10:17:18+00:00,Antoine Frénoy,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Antoine Frénoy
+2018-03-09 10:17:18+00:00,Christian Gagné,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Christian Gagné
+2018-03-09 10:17:18+00:00,Leni Le Goff,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Leni Le Goff
+2018-03-09 10:17:18+00:00,Laura M. Grabowski,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Laura M. Grabowski
+2018-03-09 10:17:18+00:00,Babak Hodjat,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Babak Hodjat
+2018-03-09 10:17:18+00:00,Frank Hutter,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Frank Hutter
+2018-03-09 10:17:18+00:00,Laurent Keller,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Laurent Keller
+2018-03-09 10:17:18+00:00,Carole Knibbe,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Carole Knibbe
+2018-03-09 10:17:18+00:00,Peter Krcah,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Peter Krcah
+2018-03-09 10:17:18+00:00,Richard E. Lenski,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Richard E. Lenski
+2018-03-09 10:17:18+00:00,Hod Lipson,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Hod Lipson
+2018-03-09 10:17:18+00:00,Robert MacCurdy,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Robert MacCurdy
+2018-03-09 10:17:18+00:00,Carlos Maestre,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Carlos Maestre
+2018-03-09 10:17:18+00:00,Risto Miikkulainen,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Risto Miikkulainen
+2018-03-09 10:17:18+00:00,Sara Mitri,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Sara Mitri
+2018-03-09 10:17:18+00:00,David E. Moriarty,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,David E. Moriarty
+2018-03-09 10:17:18+00:00,Jean-Baptiste Mouret,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Jean-Baptiste Mouret
+2018-03-09 10:17:18+00:00,Anh Nguyen,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Anh Nguyen
+2018-03-09 10:17:18+00:00,Charles Ofria,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Charles Ofria
+2018-03-09 10:17:18+00:00,Marc Parizeau,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Marc Parizeau
+2018-03-09 10:17:18+00:00,David Parsons,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,David Parsons
+2018-03-09 10:17:18+00:00,Robert T. Pennock,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Robert T. Pennock
+2018-03-09 10:17:18+00:00,William F. Punch,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,William F. Punch
+2018-03-09 10:17:18+00:00,Thomas S. Ray,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Thomas S. Ray
+2018-03-09 10:17:18+00:00,Marc Schoenauer,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Marc Schoenauer
+2018-03-09 10:17:18+00:00,Eric Shulte,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Eric Shulte
+2018-03-09 10:17:18+00:00,Karl Sims,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Karl Sims
+2018-03-09 10:17:18+00:00,Kenneth O. Stanley,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Kenneth O. Stanley
+2018-03-09 10:17:18+00:00,François Taddei,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,François Taddei
+2018-03-09 10:17:18+00:00,Danesh Tarapore,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Danesh Tarapore
+2018-03-09 10:17:18+00:00,Simon Thibault,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Simon Thibault
+2018-03-09 10:17:18+00:00,Westley Weimer,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Westley Weimer
+2018-03-09 10:17:18+00:00,Richard Watson,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Richard Watson
+2018-03-09 10:17:18+00:00,Jason Yosinski,The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities,Jason Yosinski
+2017-12-18 18:16:51+00:00,Joel Lehman,Safe Mutations for Deep and Recurrent Neural Networks through Output Gradients,Joel Lehman
+2017-12-18 18:16:51+00:00,Jay Chen,Safe Mutations for Deep and Recurrent Neural Networks through Output Gradients,Jay Chen
+2017-12-18 18:16:51+00:00,Jeff Clune,Safe Mutations for Deep and Recurrent Neural Networks through Output Gradients,Jeff Clune
+2017-12-18 18:16:51+00:00,Kenneth O. Stanley,Safe Mutations for Deep and Recurrent Neural Networks through Output Gradients,Kenneth O. Stanley
+2017-11-26 19:44:41+00:00,U. Alvarez-Rodriguez,Quantum Artificial Life in an IBM Quantum Computer,U. Alvarez-Rodriguez
+2017-11-26 19:44:41+00:00,M. Sanz,Quantum Artificial Life in an IBM Quantum Computer,M. Sanz
+2017-11-26 19:44:41+00:00,L. Lamata,Quantum Artificial Life in an IBM Quantum Computer,L. Lamata
+2017-11-26 19:44:41+00:00,E. Solano,Quantum Artificial Life in an IBM Quantum Computer,E. Solano
+2017-09-02 18:05:13+00:00,Juan-Julián Merelo-Guervós,"Artificial life, complex systems and cloud computing: a short review",Juan-Julián Merelo-Guervós
+2017-06-04 08:16:03+00:00,Huimin Lu,Brain Intelligence: Go Beyond Artificial Intelligence,Huimin Lu
+2017-06-04 08:16:03+00:00,Yujie Li,Brain Intelligence: Go Beyond Artificial Intelligence,Yujie Li
+2017-06-04 08:16:03+00:00,Min Chen,Brain Intelligence: Go Beyond Artificial Intelligence,Min Chen
+2017-06-04 08:16:03+00:00,Hyoungseop Kim,Brain Intelligence: Go Beyond Artificial Intelligence,Hyoungseop Kim
+2017-06-04 08:16:03+00:00,Seiichi Serikawa,Brain Intelligence: Go Beyond Artificial Intelligence,Seiichi Serikawa
+2016-09-25 10:00:41+00:00,Thomas Schmickl,Sooner than Expected: Hitting the Wall of Complexity in Evolution,Thomas Schmickl
+2016-09-25 10:00:41+00:00,Payam Zahadat,Sooner than Expected: Hitting the Wall of Complexity in Evolution,Payam Zahadat
+2016-09-25 10:00:41+00:00,Heiko Hamann,Sooner than Expected: Hitting the Wall of Complexity in Evolution,Heiko Hamann
+2016-09-16 09:30:40+00:00,Jean-Paul Delahaye,Organized Complexity: is Big History a Big Computation?,Jean-Paul Delahaye
+2016-09-16 09:30:40+00:00,Clement Vidal,Organized Complexity: is Big History a Big Computation?,Clement Vidal
+2016-08-18 19:05:25+00:00,Roman V. Yampolskiy,On the Origin of Samples: Attribution of Output to a Particular Algorithm,Roman V. Yampolskiy
+2016-07-09 16:29:54+00:00,Ahmad A. Masoud,"Decentralized, Self-organizing, Potential field-based Control for Individuallymotivated, Mobile Agents in a Cluttered Environment: A Vector-Harmonic Potential Field Approach",Ahmad A. Masoud
+2016-05-18 18:18:38+00:00,Martin Biehl,Towards information based spatiotemporal patterns as a foundation for agent representation in dynamical systems,Martin Biehl
+2016-05-18 18:18:38+00:00,Takashi Ikegami,Towards information based spatiotemporal patterns as a foundation for agent representation in dynamical systems,Takashi Ikegami
+2016-05-18 18:18:38+00:00,Daniel Polani,Towards information based spatiotemporal patterns as a foundation for agent representation in dynamical systems,Daniel Polani
+2015-12-07 15:53:48+00:00,Tim Taylor,"Digital Genesis: Computers, Evolution and Artificial Life",Tim Taylor
+2015-12-07 15:53:48+00:00,Alan Dorin,"Digital Genesis: Computers, Evolution and Artificial Life",Alan Dorin
+2015-12-07 15:53:48+00:00,Kevin Korb,"Digital Genesis: Computers, Evolution and Artificial Life",Kevin Korb
+2015-10-27 16:16:22+00:00,Dan Lessin,Increasing Behavioral Complexity for Evolved Virtual Creatures with the ESP Method,Dan Lessin
+2015-10-27 16:16:22+00:00,Don Fussell,Increasing Behavioral Complexity for Evolved Virtual Creatures with the ESP Method,Don Fussell
+2015-10-27 16:16:22+00:00,Risto Miikkulainen,Increasing Behavioral Complexity for Evolved Virtual Creatures with the ESP Method,Risto Miikkulainen
+2015-10-27 16:16:22+00:00,Sebastian Risi,Increasing Behavioral Complexity for Evolved Virtual Creatures with the ESP Method,Sebastian Risi
+2015-09-02 07:18:20+00:00,Norbert Bátfai,Turing's Imitation Game has been Improved,Norbert Bátfai
+2015-05-14 16:03:46+00:00,U. Alvarez-Rodriguez,Artificial Life in Quantum Technologies,U. Alvarez-Rodriguez
+2015-05-14 16:03:46+00:00,M. Sanz,Artificial Life in Quantum Technologies,M. Sanz
+2015-05-14 16:03:46+00:00,L. Lamata,Artificial Life in Quantum Technologies,L. Lamata
+2015-05-14 16:03:46+00:00,E. Solano,Artificial Life in Quantum Technologies,E. Solano
+2015-03-17 16:21:07+00:00,Keyan Ghazi-Zahedi,Quantifying Morphological Computation based on an Information Decomposition of the Sensorimotor Loop,Keyan Ghazi-Zahedi
+2015-03-17 16:21:07+00:00,Johannes Rauh,Quantifying Morphological Computation based on an Information Decomposition of the Sensorimotor Loop,Johannes Rauh
+2014-12-20 22:35:48+00:00,Hector Zenil,Quantifying Natural and Artificial Intelligence in Robots and Natural Systems with an Algorithmic Behavioural Test,Hector Zenil
+2014-11-13 23:48:47+00:00,Russell Standish,Mechanical generation of networks with surplus complexity,Russell Standish
+2014-08-14 13:11:15+00:00,Joseph T. Lizier,JIDT: An information-theoretic toolkit for studying the dynamics of complex systems,Joseph T. Lizier
+2014-06-10 11:00:54+00:00,Tim Taylor,WebAL-1: Workshop on Artificial Life and the Web 2014 Proceedings,Tim Taylor
+2014-03-31 15:25:34+00:00,Marius Buliga,"Chemlambda, universality and self-multiplication",Marius Buliga
+2014-03-31 15:25:34+00:00,Louis H. Kauffman,"Chemlambda, universality and self-multiplication",Louis H. Kauffman
+2014-01-13 14:12:10+00:00,Jean-Louis Sikorav,Foundations of biology,Jean-Louis Sikorav
+2014-01-13 14:12:10+00:00,Alan Braslau,Foundations of biology,Alan Braslau
+2014-01-13 14:12:10+00:00,Arach Goldar,Foundations of biology,Arach Goldar
+2014-01-09 19:13:02+00:00,Carlos Pedro Gonçalves,Emotional Responses in Artificial Agent-Based Systems: Reflexivity and Adaptation in Artificial Life,Carlos Pedro Gonçalves
+2013-12-10 15:56:53+00:00,Norbert Rimoux,mARC: Memory by Association and Reinforcement of Contexts,Norbert Rimoux
+2013-12-10 15:56:53+00:00,Patrice Descourt,mARC: Memory by Association and Reinforcement of Contexts,Patrice Descourt
+2013-11-11 18:58:46+00:00,Tom Froese,Motility at the origin of life: Its characterization and a model,Tom Froese
+2013-11-11 18:58:46+00:00,Nathaniel Virgo,Motility at the origin of life: Its characterization and a model,Nathaniel Virgo
+2013-11-11 18:58:46+00:00,Takashi Ikegami,Motility at the origin of life: Its characterization and a model,Takashi Ikegami
+2013-09-27 06:27:53+00:00,Alex Graudenzi,Proceedings Wivace 2013 - Italian Workshop on Artificial Life and Evolutionary Computation,Alex Graudenzi
+2013-09-27 06:27:53+00:00,Giulio Caravagna,Proceedings Wivace 2013 - Italian Workshop on Artificial Life and Evolutionary Computation,Giulio Caravagna
+2013-09-27 06:27:53+00:00,Giancarlo Mauri,Proceedings Wivace 2013 - Italian Workshop on Artificial Life and Evolutionary Computation,Giancarlo Mauri
+2013-09-27 06:27:53+00:00,Marco Antoniotti,Proceedings Wivace 2013 - Italian Workshop on Artificial Life and Evolutionary Computation,Marco Antoniotti
+2013-08-27 00:25:04+00:00,Thao Dang,Proceedings Second International Workshop on Hybrid Systems and Biology,Thao Dang
+2013-08-27 00:25:04+00:00,Carla Piazza,Proceedings Second International Workshop on Hybrid Systems and Biology,Carla Piazza
+2013-03-14 13:24:25+00:00,Joseph T. Lizier,Towards a Synergy-based Approach to Measuring Information Modification,Joseph T. Lizier
+2013-03-14 13:24:25+00:00,Benjamin Flecker,Towards a Synergy-based Approach to Measuring Information Modification,Benjamin Flecker
+2013-03-14 13:24:25+00:00,Paul L. Williams,Towards a Synergy-based Approach to Measuring Information Modification,Paul L. Williams
+2012-02-09 11:12:09+00:00,Murtaza Hussain Shaikh,Arduino Tool: For Interactive Artwork Installations,Murtaza Hussain Shaikh
+2011-12-21 01:57:31+00:00,Larry Yaeger,Passive and Driven Trends in the Evolution of Complexity,Larry Yaeger
+2011-12-21 01:57:31+00:00,Virgil Griffith,Passive and Driven Trends in the Evolution of Complexity,Virgil Griffith
+2011-12-21 01:57:31+00:00,Olaf Sporns,Passive and Driven Trends in the Evolution of Complexity,Olaf Sporns
+2011-04-29 02:28:50+00:00,Carlos Gershenson,Complex Networks,Carlos Gershenson
+2011-04-29 02:28:50+00:00,Mikhail Prokopenko,Complex Networks,Mikhail Prokopenko
+2010-12-13 21:40:21+00:00,Andrzej Gecow,The differences between natural and artificial life. Towards a definition of life,Andrzej Gecow
+2010-11-28 09:10:11+00:00,Gene I. Sher,DXNN Platform: The Shedding of Biological Inefficiencies,Gene I. Sher
+2010-11-18 14:34:34+00:00,Melanie Moses,"Biologically Inspired Design Principles for Scalable, Robust, Adaptive, Decentralized Search and Automated Response (RADAR)",Melanie Moses
+2010-11-18 14:34:34+00:00,Soumya Banerjee,"Biologically Inspired Design Principles for Scalable, Robust, Adaptive, Decentralized Search and Automated Response (RADAR)",Soumya Banerjee
+2010-08-23 11:52:47+00:00,Russell K. Standish,Network Complexity of Foodwebs,Russell K. Standish
+2009-12-30 17:38:30+00:00,Clement Vidal,The Evolution and Development of the Universe,Clement Vidal
+2009-12-30 17:38:30+00:00,Charles Auffray,The Evolution and Development of the Universe,Charles Auffray
+2009-12-30 17:38:30+00:00,Alex H. Blin,The Evolution and Development of the Universe,Alex H. Blin
+2009-12-30 17:38:30+00:00,Jean Chaline,The Evolution and Development of the Universe,Jean Chaline
+2009-12-30 17:38:30+00:00,Louis Crane,The Evolution and Development of the Universe,Louis Crane
+2009-12-30 17:38:30+00:00,Thomas Durt,The Evolution and Development of the Universe,Thomas Durt
+2009-12-30 17:38:30+00:00,Borje Ekstig,The Evolution and Development of the Universe,Borje Ekstig
+2009-12-30 17:38:30+00:00,Horace Fairlamb,The Evolution and Development of the Universe,Horace Fairlamb
+2009-12-30 17:38:30+00:00,Jan Greben,The Evolution and Development of the Universe,Jan Greben
+2009-12-30 17:38:30+00:00,Rob Hengeveld,The Evolution and Development of the Universe,Rob Hengeveld
+2009-12-30 17:38:30+00:00,Francis Heylighen,The Evolution and Development of the Universe,Francis Heylighen
+2009-12-30 17:38:30+00:00,Gerard Jagers op Akkerhuis,The Evolution and Development of the Universe,Gerard Jagers op Akkerhuis
+2009-12-30 17:38:30+00:00,Giuseppe Longo,The Evolution and Development of the Universe,Giuseppe Longo
+2009-12-30 17:38:30+00:00,Nicolas F. Lori,The Evolution and Development of the Universe,Nicolas F. Lori
+2009-12-30 17:38:30+00:00,Denis Noble,The Evolution and Development of the Universe,Denis Noble
+2009-12-30 17:38:30+00:00,Laurent Nottale,The Evolution and Development of the Universe,Laurent Nottale
+2009-12-30 17:38:30+00:00,Franc Rottiers,The Evolution and Development of the Universe,Franc Rottiers
+2009-12-30 17:38:30+00:00,Stanley Salthe,The Evolution and Development of the Universe,Stanley Salthe
+2009-12-30 17:38:30+00:00,John Stewart,The Evolution and Development of the Universe,John Stewart
+2009-12-30 17:38:30+00:00,Ruediger Vaas,The Evolution and Development of the Universe,Ruediger Vaas
+2009-12-30 17:38:30+00:00,Gertrudis Van de Vijver,The Evolution and Development of the Universe,Gertrudis Van de Vijver
+2009-12-30 17:38:30+00:00,Nico M. van Straalen,The Evolution and Development of the Universe,Nico M. van Straalen
+2009-01-12 16:35:58+00:00,Janardan Misra,Towards a Framework for Observing Artificial Evolutionary Systems,Janardan Misra
+2009-01-03 17:37:15+00:00,Janrdan Misra,Thoughts on an Unified Framework for Artificial Chemistries,Janrdan Misra
+2009-01-03 17:35:49+00:00,Janardan Misra,Design of a P System based Artificial Graph Chemistry,Janardan Misra
+2008-10-17 15:31:02+00:00,Claudio Conti,The Enlightened Game of Life,Claudio Conti
+2007-12-21 14:18:21+00:00,Michael B. Mensky,Postcorrection and mathematical model of life in Extended Everett's Concept,Michael B. Mensky
+2007-10-19 20:46:09+00:00,Carlos Gershenson,Evolution of Complexity,Carlos Gershenson
+2007-10-19 20:46:09+00:00,Tom Lenaerts,Evolution of Complexity,Tom Lenaerts
+2007-06-04 16:08:22+00:00,D. A. Sofge,Challenges and Opportunities of Evolutionary Robotics,D. A. Sofge
+2007-06-04 16:08:22+00:00,M. A. Potter,Challenges and Opportunities of Evolutionary Robotics,M. A. Potter
+2007-06-04 16:08:22+00:00,M. D. Bugajska,Challenges and Opportunities of Evolutionary Robotics,M. D. Bugajska
+2007-06-04 16:08:22+00:00,A. C. Schultz,Challenges and Opportunities of Evolutionary Robotics,A. C. Schultz
+2006-12-13 15:59:36+00:00,Andrei Khrennikov,A number theoretical observation about the degeneracy of the genetic code,Andrei Khrennikov
+2006-12-13 15:59:36+00:00,Marcus Nilsson,A number theoretical observation about the degeneracy of the genetic code,Marcus Nilsson
+2006-04-26 14:35:35+00:00,Carlos Gershenson,Evolution of Complexity: Introduction to the Workshop,Carlos Gershenson
+2006-04-26 14:35:35+00:00,Tom Lenaerts,Evolution of Complexity: Introduction to the Workshop,Tom Lenaerts
+2006-04-13 06:12:27+00:00,Russell K. Standish,The influence of parsimony and randomness on complexity growth in Tierra,Russell K. Standish
+2005-12-01 04:39:30+00:00,Carlos Fernandes,Self-Regulated Artificial Ant Colonies on Digital Image Habitats,Carlos Fernandes
+2005-12-01 04:39:30+00:00,Vitorino Ramos,Self-Regulated Artificial Ant Colonies on Digital Image Habitats,Vitorino Ramos
+2005-12-01 04:39:30+00:00,Agostinho C. Rosa,Self-Regulated Artificial Ant Colonies on Digital Image Habitats,Agostinho C. Rosa
+2005-02-13 18:20:48+00:00,J. -Ph Rennard,Perspectives for Strong Artificial Life,J. -Ph Rennard
+2004-11-10 12:22:11+00:00,Arun K. Pati,Replication and Evolution of Quantum Species,Arun K. Pati
+2004-08-02 19:58:23+00:00,Carlos Gershenson,Introduction to Random Boolean Networks,Carlos Gershenson
+2004-06-02 00:15:02+00:00,P. Ao,Possible Laws for Artificial Life Evolution,P. Ao
+2003-08-27 13:32:29+00:00,Zsolt Palotai,Centralized reward system gives rise to fast and efficient work sharing for intelligent Internet agents lacking direct communication,Zsolt Palotai
+2003-08-27 13:32:29+00:00,Sandor Mandusitz,Centralized reward system gives rise to fast and efficient work sharing for intelligent Internet agents lacking direct communication,Sandor Mandusitz
+2003-08-27 13:32:29+00:00,Andras Lorincz,Centralized reward system gives rise to fast and efficient work sharing for intelligent Internet agents lacking direct communication,Andras Lorincz
+2003-04-15 19:33:45+00:00,Arnold Smith,Self-Replicating Machines in Continuous Space with Virtual Physics,Arnold Smith
+2003-04-15 19:33:45+00:00,Peter Turney,Self-Replicating Machines in Continuous Space with Virtual Physics,Peter Turney
+2003-04-15 19:33:45+00:00,Robert Ewaschuk,Self-Replicating Machines in Continuous Space with Virtual Physics,Robert Ewaschuk
+2002-12-08 00:26:49+00:00,Arnold Smith,JohnnyVon: Self-Replicating Automata in Continuous Two-Dimensional Space,Arnold Smith
+2002-12-08 00:26:49+00:00,Peter Turney,JohnnyVon: Self-Replicating Automata in Continuous Two-Dimensional Space,Peter Turney
+2002-12-08 00:26:49+00:00,Robert Ewaschuk,JohnnyVon: Self-Replicating Automata in Continuous Two-Dimensional Space,Robert Ewaschuk
+2002-10-15 04:29:12+00:00,Russell K. Standish,Open-Ended Artificial Evolution,Russell K. Standish
+2002-10-15 04:23:27+00:00,Russell K. Standish,Diversity Evolution,Russell K. Standish
+2002-09-22 00:30:08+00:00,C. Adami,Ab Initio Modeling of Ecosystems with Artificial Life,C. Adami
+2002-05-13 10:49:48+00:00,Jing Han,From Alife Agents to a Kingdom of N Queens,Jing Han
+2002-05-13 10:49:48+00:00,Jiming Liu,From Alife Agents to a Kingdom of N Queens,Jiming Liu
+2002-05-13 10:49:48+00:00,Qingsheng Cai,From Alife Agents to a Kingdom of N Queens,Qingsheng Cai
+2001-03-16 23:23:24+00:00,Torbjörn Lundh,In search of an evolutionary coding style,Torbjörn Lundh
+2000-01-10 03:13:29+00:00,Russell K. Standish,Some Techniques for the Measurement of Complexity in Tierra,Russell K. Standish
+2000-01-10 02:59:21+00:00,Russell K. Standish,Evolution in the Multiverse,Russell K. Standish
+1999-03-05 01:09:04+00:00,Christoph Adami,Critical and Near-Critical Branching Processes,Christoph Adami
+1999-03-05 01:09:04+00:00,Johan Chu,Critical and Near-Critical Branching Processes,Johan Chu
+1998-12-11 20:51:38+00:00,Babak Hodjat,The Self-Organizing Symbiotic Agent,Babak Hodjat
+1998-12-11 20:51:38+00:00,Makoto Amamiya,The Self-Organizing Symbiotic Agent,Makoto Amamiya
+1998-09-23 11:01:55+00:00,Peter J Bentley,Aspects of Evolutionary Design by Computers,Peter J Bentley
+1997-02-04 18:37:29+00:00,M. E. J. Newman,"Comment on ""Self-organized criticality in living systems"" by C. Adami",M. E. J. Newman
+1997-02-04 18:37:29+00:00,Simon M. Fraser,"Comment on ""Self-organized criticality in living systems"" by C. Adami",Simon M. Fraser
+1997-02-04 18:37:29+00:00,Kim Sneppen,"Comment on ""Self-organized criticality in living systems"" by C. Adami",Kim Sneppen
+1997-02-04 18:37:29+00:00,William A. Tozier,"Comment on ""Self-organized criticality in living systems"" by C. Adami",William A. Tozier
+1996-05-14 20:16:24+00:00,Johan Chu,Propagation of Information in Populations of Self-Replicating Code,Johan Chu
+1996-05-14 20:16:24+00:00,Chris Adami,Propagation of Information in Populations of Self-Replicating Code,Chris Adami
+1994-12-27 00:00:07+00:00,Dan Ashlock,Preferential Partner Selection in an Evolutionary Study of Prisoner's Dilemma,Dan Ashlock
+1994-12-27 00:00:07+00:00,Mark D. Smucker,Preferential Partner Selection in an Evolutionary Study of Prisoner's Dilemma,Mark D. Smucker
+1994-12-27 00:00:07+00:00,E. Ann Stanley,Preferential Partner Selection in an Evolutionary Study of Prisoner's Dilemma,E. Ann Stanley
+1994-12-27 00:00:07+00:00,Leigh Tesfatsion,Preferential Partner Selection in an Evolutionary Study of Prisoner's Dilemma,Leigh Tesfatsion
+1994-05-16 21:29:34+00:00,Chris Adami,"Evolutionary Learning in the 2D Artificial Life System ""Avida""",Chris Adami
+1994-05-16 21:29:34+00:00,C. Titus Brown,"Evolutionary Learning in the 2D Artificial Life System ""Avida""",C. Titus Brown
+1993-06-11 03:26:04+00:00,Mark M. Millonas,"Swarms, Phase Transitions, and Collective Intelligence",Mark M. Millonas

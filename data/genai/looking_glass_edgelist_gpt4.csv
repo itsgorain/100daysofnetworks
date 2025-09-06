@@ -1,0 +1,147 @@
+idx,source,target,reasoning,support_text
+0,Alice,Dinah,"Alice interacts with Dinah, referring to her in the context of actions related to the kittens.","Really, Dinah ought to have taught you better manners!"
+1,Alice,Kitten,"Alice talks to the kitten, expressing her thoughts and giving it commands.","Oh, you wicked little thing! cried Alice, catching up the kitten."
+2,Alice,Black Kitten,Alice references the black kitten while discussing the kitten's behavior.,But the black kitten had been finished with earlier in the afternoon.
+3,Alice,White Kitten,Alice interacts with the white kitten while addressing its faults.,You squeaked twice while Dinah was washing your face this morning.
+4,Alice,Snowdrop,Alice references Snowdrop when discussing the kitten's actions while serving milk.,you pulled Snowdrop away by the tail just as I had put down the saucer of milk before her!
+5,Alice,Red Queen,Alice pretends that the kitten is the Red Queen in a playful imagination.,"Let s pretend that you re the Red Queen, Kitty!"
+6,Alice,White King,Alice interacts with the White King and helps him.,"Alice picked him up very gently, and lifted him across more slowly."
+7,Alice,White Queen,Alice assists the White Queen and interacts with her as they deal with the situation involving Lily.,"the Queen gasped, and sat down: the rapid journey through the air had quite taken away her breath."
+8,White Queen,Lily,"The White Queen expresses concern for her daughter, Lily.",My precious Lily! My imperial kitten!
+9,White King,White Queen,The White King and White Queen interact while discussing the events happening around them.,You haven t got any whiskers.
+10,Alice,Tiger-Lily,"They interact when Alice wishes the flower could talk, and the Tiger-lily responds.","O Tiger-lily, said Alice, addressing herself to one that was waving gracefully about in the wind, I _wish_ you could talk! We _can_ talk, said the Tiger-lily."
+11,Alice,Rose,"Alice speaks to the Rose, and the Rose comments on Alice's appearance.","It isn t manners for us to begin, you know, said the Rose, and I really was wondering when you d speak!"
+12,Alice,Daisy,Alice interacts with the Daisy as the Daisy comments on the tree.,"There s the tree in the middle, said the Rose: what else is it good for?"
+13,Alice,Violet,"The Violet criticizes Alice, creating an interaction.","I never saw anybody that looked stupider, a Violet said, so suddenly, that Alice quite jumped; for it hadn t spoken before."
+14,Alice,Red Queen,"Alice has several interactions with the Red Queen, including questions and directions.","Look up, speak nicely, and don t twiddle your fingers all the time."
+15,Alice,Larkspur,"Larkspur announces the arrival of the Red Queen, prompting an interaction.",She’s coming! cried the Larkspur.
+16,Red Queen,Rose,"Rose advises Alice against approaching the Queen, showing the Queen's authority.","You can’t possibly do that, said the Rose: _I_ should advise you to walk the other way."
+17,Red Queen,Tiger-Lily,Tiger-Lily interacts with the situation by commenting critically on the flowers.,"Silence, every one of you! cried the Tiger-lily, waving itself passionately from side to side."
+18,Tiger-Lily,Daisy,Tiger-Lily and Daisy interact about noise in the garden.,"The daisies are worst of all. When one speaks, they all begin together, and it s enough to make one wither to hear the way they go on!"
+19,Alice,Tweedledum,Alice hears about Tweedledum from the Queen.,"Well, _that_ square belongs to Tweedledum and Tweedledee."
+20,Alice,Tweedledee,Alice hears about Tweedledee from the Queen.,"Well, _that_ square belongs to Tweedledum and Tweedledee."
+21,Alice,Humpty Dumpty,Alice hears about Humpty Dumpty from the Queen during her directions.,the Sixth belongs to Humpty Dumpty
+22,Alice,Elephant,Undirected edge as Alice observes and interacts with the elephant while trying to understand the creatures making honey.,"However, this was anything but a regular bee: in fact it was an elephant as Alice soon found out, though the idea quite took her breath away at first."
+23,Alice,Guard,Undirected edge since Alice directly interacts with the Guard when he's asking for tickets.,"Now then! Show your ticket, child! the Guard went on, looking angrily at Alice."
+24,Alice,Goat,Undirected edge as Alice is in the same carriage with the Goat and interacts with it through a conversation.,"A Goat, that was sitting next to the gentleman in white, shut his eyes and said in a loud voice, She ought to know her way to the ticket-office, even if she doesn t know her alphabet!"
+25,Alice,Beetle,Undirected edge since Beetle is present with Alice in the carriage and contributes to the conversation.,"There was a Beetle sitting next to the Goat (it was a very queer carriage-full of passengers altogether), and, as the rule seemed to be that they should all speak in turn, he went on with She ll have to go back from here as luggage!"
+26,Alice,Gentleman,Undirected edge because Alice engages with the Gentleman in the carriage who makes a remark about her.,"So young a child, said the gentleman sitting opposite to her (he was dressed in white paper), ought to know which way she s going, even if she doesn t know her own name!"
+27,Alice,Horse,Undirected edge as Alice thinks about the Horse who made a remark while she is seated in the carriage.,"The Horse, who had put his head out of the window, quietly drew it in and said, It s only a brook we have to jump over."
+28,Alice,Gnat,Undirected edge since Alice converses with the Gnat throughout the text.,"It certainly was a very large Gnat: about the size of a chicken, Alice thought."
+29,Alice,Fawn,"Undirected edge because Alice interacts with the Fawn, holding it and talking to it.","Alice with her arms clasped lovingly round the soft neck of the Fawn, till they came out into another open field."
+30,Fawn,Alice,"Undirected edge since the Fawn expresses its realization about Alice being a human child, highlighting their interaction.","I m a Fawn! it cried out in a voice of delight, and, dear me! you re a human child!"
+31,Tweedledum,Tweedledee,They are interacting while standing under a tree with their arms around each other.,"They were standing under a tree, each with an arm round the other s neck..."
+32,Alice,Tweedledum,Alice points at Tweedledum and interacts with him during their conversation.,"Alice couldn t help pointing her finger at Tweedledum, and saying First Boy!"
+33,Alice,Tweedledee,Alice addresses Tweedledee while passing on to him in their interaction.,"Next Boy! said Alice, passing on to Tweedledee..."
+34,Tweedledum,Tweedledee,"They remark about the importance of shaking hands, showing their interaction.","And here the two brothers gave each other a hug, and then they held out the two hands that were free, to shake hands with her."
+35,Tweedledum,Tweedledee,They both interact in their arguing over logic and conversation topics.,"I m sure I m very sorry, was all Alice could say; for the words of the old song kept ringing through her head..."
+36,Alice,Tweedledum,Alice converses with Tweedledum about poetry and the way out of the wood.,Would you tell me which road leads out of the wood?
+37,Tweedledum,Tweedledee,Tweedledum and Tweedledee interact as they discuss their poetry and the Walrus.,"The Walrus and the Carpenter is the longest, Tweedledum replied..."
+38,Alice,Tweedledee,"Alice interrupts Tweedledee while he recites poetry, showing their interaction.",Alice ventured to interrupt him.
+39,Tweedledum,Tweedledee,They comment on each other's actions and feelings about Alice.,"Why, about _you_! Tweedledee exclaimed, clapping his hands triumphantly."
+40,Tweedledum,Tweedledee,They argue about Alice's reality and interact with each other.,"Ditto said Tweedledum. Ditto, ditto cried Tweedledee."
+41,Alice,Tweedledum,Alice expresses concern for Tweedledum's feelings about the rattle.,You needn t be so angry about an old rattle.
+42,Tweedledum,Tweedledee,They collaborate to get ready for a battle after their quarrel.,Of course you agree to have a battle? Tweedledum said in a calmer tone.
+43,Tweedledum,Alice,"Tweedledum asks Alice to help dress for the battle, linking them in the scene.","So the two brothers went off hand-in-hand into the wood, and returned in a minute with their arms full of things..."
+44,Tweedledum,Alice,Tweedledum discusses his nervousness with Alice while preparing for battle.,"I m very brave generally, he went on in a low voice: only to-day I happen to have a headache."
+45,Alice,Tweedledee,Alice responds to Tweedledee's pain while preparing for the fight.,"And _I ve_ got a toothache! said Tweedledee, who had overheard the remark."
+46,Tweedledum,Tweedledee,They mention each other while deciding on the duration of the fight.,"Let s fight till six, and then have dinner..."
+47,Tweedledum,Tweedledee,"They establish boundaries for Alice during the upcoming battle, indicating their relationship.",and _she_ can watch us only you d better not come _very_ close...
+48,Alice,Tweedledum,Alice humorously engages with Tweedledum about how he might hit during the fight.,"You must hit the _trees_ pretty often, I should think..."
+49,Tweedledum,Tweedledee,"They both show agreement to the battle dynamics, reinforcing their bond.","I don t suppose, he said, there ll be a tree left standing..."
+50,Tweedledum,Alice,"Tweedledum addresses Alice regarding the mysterious crow, linking their actions.",I wish the monstrous crow would come! thought Alice.
+51,Tweedledum,Tweedledee,"They react to the potential threat of the crow, further solidifying their relationship.",It s the crow! Tweedledum cried out in a shrill voice of alarm...
+52,Alice,White Queen,They interact when Alice meets the White Queen and helps her with her shawl.,Alice very civilly went to meet her with the shawl.
+53,Alice,White Queen,"Alice refers to the Queen by her title, establishing her identity.",Am I addressing the White Queen?
+54,White Queen,Alice,"The Queen responds to Alice's questioning, which indicates their interaction.","Well, yes, if you call that a-dressing, The Queen said."
+55,Alice,White Queen,"Alice offers to help the Queen with her shawl, demonstrating their interaction.",may I put your shawl straight for you?
+56,White Queen,Alice,"The Queen expresses her frustration about her appearance to Alice, continuing their conversation.",I’ve been a-dressing myself for the last two hours.
+57,Alice,White Queen,"Alice reflects on the Queen's untidiness, indicating a personal connection during their conversation.","it would have been all the better, as it seemed to Alice, if she had got some one else to dress her."
+58,White Queen,Alice,"The Queen discusses her hair with Alice, indicating shared moments of problem-solving.","And dear me, what a state your hair is in!"
+59,White Queen,Alice,"There is an exchange about the Queen's hair and the brush, furthering their interaction.",The brush has got entangled in it!
+60,Alice,White Queen,Alice helpfully asserts that the shawl needs to be pinned correctly.,"It can’t go straight, you know, if you pin it all on one side."
+61,White Queen,Alice,"The Queen suggests she needs a maid, continuing their friendly interaction.",I’m sure I’ll take you with pleasure!
+62,Alice,White Queen,"Alice declines the Queen’s offer, solidifying their rapport and light-hearted conversation.",I don’t want you to hire me and I don’t care for jam.
+63,Alice,White Queen,"Alice tries to understand the Queen's peculiar systems of time and rules, deepening their dialogue.","I don’t understand you, said Alice."
+64,White Queen,Alice,"The Queen describes her memory process, maintaining the flow of conversation with Alice.","Oh, things that happened the week after next, the Queen replied in a careless tone."
+65,Queen,King,"The Queen references the King’s Messenger, establishing a relationship with Alice.","For instance, now, she went on, sticking a large piece of plaster on her finger as she spoke, there’s the King’s Messenger."
+66,Alice,White Queen,"Alice questions the Queen about punishment, leading to more interplay between the characters.","Yes, but then I had done the things I was punished for, said Alice."
+67,White Queen,Alice,"The Queen challenges Alice's views on punishment, continuing their discussion.","And you were all the better for it, I know!"
+68,White Queen,Alice,"The Queen expresses distress about her finger, prompting Alice’s concern.",My finger’s bleeding!
+69,Alice,White Queen,"Alice inquires about the Queen's injury, showing her empathy.","What is the matter? she said, as soon as there was a chance of making herself heard."
+70,White Queen,Alice,"The Queen complains about her imminent pain despite not being hurt yet, indicating interaction.","I haven’t pricked it yet, the Queen said."
+71,Alice,Queen,"Alice expresses her amusement at the Queen's worry about pricking her finger, validating their relationship.","Alice asked, feeling very much inclined to laugh."
+72,Alice,Queen,"Alice shares her thoughts about the crow flying away, showcasing her connection with the Queen in the wood.","The crow must have flown away, I think, said Alice."
+73,White Queen,Alice,"The Queen wonders about happiness in the wood, invoking sympathy and connection with Alice.","You must be very happy, living in this wood, and being glad whenever you like!"
+74,White Queen,Alice,"The Queen encourages Alice, maintaining a caring tone in their conversation.","Oh, don’t go on like that! cried the poor Queen, wringing her hands in despair."
+75,Alice,White Queen,"Alice laughs amidst her tears, showing the complex emotions in their interactions.","Alice could not help laughing at this, even in the midst of her tears."
+76,White Queen,Alice,"The Queen probes Alice's age, fostering a sense of familiarity.",Let’s consider your age to begin with how old are you?
+77,Alice,White Queen,"Alice expresses disbelief at the Queen's age, emphasizing their playful dialogue.",I can’t believe that! said Alice.
+78,White Queen,Sheep,The Queen's transformation into a Sheep signifies an interaction with a new character.,She seemed to have suddenly wrapped herself up in wool.
+79,Alice,Sheep,"Alice engages with the Sheep amidst her confusion, establishing a new relationship.",What is it you want to buy? the Sheep said at last.
+80,Alice,Sheep,"Alice expresses her desire to explore the shop, indicating interaction.","I should like to look all round me first, if I might."
+81,Sheep,Alice,"The Sheep explains the limitations of Alice's exploration, reinforcing their engagement.","You may look in front of you, and on both sides, if you like."
+82,Alice,Sheep,"Alice comments on the curious items in the shop, highlighting her interaction with the Sheep.",Things flow about so here! she said at last in a plaintive tone.
+83,Alice,Sheep,"Alice expresses a desire to pick rushes, demonstrating her connection with the Sheep.",I’ll follow it up to the very top shelf of all.
+84,Sheep,Alice,The Sheep attempts to clarify the situation regarding the boat and rushes.,If you don’t mind stopping the boat for a minute.
+85,Alice,Sheep,"Alice reacts to a crab, engaging with the Sheep in conversation about their environment.",A dear little crab! thought Alice.
+86,Alice,Sheep,"Alice humorously insists on the existence of crabs in the water, maintaining their playful interaction.",Are there many crabs here?
+87,Sheep,Alice,"The Sheep asserts the existence of crabs, contributing to the ongoing dialogue.","Crabs, and all sorts of things, said the Sheep."
+88,Alice,Sheep,"Alice expresses her intentions to buy an egg, formalizing her interaction with the Sheep.","I should like to buy an egg, please, she said timidly."
+89,Sheep,Alice,"The Sheep explains egg pricing to Alice, solidifying their transaction-based relationship.","Fivepence farthing for one Twopence for two, the Sheep replied."
+90,Alice,Humpty Dumpty,They interacted in a conversation about names and shapes.,"My _name_ is Alice, but It s a stupid enough name! Humpty Dumpty interrupted impatiently."
+91,Alice,Humpty Dumpty,Alice was concerned for Humpty Dumpty's safety on the wall.,"Don't you think you'd be safer down on the ground? Alice went on, not with any idea of making another riddle, but simply in her good-natured anxiety for the queer creature."
+92,Humpty Dumpty,Alice,Humpty Dumpty offered to shake hands with Alice after their conversation.,"To show you I m not proud, you may shake hands with me!"
+93,Alice,Humpty Dumpty,Alice offered a compliment about Humpty Dumpty's cravat.,What a beautiful belt you ve got on!
+94,Humpty Dumpty,Alice,They discussed the concept of un-birthday presents.,They gave it me for an un-birthday present.
+95,Humpty Dumpty,Alice,Humpty Dumpty explained the meanings of various words to Alice.,I can explain all the poems that were ever invented and a good many that haven t been invented just yet.
+96,Alice,Tweedelee,Alice referenced Tweedledee in a discussion about poetry.,"I had some poetry repeated to me, much easier than that, by Tweedledee, I think it was."
+97,Humpty Dumpty,King,Humpty Dumpty mentioned having spoken to the King.,"I m one that has spoken to a King, _I_ am: mayhap you ll never see such another."
+98,Alice,Humpty Dumpty,Humpty Dumpty and Alice participated in a discussion about the meaning of words.,"The question is, said Alice, whether you _can_ make words mean so many different things."
+99,Alice,Humpty Dumpty,Alice and Humpty Dumpty continued a dialogue about poetry and its meanings.,"Well, a _rath_ is a sort of green pig: but _mome_ I m not certain about."
+100,Alice,White King,Alice interacted with the White King when she found him writing and conversed about the soldiers.,"I found the White King seated on the ground, busily writing in his memorandum-book."
+101,Alice,Haigha,"Alice had a conversation with Haigha, who is introduced to her as the Anglo-Saxon Messenger.",He only does them when he s happy. His name is Haigha.
+102,Alice,Hatta,"Alice was introduced to Hatta, the other Messenger, during a conversation about the fight.",The other Messenger s called Hatta.
+103,King,Haigha,The King speaks to Haigha about needing two Messengers.,"I must have _two_, you know to come and go."
+104,King,Hatta,The King interacts with Hatta when mentioning to check on the fight and providing orders.,Go and order the drums to begin. And Hatta went bounding away like a grasshopper.
+105,Haigha,Hatta,Haigha expresses concern and affection for Hatta's well-being after his prison ordeal.,"How are you, dear child? he went on, putting his arm affectionately round Hatta s neck."
+106,Lion,Unicorn,"The Lion and the Unicorn are engaged in a fight for the crown, directly mentioned multiple times.","Why the Lion and the Unicorn, of course, said the King. Fighting for the crown?"
+107,Lion,Alice,The Lion interacts with Alice when he notices her presence.,"What s this! he said, blinking lazily at Alice."
+108,Unicorn,Alice,The Unicorn interacts with Alice and expresses surprise at her existence.,"Is it alive? It can talk, said Haigha, solemnly."
+109,King,Unicorn,The King converses with the Unicorn about the fight and their rivalry.,"You shouldn t have run him through with your horn, you know."
+110,King,Lion,"The King engages in a conversation with the Lion, particularly regarding their shared situation.","What a fight we might have for the crown, _now_! the Unicorn said, looking slyly up at the crown."
+111,Alice,Red Knight,Alice interacted with the Red Knight when he claimed she was his prisoner.,You re my prisoner! the Knight cried.
+112,Alice,White Knight,Alice interacted with the White Knight when he came to her side.,This time it was a White Knight. He drew up at Alice s side.
+113,Red Knight,White Knight,The Red Knight and the White Knight interacted as they both claimed Alice.,"She s _my_ prisoner, you know! the Red Knight said at last."
+114,Alice,Knight,Alice helped the Knight with his helmet and interacted with him throughout the text.,May I help you off with your helmet?
+115,Knight,Knight,"The Knight spoke about his inventions, indicating a self-reference in his discussion.",I m a great hand at inventing things.
+116,Alice,Knight,Alice observed the Knight inventing things and engaged in conversation with him.,"You see, he went on after a pause, it s as well to be provided for _everything_."
+117,Alice,Knight,Alice consoled the Knight after his song by showing interest in it.,I liked it very much.
+118,Red Knight,White Knight,The Red Knight and the White Knight discussed their battle for Alice.,"Well, we must fight for her, then, said the Red Knight."
+119,Alice,Horse,Alice interacted with the horse by observing its behavior during the Knight's riding.,And how quiet the horses are!
+120,Knight,Horse,The Knight and his horse interacted as the Knight rode it throughout the scene.,he fell off in front; and whenever it went on again...
+121,Alice,Red Queen,Alice was engaged in a conversation with the Red Queen throughout the chapter.,"Please, would you tell me she began, looking timidly at the Red Queen."
+122,Alice,White Queen,Alice interacted with the White Queen and was part of a discussion about various topics.,"I don t know, said Alice. I lost count."
+123,Red Queen,White Queen,The Red Queen and the White Queen were discussing topics together and interacting closely during the chapter.,"She s in that state of mind, said the White Queen, that she wants to deny _something_ only she doesn t know what to deny!"
+124,Alice,Mutton,The Red Queen introduced Alice to the leg of mutton which had a humorous interaction with Alice.,"You look a little shy; let me introduce you to that leg of mutton, said the Red Queen."
+125,White Queen,Red Queen,"The White Queen and the Red Queen were interacting frequently, especially in the context of conversations about Alice.","The White Queen smiled feebly, and said And I invite _you_."
+126,Red Queen,Alice,The Red Queen directed several activities involving Alice during the meal.,Remove the pudding! and the waiters took it away so quickly that Alice couldn t return its bow.
+127,Red Queen,Guests,The Red Queen was engaged with the guests during dinner and issuing commands.,"You ve missed the soup and fish, she said."
+128,White Queen,Alice,The White Queen spoke towards Alice in a supportive manner during their conversation.,Shall she repeat it?
+129,Alice,Frog,"Alice interacted with the Frog, who responded to her questions and comments.",Where s the servant whose business it is to answer the door? she began angrily.
+130,Red Queen,Frog,The Red Queen was part of the conversation and interaction that included the Frog.,"You let _it_ alone, he panted out, as he hobbled back to his tree, and it ll let _you_ alone, you know."
+131,Alice,Looking-Glass Creatures,Alice addressed Looking-Glass creatures during her song invitation.,"Then fill up the glasses as quick as you can, And sprinkle the table with buttons and bran:"
+132,Alice,Guests,Alice interacted with various guests during the dinner.,"There _ought_ to be one marked Queen, you know."
+133,Red Queen,Guests,The Red Queen was involved in directing the actions and inspiring reactions from the guests.,I rise to return thanks Alice began: and she really _did_ rise as she spoke.
+134,White Queen,Guests,"The White Queen was part of the activity during the dinner, supporting Alice.",Her White Majesty knows a lovely riddle all in poetry all about fishes.
+135,Red Queen,Pudding,The Red Queen spoke directly to the pudding during the dining scene.,What impertinence! said the Pudding.
+136,Alice,Alice's Sister,"Alice reflected on her thoughts while she was engaged in the scene, considering what she might tell her sister.","she said afterwards, when she was telling her sister the history of the feast."
+137,Alice,Red Queen,"Alice shakes the Red Queen, indicating interaction.",Shook her backwards and forwards with all her might. The Red Queen made no resistance whatever; only her face grew very small...
+138,Kitten,Waking,"The kitten is mentioned in the context of waking, indicating their presence together in a scene.","Waking and it really _was_ a kitten, after all."
+139,Alice,Kitty,"Alice interacts with the kitten, demonstrating fondness while addressing it in conversation.","You woke me out of oh! such a nice dream! And you ve been along with me, Kitty all through the Looking-Glass world."
+140,Alice,Red Queen,Alice finds the Red Queen and puts her and the kitten together to interact.,"she had found the Red Queen: then she went down on her knees on the hearth-rug, and put the kitten and the Queen to look at each other."
+141,Alice,Dinah,Alice thinks about Dinah's actions and refers to her while talking to the kittens.,I wonder? that must be the reason you were so untidy in my dream Dinah!
+142,Alice,Red King,"Alice contemplates whether it was the Red King who dreamed, showing a connection between them.","You see, Kitty, it must have been either me or the Red King."
+143,Kitty,Red Queen,Kitty and the Red Queen are positioned to interact with each other as per Alice's intention.,put the kitten and the Queen to look at each other.
+144,Dinah,Kitty,"Dinah is mentioned in relation to how she has washed Kitty, establishing their connection.",as if Dinah hadn t washed you this morning!
+145,Kitty,Red King,"Kitty is indirectly called the wife of the Red King, suggesting a connection between them.","You were his wife, my dear, so you ought to know"

@@ -1,0 +1,2027 @@
+source,target,community
+M Charity,Sam Earle,3
+M Charity,Julian Togelius,3
+M Charity,Dipika Rajesh,3
+Dipika Rajesh,Sam Earle,3
+Dipika Rajesh,Julian Togelius,3
+Sam Earle,Julian Togelius,3
+Julian Togelius,Aaron Dharna,3
+Julian Togelius,L. B. Soros,3
+Julian Togelius,Amy K Hoover,3
+Sanyam Jain,Stefano Nichele,7
+Sanyam Jain,Aarati Shrestha,7
+Aarati Shrestha,Stefano Nichele,7
+Stefano Nichele,Erik Aaron Hansen,5
+Stefano Nichele,Hårek Haugerud,5
+Stefano Nichele,Alex Alcocer,5
+Stefano Nichele,Gunnar Tufte,5
+Stefano Nichele,Anis Yazidi,5
+Stefano Nichele,Kristine Heiney,5
+Stefano Nichele,Asieh Abolpour Mofrad,5
+Bert Wang-Chak Chan,Mayalen Etcheverry,18
+Bert Wang-Chak Chan,Pierre-Yves Oudeyer,18
+Bert Wang-Chak Chan,Clément Moulin-Frier,18
+Bert Wang-Chak Chan,Gautier Hamon,18
+Bert Wang-Chak Chan,Erwan Plantec,18
+Yong Zher Koh,Maurice HT Ling,12
+Joel Lehman,Marc Parizeau,17
+Joel Lehman,Julie Beaulieu,17
+Joel Lehman,William F. Punch,17
+Joel Lehman,Kenneth O. Stanley,17
+Joel Lehman,Samuel Bernard,17
+Joel Lehman,Leni Le Goff,17
+Joel Lehman,Marc Schoenauer,17
+Joel Lehman,Risto Miikkulainen,17
+Joel Lehman,Jeff Clune,17
+Joel Lehman,Charles Ofria,17
+Joel Lehman,Adrien Ecoffet,17
+Joel Lehman,Babak Hodjat,17
+Joel Lehman,Danesh Tarapore,17
+Joel Lehman,Antoine Cully,17
+Joel Lehman,Robert MacCurdy,17
+Joel Lehman,Jean-Baptiste Mouret,17
+Joel Lehman,Jason Yosinski,17
+Joel Lehman,Carlos Maestre,17
+Joel Lehman,Westley Weimer,17
+Joel Lehman,Frank Hutter,17
+Joel Lehman,Simon Thibault,17
+Joel Lehman,Sara Mitri,17
+Joel Lehman,Anh Nguyen,17
+Joel Lehman,Lee Altenberg,17
+Joel Lehman,Laurent Keller,17
+Joel Lehman,Christian Gagné,17
+Joel Lehman,David Parsons,17
+Joel Lehman,Carole Knibbe,17
+Joel Lehman,Laura M. Grabowski,17
+Joel Lehman,Richard Watson,17
+Joel Lehman,Stephanie Forrest,17
+Joel Lehman,Robert Feldt,17
+Joel Lehman,Stephane Doncieux,17
+Joel Lehman,Antoine Frénoy,17
+Joel Lehman,Karl Sims,17
+Joel Lehman,Dusan Misevic,17
+Joel Lehman,François Taddei,17
+Joel Lehman,Patryk Chrabaszcz,17
+Joel Lehman,Hod Lipson,17
+Joel Lehman,Fred C. Dyer,17
+Joel Lehman,Eric Shulte,17
+Joel Lehman,Nick Cheney,17
+Joel Lehman,Robert T. Pennock,17
+Joel Lehman,Christoph Adami,17
+Joel Lehman,Peter Krcah,17
+Joel Lehman,Thomas S. Ray,17
+Joel Lehman,Stephan Fischer,17
+Joel Lehman,David M. Bryson,17
+Joel Lehman,Guillaume Beslon,17
+Joel Lehman,Peter J. Bentley,17
+Joel Lehman,Kai Olav Ellefsen,17
+Joel Lehman,David E. Moriarty,17
+Joel Lehman,Jay Chen,17
+Joel Lehman,Richard E. Lenski,17
+Soo Ling Lim,Peter J. Bentley,17
+Peter J. Bentley,Marc Parizeau,17
+Peter J. Bentley,Julie Beaulieu,17
+Peter J. Bentley,William F. Punch,17
+Peter J. Bentley,Kenneth O. Stanley,17
+Peter J. Bentley,Samuel Bernard,17
+Peter J. Bentley,Leni Le Goff,17
+Peter J. Bentley,Marc Schoenauer,17
+Peter J. Bentley,Risto Miikkulainen,17
+Peter J. Bentley,Jeff Clune,17
+Peter J. Bentley,Charles Ofria,17
+Peter J. Bentley,Babak Hodjat,17
+Peter J. Bentley,Danesh Tarapore,17
+Peter J. Bentley,Antoine Cully,17
+Peter J. Bentley,Robert MacCurdy,17
+Peter J. Bentley,Jean-Baptiste Mouret,17
+Peter J. Bentley,Jason Yosinski,17
+Peter J. Bentley,Carlos Maestre,17
+Peter J. Bentley,Westley Weimer,17
+Peter J. Bentley,Frank Hutter,17
+Peter J. Bentley,Simon Thibault,17
+Peter J. Bentley,Sara Mitri,17
+Peter J. Bentley,Anh Nguyen,17
+Peter J. Bentley,Lee Altenberg,17
+Peter J. Bentley,Laurent Keller,17
+Peter J. Bentley,Christian Gagné,17
+Peter J. Bentley,David Parsons,17
+Peter J. Bentley,Carole Knibbe,17
+Peter J. Bentley,Laura M. Grabowski,17
+Peter J. Bentley,Richard Watson,17
+Peter J. Bentley,Stephanie Forrest,17
+Peter J. Bentley,Robert Feldt,17
+Peter J. Bentley,Stephane Doncieux,17
+Peter J. Bentley,Antoine Frénoy,17
+Peter J. Bentley,Karl Sims,17
+Peter J. Bentley,Dusan Misevic,17
+Peter J. Bentley,François Taddei,17
+Peter J. Bentley,Patryk Chrabaszcz,17
+Peter J. Bentley,Hod Lipson,17
+Peter J. Bentley,Fred C. Dyer,17
+Peter J. Bentley,Eric Shulte,17
+Peter J. Bentley,Nick Cheney,17
+Peter J. Bentley,Robert T. Pennock,17
+Peter J. Bentley,Christoph Adami,17
+Peter J. Bentley,Peter Krcah,17
+Peter J. Bentley,Thomas S. Ray,17
+Peter J. Bentley,Stephan Fischer,17
+Peter J. Bentley,David M. Bryson,17
+Peter J. Bentley,Guillaume Beslon,17
+Peter J. Bentley,Kai Olav Ellefsen,17
+Peter J. Bentley,David E. Moriarty,17
+Peter J. Bentley,Richard E. Lenski,17
+Erwan Plantec,Mayalen Etcheverry,18
+Erwan Plantec,Pierre-Yves Oudeyer,18
+Erwan Plantec,Clément Moulin-Frier,18
+Erwan Plantec,Gautier Hamon,18
+Gautier Hamon,Mayalen Etcheverry,18
+Gautier Hamon,Pierre-Yves Oudeyer,18
+Gautier Hamon,Clément Moulin-Frier,18
+Mayalen Etcheverry,Pierre-Yves Oudeyer,18
+Mayalen Etcheverry,Clément Moulin-Frier,18
+Pierre-Yves Oudeyer,Clément Moulin-Frier,18
+Clément Moulin-Frier,Eleni Nisioti,18
+Manuel Baltieri,Keisuke Suzuki,25
+Manuel Baltieri,Olaf Witkowski,25
+Manuel Baltieri,Hiroyuki Iizuka,25
+Manuel Baltieri,Lana Sinapayen,25
+Hiroyuki Iizuka,Keisuke Suzuki,23
+Hiroyuki Iizuka,Olaf Witkowski,23
+Hiroyuki Iizuka,Lana Sinapayen,23
+Olaf Witkowski,Lana Sinapayen,23
+Olaf Witkowski,Keisuke Suzuki,23
+Lana Sinapayen,Eiji Watanabe,23
+Lana Sinapayen,Keisuke Suzuki,23
+John P. Agapiou,Ramona Comanescu,32
+John P. Agapiou,Kavya Kopparapu,32
+John P. Agapiou,Joel Z. Leibo,32
+John P. Agapiou,Jayd Matyas,32
+John P. Agapiou,Yiran Mao,32
+John P. Agapiou,DJ Strouse,32
+John P. Agapiou,Dean Mobbs,32
+John P. Agapiou,Edgar A. Duéñez-Guzmán,32
+John P. Agapiou,Alexander Sasha Vezhnevets,32
+John P. Agapiou,Raphael Köster,32
+John P. Agapiou,Sukhdeep Singh,32
+John P. Agapiou,Julia Haas,32
+John P. Agapiou,Michael B. Johanson,32
+John P. Agapiou,Udari Madhushani,32
+John P. Agapiou,Igor Mordatch,32
+John P. Agapiou,Peter Sunehag,32
+Alexander Sasha Vezhnevets,Kavya Kopparapu,32
+Alexander Sasha Vezhnevets,Ramona Comanescu,32
+Alexander Sasha Vezhnevets,Joel Z. Leibo,32
+Alexander Sasha Vezhnevets,Jayd Matyas,32
+Alexander Sasha Vezhnevets,Yiran Mao,32
+Alexander Sasha Vezhnevets,DJ Strouse,32
+Alexander Sasha Vezhnevets,Dean Mobbs,32
+Alexander Sasha Vezhnevets,Edgar A. Duéñez-Guzmán,32
+Alexander Sasha Vezhnevets,Julia Haas,32
+Alexander Sasha Vezhnevets,Raphael Köster,32
+Alexander Sasha Vezhnevets,Sukhdeep Singh,32
+Alexander Sasha Vezhnevets,Michael B. Johanson,32
+Alexander Sasha Vezhnevets,Udari Madhushani,32
+Alexander Sasha Vezhnevets,Igor Mordatch,32
+Alexander Sasha Vezhnevets,Peter Sunehag,32
+Edgar A. Duéñez-Guzmán,Kavya Kopparapu,32
+Edgar A. Duéñez-Guzmán,Ramona Comanescu,32
+Edgar A. Duéñez-Guzmán,Joel Z. Leibo,32
+Edgar A. Duéñez-Guzmán,Jayd Matyas,32
+Edgar A. Duéñez-Guzmán,Yiran Mao,32
+Edgar A. Duéñez-Guzmán,DJ Strouse,32
+Edgar A. Duéñez-Guzmán,Dean Mobbs,32
+Edgar A. Duéñez-Guzmán,Raphael Köster,32
+Edgar A. Duéñez-Guzmán,Sukhdeep Singh,32
+Edgar A. Duéñez-Guzmán,Julia Haas,32
+Edgar A. Duéñez-Guzmán,Michael B. Johanson,32
+Edgar A. Duéñez-Guzmán,Udari Madhushani,32
+Edgar A. Duéñez-Guzmán,Igor Mordatch,32
+Edgar A. Duéñez-Guzmán,Peter Sunehag,32
+Jayd Matyas,Kavya Kopparapu,32
+Jayd Matyas,Ramona Comanescu,32
+Jayd Matyas,Joel Z. Leibo,32
+Jayd Matyas,Yiran Mao,32
+Jayd Matyas,DJ Strouse,32
+Jayd Matyas,Dean Mobbs,32
+Jayd Matyas,Raphael Köster,32
+Jayd Matyas,Sukhdeep Singh,32
+Jayd Matyas,Julia Haas,32
+Jayd Matyas,Michael B. Johanson,32
+Jayd Matyas,Udari Madhushani,32
+Jayd Matyas,Igor Mordatch,32
+Jayd Matyas,Peter Sunehag,32
+Yiran Mao,Kavya Kopparapu,32
+Yiran Mao,Ramona Comanescu,32
+Yiran Mao,Joel Z. Leibo,32
+Yiran Mao,DJ Strouse,32
+Yiran Mao,Dean Mobbs,32
+Yiran Mao,Raphael Köster,32
+Yiran Mao,Sukhdeep Singh,32
+Yiran Mao,Julia Haas,32
+Yiran Mao,Michael B. Johanson,32
+Yiran Mao,Udari Madhushani,32
+Yiran Mao,Igor Mordatch,32
+Yiran Mao,Peter Sunehag,32
+Peter Sunehag,Kavya Kopparapu,32
+Peter Sunehag,Ramona Comanescu,32
+Peter Sunehag,Joel Z. Leibo,32
+Peter Sunehag,DJ Strouse,32
+Peter Sunehag,Dean Mobbs,32
+Peter Sunehag,Raphael Köster,32
+Peter Sunehag,Julia Haas,32
+Peter Sunehag,Michael B. Johanson,32
+Peter Sunehag,Udari Madhushani,32
+Peter Sunehag,Igor Mordatch,32
+Peter Sunehag,Sukhdeep Singh,32
+Raphael Köster,Kavya Kopparapu,32
+Raphael Köster,Ramona Comanescu,32
+Raphael Köster,Joel Z. Leibo,32
+Raphael Köster,DJ Strouse,32
+Raphael Köster,Dean Mobbs,32
+Raphael Köster,Julia Haas,32
+Raphael Köster,Sukhdeep Singh,32
+Raphael Köster,Michael B. Johanson,32
+Raphael Köster,Udari Madhushani,32
+Raphael Köster,Igor Mordatch,32
+Udari Madhushani,Kavya Kopparapu,32
+Udari Madhushani,Ramona Comanescu,32
+Udari Madhushani,Joel Z. Leibo,32
+Udari Madhushani,DJ Strouse,32
+Udari Madhushani,Dean Mobbs,32
+Udari Madhushani,Sukhdeep Singh,32
+Udari Madhushani,Julia Haas,32
+Udari Madhushani,Michael B. Johanson,32
+Udari Madhushani,Igor Mordatch,32
+Kavya Kopparapu,Ramona Comanescu,32
+Kavya Kopparapu,Joel Z. Leibo,32
+Kavya Kopparapu,DJ Strouse,32
+Kavya Kopparapu,Dean Mobbs,32
+Kavya Kopparapu,Sukhdeep Singh,32
+Kavya Kopparapu,Julia Haas,32
+Kavya Kopparapu,Michael B. Johanson,32
+Kavya Kopparapu,Igor Mordatch,32
+Ramona Comanescu,Joel Z. Leibo,32
+Ramona Comanescu,DJ Strouse,32
+Ramona Comanescu,Dean Mobbs,32
+Ramona Comanescu,Sukhdeep Singh,32
+Ramona Comanescu,Julia Haas,32
+Ramona Comanescu,Michael B. Johanson,32
+Ramona Comanescu,Igor Mordatch,32
+DJ Strouse,Joel Z. Leibo,32
+DJ Strouse,Dean Mobbs,32
+DJ Strouse,Sukhdeep Singh,32
+DJ Strouse,Julia Haas,32
+DJ Strouse,Michael B. Johanson,32
+DJ Strouse,Igor Mordatch,32
+Michael B. Johanson,Joel Z. Leibo,32
+Michael B. Johanson,Dean Mobbs,32
+Michael B. Johanson,Sukhdeep Singh,32
+Michael B. Johanson,Julia Haas,32
+Michael B. Johanson,Igor Mordatch,32
+Sukhdeep Singh,Joel Z. Leibo,32
+Sukhdeep Singh,Dean Mobbs,32
+Sukhdeep Singh,Julia Haas,32
+Sukhdeep Singh,Igor Mordatch,32
+Julia Haas,Joel Z. Leibo,32
+Julia Haas,Dean Mobbs,32
+Julia Haas,Igor Mordatch,32
+Igor Mordatch,Joel Z. Leibo,32
+Igor Mordatch,Dean Mobbs,32
+Dean Mobbs,Joel Z. Leibo,32
+Natalya Weber,Werner Koch,44
+Natalya Weber,Tom Froese,44
+Werner Koch,Tom Froese,44
+Tom Froese,Nathaniel Virgo,44
+Tom Froese,Takashi Ikegami,44
+Stuart Bartlett,David Louapre,47
+Sudev Pradhan,Anshuman Padhi,49
+Sudev Pradhan,Bikash Kumar Behera,49
+Anshuman Padhi,Bikash Kumar Behera,49
+Fabien Furfaro,Avner Bar-Hen,53
+Fabien Furfaro,Geoffroy Berthelot,53
+Avner Bar-Hen,Geoffroy Berthelot,53
+James M. Borg,Andrew Buskell,61
+James M. Borg,Matt Grove,61
+James M. Borg,Fiona Polack,61
+James M. Borg,Rohan Kapitany,61
+James M. Borg,Claudio Tennie,61
+James M. Borg,Simon T. Powers,61
+James M. Borg,Eva Reindl,61
+Andrew Buskell,Rohan Kapitany,61
+Andrew Buskell,Claudio Tennie,61
+Andrew Buskell,Simon T. Powers,61
+Andrew Buskell,Eva Reindl,61
+Rohan Kapitany,Claudio Tennie,61
+Rohan Kapitany,Simon T. Powers,61
+Rohan Kapitany,Eva Reindl,61
+Simon T. Powers,Claudio Tennie,61
+Simon T. Powers,Eva Reindl,61
+Eva Reindl,Claudio Tennie,61
+Aaron Dharna,L. B. Soros,65
+Aaron Dharna,Amy K Hoover,65
+Amy K Hoover,L. B. Soros,65
+Matthew Andres Moreno,Charles Ofria,70
+Matthew Andres Moreno,Santiago Rodriguez Papa,70
+Matthew Andres Moreno,Alexander Lalejini,70
+Alexander Lalejini,Charles Ofria,70
+Alexander Lalejini,Santiago Rodriguez Papa,70
+Charles Ofria,Marc Parizeau,17
+Charles Ofria,Julie Beaulieu,17
+Charles Ofria,William F. Punch,17
+Charles Ofria,Kenneth O. Stanley,17
+Charles Ofria,Samuel Bernard,17
+Charles Ofria,Leni Le Goff,17
+Charles Ofria,Marc Schoenauer,17
+Charles Ofria,Risto Miikkulainen,17
+Charles Ofria,Jeff Clune,17
+Charles Ofria,Babak Hodjat,17
+Charles Ofria,Danesh Tarapore,17
+Charles Ofria,Antoine Cully,17
+Charles Ofria,Robert MacCurdy,17
+Charles Ofria,Jean-Baptiste Mouret,17
+Charles Ofria,Jason Yosinski,17
+Charles Ofria,Carlos Maestre,17
+Charles Ofria,Westley Weimer,17
+Charles Ofria,Frank Hutter,17
+Charles Ofria,Simon Thibault,17
+Charles Ofria,Sara Mitri,17
+Charles Ofria,Anh Nguyen,17
+Charles Ofria,Santiago Rodriguez Papa,17
+Charles Ofria,Lee Altenberg,17
+Charles Ofria,Laurent Keller,17
+Charles Ofria,Christian Gagné,17
+Charles Ofria,David Parsons,17
+Charles Ofria,Carole Knibbe,17
+Charles Ofria,Laura M. Grabowski,17
+Charles Ofria,Richard Watson,17
+Charles Ofria,Stephanie Forrest,17
+Charles Ofria,Robert Feldt,17
+Charles Ofria,Stephane Doncieux,17
+Charles Ofria,Antoine Frénoy,17
+Charles Ofria,Karl Sims,17
+Charles Ofria,Dusan Misevic,17
+Charles Ofria,François Taddei,17
+Charles Ofria,Patryk Chrabaszcz,17
+Charles Ofria,Hod Lipson,17
+Charles Ofria,Fred C. Dyer,17
+Charles Ofria,Eric Shulte,17
+Charles Ofria,Nick Cheney,17
+Charles Ofria,Robert T. Pennock,17
+Charles Ofria,Christoph Adami,17
+Charles Ofria,Peter Krcah,17
+Charles Ofria,Thomas S. Ray,17
+Charles Ofria,Stephan Fischer,17
+Charles Ofria,David M. Bryson,17
+Charles Ofria,Guillaume Beslon,17
+Charles Ofria,Kai Olav Ellefsen,17
+Charles Ofria,David E. Moriarty,17
+Charles Ofria,Richard E. Lenski,17
+Carlos Gershenson,Mikhail Prokopenko,72
+Carlos Gershenson,Tom Lenaerts,72
+Carlos Gershenson,Jitka Cejkova,72
+Carlos Gershenson,Vito Trianni,72
+Carlos Gershenson,Hiroki Sayama,72
+Carlos Gershenson,Justin Werfel,72
+Germán Kruszewski,Tomas Mikolov,79
+Tomas Mikolov,Hugo Cisneros,81
+Tomas Mikolov,Barbora Hudcova,81
+Tomas Mikolov,Josef Sivic,81
+Aymeric Vie,Alissa M. Kleinnijenhuis,90
+Aymeric Vie,Doyne J. Farmer,90
+Karol Gregor,Frederic Besse,82
+Tatjana Škrbić,Achille Giacometti,84
+Tatjana Škrbić,George D. Rose,84
+Tatjana Škrbić,Jayanth R. Banavar,84
+Tatjana Škrbić,Amos Maritan,84
+Amos Maritan,Achille Giacometti,84
+Amos Maritan,George D. Rose,84
+Amos Maritan,Jayanth R. Banavar,84
+Achille Giacometti,George D. Rose,84
+Achille Giacometti,Jayanth R. Banavar,84
+George D. Rose,Jayanth R. Banavar,84
+Alissa M. Kleinnijenhuis,Doyne J. Farmer,90
+Kristine Heiney,Gunnar Tufte,91
+Anya E. Vostinar,Barbara Z. Johnson,95
+Anya E. Vostinar,Kevin Connors,95
+Barbara Z. Johnson,Kevin Connors,95
+Matt Grove,Fiona Polack,63
+Adrien Ecoffet,Jeff Clune,64
+Jeff Clune,Marc Parizeau,17
+Jeff Clune,Julie Beaulieu,17
+Jeff Clune,William F. Punch,17
+Jeff Clune,Kenneth O. Stanley,17
+Jeff Clune,Samuel Bernard,17
+Jeff Clune,Leni Le Goff,17
+Jeff Clune,Marc Schoenauer,17
+Jeff Clune,Risto Miikkulainen,17
+Jeff Clune,Babak Hodjat,17
+Jeff Clune,Danesh Tarapore,17
+Jeff Clune,Antoine Cully,17
+Jeff Clune,Robert MacCurdy,17
+Jeff Clune,Jean-Baptiste Mouret,17
+Jeff Clune,Jason Yosinski,17
+Jeff Clune,Carlos Maestre,17
+Jeff Clune,Westley Weimer,17
+Jeff Clune,Frank Hutter,17
+Jeff Clune,Simon Thibault,17
+Jeff Clune,Sara Mitri,17
+Jeff Clune,Anh Nguyen,17
+Jeff Clune,Lee Altenberg,17
+Jeff Clune,Laurent Keller,17
+Jeff Clune,Christian Gagné,17
+Jeff Clune,David Parsons,17
+Jeff Clune,Carole Knibbe,17
+Jeff Clune,Laura M. Grabowski,17
+Jeff Clune,Richard Watson,17
+Jeff Clune,Stephanie Forrest,17
+Jeff Clune,Robert Feldt,17
+Jeff Clune,Stephane Doncieux,17
+Jeff Clune,Antoine Frénoy,17
+Jeff Clune,Karl Sims,17
+Jeff Clune,Dusan Misevic,17
+Jeff Clune,François Taddei,17
+Jeff Clune,Patryk Chrabaszcz,17
+Jeff Clune,Hod Lipson,17
+Jeff Clune,Fred C. Dyer,17
+Jeff Clune,Eric Shulte,17
+Jeff Clune,Nick Cheney,17
+Jeff Clune,Robert T. Pennock,17
+Jeff Clune,Christoph Adami,17
+Jeff Clune,Peter Krcah,17
+Jeff Clune,Thomas S. Ray,17
+Jeff Clune,Stephan Fischer,17
+Jeff Clune,David M. Bryson,17
+Jeff Clune,Guillaume Beslon,17
+Jeff Clune,Kai Olav Ellefsen,17
+Jeff Clune,David E. Moriarty,17
+Jeff Clune,Jay Chen,17
+Jeff Clune,Richard E. Lenski,17
+Tim Taylor,Mark A. Bedau,89
+Tim Taylor,Steen Rasmussen,89
+Tim Taylor,Kevin Korb,89
+Tim Taylor,Kenneth O. Stanley,89
+Tim Taylor,Norman Packard,89
+Tim Taylor,Alan Dorin,89
+Tim Taylor,Alastair Channon,89
+Tim Taylor,Takashi Ikegami,89
+Una-May O'Reilly,Marcos Pertierra,73
+Una-May O'Reilly,Daniel Prado Sanchez,73
+Una-May O'Reilly,Anthony Erb Luogo,73
+Una-May O'Reilly,Dennis Garcia,73
+Una-May O'Reilly,Erik Hemberg,73
+Una-May O'Reilly,Jonathan Kelly,73
+Una-May O'Reilly,Jamal Toutouh,73
+Jamal Toutouh,Marcos Pertierra,73
+Jamal Toutouh,Daniel Prado Sanchez,73
+Jamal Toutouh,Anthony Erb Luogo,73
+Jamal Toutouh,Dennis Garcia,73
+Jamal Toutouh,Erik Hemberg,73
+Jamal Toutouh,Jonathan Kelly,73
+Marcos Pertierra,Daniel Prado Sanchez,73
+Marcos Pertierra,Anthony Erb Luogo,73
+Marcos Pertierra,Dennis Garcia,73
+Marcos Pertierra,Erik Hemberg,73
+Marcos Pertierra,Jonathan Kelly,73
+Daniel Prado Sanchez,Anthony Erb Luogo,73
+Daniel Prado Sanchez,Dennis Garcia,73
+Daniel Prado Sanchez,Erik Hemberg,73
+Daniel Prado Sanchez,Jonathan Kelly,73
+Dennis Garcia,Anthony Erb Luogo,73
+Dennis Garcia,Erik Hemberg,73
+Dennis Garcia,Jonathan Kelly,73
+Anthony Erb Luogo,Erik Hemberg,73
+Anthony Erb Luogo,Jonathan Kelly,73
+Jonathan Kelly,Erik Hemberg,73
+Hugo Cisneros,Josef Sivic,81
+Norman Packard,Mark A. Bedau,89
+Norman Packard,Steen Rasmussen,89
+Norman Packard,Kenneth O. Stanley,89
+Norman Packard,Alastair Channon,89
+Norman Packard,Takashi Ikegami,89
+Mark A. Bedau,Steen Rasmussen,89
+Mark A. Bedau,Kenneth O. Stanley,89
+Mark A. Bedau,Alastair Channon,89
+Mark A. Bedau,Takashi Ikegami,89
+Alastair Channon,Steen Rasmussen,89
+Alastair Channon,Kenneth O. Stanley,89
+Alastair Channon,Takashi Ikegami,89
+Takashi Ikegami,Martin Biehl,89
+Takashi Ikegami,Nathaniel Virgo,89
+Takashi Ikegami,Steen Rasmussen,89
+Takashi Ikegami,Kenneth O. Stanley,89
+Takashi Ikegami,Daniel Polani,89
+Steen Rasmussen,Kenneth O. Stanley,89
+Kenneth O. Stanley,Marc Parizeau,17
+Kenneth O. Stanley,Julie Beaulieu,17
+Kenneth O. Stanley,William F. Punch,17
+Kenneth O. Stanley,Samuel Bernard,17
+Kenneth O. Stanley,Leni Le Goff,17
+Kenneth O. Stanley,Marc Schoenauer,17
+Kenneth O. Stanley,Risto Miikkulainen,17
+Kenneth O. Stanley,Babak Hodjat,17
+Kenneth O. Stanley,Danesh Tarapore,17
+Kenneth O. Stanley,Antoine Cully,17
+Kenneth O. Stanley,Robert MacCurdy,17
+Kenneth O. Stanley,Jean-Baptiste Mouret,17
+Kenneth O. Stanley,Carlos Maestre,17
+Kenneth O. Stanley,Westley Weimer,17
+Kenneth O. Stanley,Jason Yosinski,17
+Kenneth O. Stanley,Frank Hutter,17
+Kenneth O. Stanley,Simon Thibault,17
+Kenneth O. Stanley,Sara Mitri,17
+Kenneth O. Stanley,Anh Nguyen,17
+Kenneth O. Stanley,Lee Altenberg,17
+Kenneth O. Stanley,Laurent Keller,17
+Kenneth O. Stanley,Christian Gagné,17
+Kenneth O. Stanley,David Parsons,17
+Kenneth O. Stanley,Carole Knibbe,17
+Kenneth O. Stanley,Laura M. Grabowski,17
+Kenneth O. Stanley,Richard Watson,17
+Kenneth O. Stanley,Stephanie Forrest,17
+Kenneth O. Stanley,Robert Feldt,17
+Kenneth O. Stanley,Stephane Doncieux,17
+Kenneth O. Stanley,Antoine Frénoy,17
+Kenneth O. Stanley,Karl Sims,17
+Kenneth O. Stanley,Dusan Misevic,17
+Kenneth O. Stanley,François Taddei,17
+Kenneth O. Stanley,Patryk Chrabaszcz,17
+Kenneth O. Stanley,Richard E. Lenski,17
+Kenneth O. Stanley,Hod Lipson,17
+Kenneth O. Stanley,Fred C. Dyer,17
+Kenneth O. Stanley,Eric Shulte,17
+Kenneth O. Stanley,Nick Cheney,17
+Kenneth O. Stanley,Robert T. Pennock,17
+Kenneth O. Stanley,Christoph Adami,17
+Kenneth O. Stanley,Peter Krcah,17
+Kenneth O. Stanley,Thomas S. Ray,17
+Kenneth O. Stanley,Stephan Fischer,17
+Kenneth O. Stanley,David M. Bryson,17
+Kenneth O. Stanley,Guillaume Beslon,17
+Kenneth O. Stanley,Kai Olav Ellefsen,17
+Kenneth O. Stanley,David E. Moriarty,17
+Kenneth O. Stanley,Jay Chen,17
+David Kadish,Laura Beloff,92
+David Kadish,Sebastian Risi,92
+Sebastian Risi,Don Fussell,92
+Sebastian Risi,Risto Miikkulainen,92
+Sebastian Risi,Dan Lessin,92
+Sebastian Risi,Laura Beloff,92
+Vito Trianni,Hiroki Sayama,94
+Vito Trianni,Justin Werfel,94
+Justin Werfel,Hiroki Sayama,94
+Yew-Soon Ong,Abhishek Gupta,2
+Dennis G Wilson,Hervé Luga,4
+Dennis G Wilson,Kyle Harrington,4
+Dennis G Wilson,Sylvain Cussat-Blanc,4
+Kyle Harrington,Sylvain Cussat-Blanc,4
+Kyle Harrington,Hervé Luga,4
+Sylvain Cussat-Blanc,Hervé Luga,4
+Erik Aaron Hansen,Alex Alcocer,5
+Erik Aaron Hansen,Hårek Haugerud,5
+Erik Aaron Hansen,Anis Yazidi,5
+Erik Aaron Hansen,Asieh Abolpour Mofrad,5
+Anis Yazidi,Alex Alcocer,5
+Anis Yazidi,Hårek Haugerud,5
+Anis Yazidi,Asieh Abolpour Mofrad,5
+Hårek Haugerud,Alex Alcocer,5
+Hårek Haugerud,Asieh Abolpour Mofrad,5
+Asieh Abolpour Mofrad,Alex Alcocer,5
+Alan Dorin,Kevin Korb,42
+Dusan Misevic,Marc Parizeau,17
+Dusan Misevic,Julie Beaulieu,17
+Dusan Misevic,William F. Punch,17
+Dusan Misevic,Samuel Bernard,17
+Dusan Misevic,Leni Le Goff,17
+Dusan Misevic,Marc Schoenauer,17
+Dusan Misevic,Risto Miikkulainen,17
+Dusan Misevic,Babak Hodjat,17
+Dusan Misevic,Danesh Tarapore,17
+Dusan Misevic,Antoine Cully,17
+Dusan Misevic,Robert MacCurdy,17
+Dusan Misevic,Jean-Baptiste Mouret,17
+Dusan Misevic,Jason Yosinski,17
+Dusan Misevic,Carlos Maestre,17
+Dusan Misevic,Westley Weimer,17
+Dusan Misevic,Frank Hutter,17
+Dusan Misevic,Simon Thibault,17
+Dusan Misevic,Sara Mitri,17
+Dusan Misevic,Anh Nguyen,17
+Dusan Misevic,Lee Altenberg,17
+Dusan Misevic,Laurent Keller,17
+Dusan Misevic,Christian Gagné,17
+Dusan Misevic,David Parsons,17
+Dusan Misevic,Carole Knibbe,17
+Dusan Misevic,Laura M. Grabowski,17
+Dusan Misevic,Richard Watson,17
+Dusan Misevic,Stephanie Forrest,17
+Dusan Misevic,Robert Feldt,17
+Dusan Misevic,Stephane Doncieux,17
+Dusan Misevic,Antoine Frénoy,17
+Dusan Misevic,Karl Sims,17
+Dusan Misevic,François Taddei,17
+Dusan Misevic,Patryk Chrabaszcz,17
+Dusan Misevic,Hod Lipson,17
+Dusan Misevic,Fred C. Dyer,17
+Dusan Misevic,Eric Shulte,17
+Dusan Misevic,Nick Cheney,17
+Dusan Misevic,Robert T. Pennock,17
+Dusan Misevic,Christoph Adami,17
+Dusan Misevic,Peter Krcah,17
+Dusan Misevic,Thomas S. Ray,17
+Dusan Misevic,Stephan Fischer,17
+Dusan Misevic,David M. Bryson,17
+Dusan Misevic,Guillaume Beslon,17
+Dusan Misevic,Kai Olav Ellefsen,17
+Dusan Misevic,David E. Moriarty,17
+Dusan Misevic,Richard E. Lenski,17
+Christoph Adami,Marc Parizeau,17
+Christoph Adami,Julie Beaulieu,17
+Christoph Adami,William F. Punch,17
+Christoph Adami,Samuel Bernard,17
+Christoph Adami,Leni Le Goff,17
+Christoph Adami,Marc Schoenauer,17
+Christoph Adami,Johan Chu,17
+Christoph Adami,Risto Miikkulainen,17
+Christoph Adami,Babak Hodjat,17
+Christoph Adami,Danesh Tarapore,17
+Christoph Adami,Antoine Cully,17
+Christoph Adami,Robert MacCurdy,17
+Christoph Adami,Jean-Baptiste Mouret,17
+Christoph Adami,Jason Yosinski,17
+Christoph Adami,Carlos Maestre,17
+Christoph Adami,Westley Weimer,17
+Christoph Adami,Frank Hutter,17
+Christoph Adami,Simon Thibault,17
+Christoph Adami,Sara Mitri,17
+Christoph Adami,Anh Nguyen,17
+Christoph Adami,Lee Altenberg,17
+Christoph Adami,Laurent Keller,17
+Christoph Adami,Christian Gagné,17
+Christoph Adami,David Parsons,17
+Christoph Adami,Carole Knibbe,17
+Christoph Adami,Laura M. Grabowski,17
+Christoph Adami,Richard Watson,17
+Christoph Adami,Stephanie Forrest,17
+Christoph Adami,Robert Feldt,17
+Christoph Adami,Stephane Doncieux,17
+Christoph Adami,Antoine Frénoy,17
+Christoph Adami,Karl Sims,17
+Christoph Adami,François Taddei,17
+Christoph Adami,Patryk Chrabaszcz,17
+Christoph Adami,Hod Lipson,17
+Christoph Adami,Fred C. Dyer,17
+Christoph Adami,Eric Shulte,17
+Christoph Adami,Nick Cheney,17
+Christoph Adami,Robert T. Pennock,17
+Christoph Adami,Peter Krcah,17
+Christoph Adami,Thomas S. Ray,17
+Christoph Adami,Stephan Fischer,17
+Christoph Adami,David M. Bryson,17
+Christoph Adami,Guillaume Beslon,17
+Christoph Adami,Kai Olav Ellefsen,17
+Christoph Adami,David E. Moriarty,17
+Christoph Adami,Richard E. Lenski,17
+Lee Altenberg,Marc Parizeau,17
+Lee Altenberg,Julie Beaulieu,17
+Lee Altenberg,William F. Punch,17
+Lee Altenberg,Samuel Bernard,17
+Lee Altenberg,Leni Le Goff,17
+Lee Altenberg,Marc Schoenauer,17
+Lee Altenberg,Risto Miikkulainen,17
+Lee Altenberg,Babak Hodjat,17
+Lee Altenberg,Danesh Tarapore,17
+Lee Altenberg,Antoine Cully,17
+Lee Altenberg,Robert MacCurdy,17
+Lee Altenberg,Jean-Baptiste Mouret,17
+Lee Altenberg,Jason Yosinski,17
+Lee Altenberg,Carlos Maestre,17
+Lee Altenberg,Westley Weimer,17
+Lee Altenberg,Frank Hutter,17
+Lee Altenberg,Simon Thibault,17
+Lee Altenberg,Sara Mitri,17
+Lee Altenberg,Anh Nguyen,17
+Lee Altenberg,Laurent Keller,17
+Lee Altenberg,Christian Gagné,17
+Lee Altenberg,David Parsons,17
+Lee Altenberg,Carole Knibbe,17
+Lee Altenberg,Laura M. Grabowski,17
+Lee Altenberg,Richard Watson,17
+Lee Altenberg,Stephanie Forrest,17
+Lee Altenberg,Robert Feldt,17
+Lee Altenberg,Stephane Doncieux,17
+Lee Altenberg,Antoine Frénoy,17
+Lee Altenberg,Karl Sims,17
+Lee Altenberg,François Taddei,17
+Lee Altenberg,Patryk Chrabaszcz,17
+Lee Altenberg,Hod Lipson,17
+Lee Altenberg,Fred C. Dyer,17
+Lee Altenberg,Eric Shulte,17
+Lee Altenberg,Nick Cheney,17
+Lee Altenberg,Robert T. Pennock,17
+Lee Altenberg,Peter Krcah,17
+Lee Altenberg,Thomas S. Ray,17
+Lee Altenberg,Stephan Fischer,17
+Lee Altenberg,David M. Bryson,17
+Lee Altenberg,Guillaume Beslon,17
+Lee Altenberg,Kai Olav Ellefsen,17
+Lee Altenberg,David E. Moriarty,17
+Lee Altenberg,Richard E. Lenski,17
+Julie Beaulieu,Marc Parizeau,17
+Julie Beaulieu,William F. Punch,17
+Julie Beaulieu,Samuel Bernard,17
+Julie Beaulieu,Leni Le Goff,17
+Julie Beaulieu,Marc Schoenauer,17
+Julie Beaulieu,Risto Miikkulainen,17
+Julie Beaulieu,Babak Hodjat,17
+Julie Beaulieu,Danesh Tarapore,17
+Julie Beaulieu,Antoine Cully,17
+Julie Beaulieu,Robert MacCurdy,17
+Julie Beaulieu,Jean-Baptiste Mouret,17
+Julie Beaulieu,Jason Yosinski,17
+Julie Beaulieu,Carlos Maestre,17
+Julie Beaulieu,Westley Weimer,17
+Julie Beaulieu,Frank Hutter,17
+Julie Beaulieu,Simon Thibault,17
+Julie Beaulieu,Sara Mitri,17
+Julie Beaulieu,Anh Nguyen,17
+Julie Beaulieu,Laurent Keller,17
+Julie Beaulieu,Christian Gagné,17
+Julie Beaulieu,David Parsons,17
+Julie Beaulieu,Carole Knibbe,17
+Julie Beaulieu,Laura M. Grabowski,17
+Julie Beaulieu,Richard Watson,17
+Julie Beaulieu,Stephanie Forrest,17
+Julie Beaulieu,Robert Feldt,17
+Julie Beaulieu,Stephane Doncieux,17
+Julie Beaulieu,Antoine Frénoy,17
+Julie Beaulieu,Karl Sims,17
+Julie Beaulieu,François Taddei,17
+Julie Beaulieu,Patryk Chrabaszcz,17
+Julie Beaulieu,Hod Lipson,17
+Julie Beaulieu,Fred C. Dyer,17
+Julie Beaulieu,Eric Shulte,17
+Julie Beaulieu,Nick Cheney,17
+Julie Beaulieu,Robert T. Pennock,17
+Julie Beaulieu,Peter Krcah,17
+Julie Beaulieu,Thomas S. Ray,17
+Julie Beaulieu,Stephan Fischer,17
+Julie Beaulieu,David M. Bryson,17
+Julie Beaulieu,Guillaume Beslon,17
+Julie Beaulieu,Kai Olav Ellefsen,17
+Julie Beaulieu,David E. Moriarty,17
+Julie Beaulieu,Richard E. Lenski,17
+Samuel Bernard,Marc Parizeau,17
+Samuel Bernard,William F. Punch,17
+Samuel Bernard,Leni Le Goff,17
+Samuel Bernard,Marc Schoenauer,17
+Samuel Bernard,Risto Miikkulainen,17
+Samuel Bernard,Babak Hodjat,17
+Samuel Bernard,Danesh Tarapore,17
+Samuel Bernard,Antoine Cully,17
+Samuel Bernard,Robert MacCurdy,17
+Samuel Bernard,Jean-Baptiste Mouret,17
+Samuel Bernard,Jason Yosinski,17
+Samuel Bernard,Carlos Maestre,17
+Samuel Bernard,Westley Weimer,17
+Samuel Bernard,Frank Hutter,17
+Samuel Bernard,Simon Thibault,17
+Samuel Bernard,Sara Mitri,17
+Samuel Bernard,Anh Nguyen,17
+Samuel Bernard,Laurent Keller,17
+Samuel Bernard,Christian Gagné,17
+Samuel Bernard,David Parsons,17
+Samuel Bernard,Carole Knibbe,17
+Samuel Bernard,Laura M. Grabowski,17
+Samuel Bernard,Richard Watson,17
+Samuel Bernard,Stephanie Forrest,17
+Samuel Bernard,Robert Feldt,17
+Samuel Bernard,Stephane Doncieux,17
+Samuel Bernard,Antoine Frénoy,17
+Samuel Bernard,Karl Sims,17
+Samuel Bernard,François Taddei,17
+Samuel Bernard,Patryk Chrabaszcz,17
+Samuel Bernard,Hod Lipson,17
+Samuel Bernard,Fred C. Dyer,17
+Samuel Bernard,Eric Shulte,17
+Samuel Bernard,Nick Cheney,17
+Samuel Bernard,Robert T. Pennock,17
+Samuel Bernard,Peter Krcah,17
+Samuel Bernard,Thomas S. Ray,17
+Samuel Bernard,Stephan Fischer,17
+Samuel Bernard,David M. Bryson,17
+Samuel Bernard,Guillaume Beslon,17
+Samuel Bernard,Kai Olav Ellefsen,17
+Samuel Bernard,David E. Moriarty,17
+Samuel Bernard,Richard E. Lenski,17
+Guillaume Beslon,Marc Parizeau,17
+Guillaume Beslon,William F. Punch,17
+Guillaume Beslon,Leni Le Goff,17
+Guillaume Beslon,Marc Schoenauer,17
+Guillaume Beslon,Risto Miikkulainen,17
+Guillaume Beslon,Babak Hodjat,17
+Guillaume Beslon,Danesh Tarapore,17
+Guillaume Beslon,Antoine Cully,17
+Guillaume Beslon,Robert MacCurdy,17
+Guillaume Beslon,Jean-Baptiste Mouret,17
+Guillaume Beslon,Jason Yosinski,17
+Guillaume Beslon,Carlos Maestre,17
+Guillaume Beslon,Westley Weimer,17
+Guillaume Beslon,Frank Hutter,17
+Guillaume Beslon,Simon Thibault,17
+Guillaume Beslon,Sara Mitri,17
+Guillaume Beslon,Anh Nguyen,17
+Guillaume Beslon,Laurent Keller,17
+Guillaume Beslon,Christian Gagné,17
+Guillaume Beslon,David Parsons,17
+Guillaume Beslon,Carole Knibbe,17
+Guillaume Beslon,Laura M. Grabowski,17
+Guillaume Beslon,Richard Watson,17
+Guillaume Beslon,Stephanie Forrest,17
+Guillaume Beslon,Robert Feldt,17
+Guillaume Beslon,Stephane Doncieux,17
+Guillaume Beslon,Antoine Frénoy,17
+Guillaume Beslon,Karl Sims,17
+Guillaume Beslon,François Taddei,17
+Guillaume Beslon,Patryk Chrabaszcz,17
+Guillaume Beslon,Hod Lipson,17
+Guillaume Beslon,Fred C. Dyer,17
+Guillaume Beslon,Eric Shulte,17
+Guillaume Beslon,Nick Cheney,17
+Guillaume Beslon,Robert T. Pennock,17
+Guillaume Beslon,Peter Krcah,17
+Guillaume Beslon,Thomas S. Ray,17
+Guillaume Beslon,Stephan Fischer,17
+Guillaume Beslon,David M. Bryson,17
+Guillaume Beslon,Kai Olav Ellefsen,17
+Guillaume Beslon,David E. Moriarty,17
+Guillaume Beslon,Richard E. Lenski,17
+David M. Bryson,Marc Parizeau,17
+David M. Bryson,William F. Punch,17
+David M. Bryson,Leni Le Goff,17
+David M. Bryson,Marc Schoenauer,17
+David M. Bryson,Risto Miikkulainen,17
+David M. Bryson,Babak Hodjat,17
+David M. Bryson,Danesh Tarapore,17
+David M. Bryson,Antoine Cully,17
+David M. Bryson,Robert MacCurdy,17
+David M. Bryson,Jean-Baptiste Mouret,17
+David M. Bryson,Jason Yosinski,17
+David M. Bryson,Carlos Maestre,17
+David M. Bryson,Westley Weimer,17
+David M. Bryson,Frank Hutter,17
+David M. Bryson,Simon Thibault,17
+David M. Bryson,Sara Mitri,17
+David M. Bryson,Anh Nguyen,17
+David M. Bryson,Laurent Keller,17
+David M. Bryson,Christian Gagné,17
+David M. Bryson,David Parsons,17
+David M. Bryson,Carole Knibbe,17
+David M. Bryson,Laura M. Grabowski,17
+David M. Bryson,Richard Watson,17
+David M. Bryson,Stephanie Forrest,17
+David M. Bryson,Robert Feldt,17
+David M. Bryson,Stephane Doncieux,17
+David M. Bryson,Antoine Frénoy,17
+David M. Bryson,Karl Sims,17
+David M. Bryson,François Taddei,17
+David M. Bryson,Patryk Chrabaszcz,17
+David M. Bryson,Hod Lipson,17
+David M. Bryson,Fred C. Dyer,17
+David M. Bryson,Eric Shulte,17
+David M. Bryson,Nick Cheney,17
+David M. Bryson,Robert T. Pennock,17
+David M. Bryson,Peter Krcah,17
+David M. Bryson,Thomas S. Ray,17
+David M. Bryson,Stephan Fischer,17
+David M. Bryson,Kai Olav Ellefsen,17
+David M. Bryson,David E. Moriarty,17
+David M. Bryson,Richard E. Lenski,17
+Patryk Chrabaszcz,Marc Parizeau,17
+Patryk Chrabaszcz,William F. Punch,17
+Patryk Chrabaszcz,Leni Le Goff,17
+Patryk Chrabaszcz,Marc Schoenauer,17
+Patryk Chrabaszcz,Risto Miikkulainen,17
+Patryk Chrabaszcz,Babak Hodjat,17
+Patryk Chrabaszcz,Danesh Tarapore,17
+Patryk Chrabaszcz,Antoine Cully,17
+Patryk Chrabaszcz,Robert MacCurdy,17
+Patryk Chrabaszcz,Jean-Baptiste Mouret,17
+Patryk Chrabaszcz,Jason Yosinski,17
+Patryk Chrabaszcz,Carlos Maestre,17
+Patryk Chrabaszcz,Westley Weimer,17
+Patryk Chrabaszcz,Frank Hutter,17
+Patryk Chrabaszcz,Simon Thibault,17
+Patryk Chrabaszcz,Sara Mitri,17
+Patryk Chrabaszcz,Anh Nguyen,17
+Patryk Chrabaszcz,Laurent Keller,17
+Patryk Chrabaszcz,Christian Gagné,17
+Patryk Chrabaszcz,David Parsons,17
+Patryk Chrabaszcz,Carole Knibbe,17
+Patryk Chrabaszcz,Laura M. Grabowski,17
+Patryk Chrabaszcz,Richard Watson,17
+Patryk Chrabaszcz,Stephanie Forrest,17
+Patryk Chrabaszcz,Robert Feldt,17
+Patryk Chrabaszcz,Stephane Doncieux,17
+Patryk Chrabaszcz,Antoine Frénoy,17
+Patryk Chrabaszcz,Karl Sims,17
+Patryk Chrabaszcz,François Taddei,17
+Patryk Chrabaszcz,Hod Lipson,17
+Patryk Chrabaszcz,Fred C. Dyer,17
+Patryk Chrabaszcz,Eric Shulte,17
+Patryk Chrabaszcz,Nick Cheney,17
+Patryk Chrabaszcz,Robert T. Pennock,17
+Patryk Chrabaszcz,Peter Krcah,17
+Patryk Chrabaszcz,Thomas S. Ray,17
+Patryk Chrabaszcz,Stephan Fischer,17
+Patryk Chrabaszcz,Kai Olav Ellefsen,17
+Patryk Chrabaszcz,David E. Moriarty,17
+Patryk Chrabaszcz,Richard E. Lenski,17
+Nick Cheney,Marc Parizeau,17
+Nick Cheney,William F. Punch,17
+Nick Cheney,Leni Le Goff,17
+Nick Cheney,Marc Schoenauer,17
+Nick Cheney,Risto Miikkulainen,17
+Nick Cheney,Babak Hodjat,17
+Nick Cheney,Danesh Tarapore,17
+Nick Cheney,Antoine Cully,17
+Nick Cheney,Robert MacCurdy,17
+Nick Cheney,Jean-Baptiste Mouret,17
+Nick Cheney,Jason Yosinski,17
+Nick Cheney,Carlos Maestre,17
+Nick Cheney,Westley Weimer,17
+Nick Cheney,Frank Hutter,17
+Nick Cheney,Simon Thibault,17
+Nick Cheney,Sara Mitri,17
+Nick Cheney,Anh Nguyen,17
+Nick Cheney,Laurent Keller,17
+Nick Cheney,Christian Gagné,17
+Nick Cheney,David Parsons,17
+Nick Cheney,Carole Knibbe,17
+Nick Cheney,Laura M. Grabowski,17
+Nick Cheney,Richard Watson,17
+Nick Cheney,Stephanie Forrest,17
+Nick Cheney,Robert Feldt,17
+Nick Cheney,Stephane Doncieux,17
+Nick Cheney,Antoine Frénoy,17
+Nick Cheney,Karl Sims,17
+Nick Cheney,François Taddei,17
+Nick Cheney,Hod Lipson,17
+Nick Cheney,Fred C. Dyer,17
+Nick Cheney,Eric Shulte,17
+Nick Cheney,Robert T. Pennock,17
+Nick Cheney,Peter Krcah,17
+Nick Cheney,Thomas S. Ray,17
+Nick Cheney,Stephan Fischer,17
+Nick Cheney,Kai Olav Ellefsen,17
+Nick Cheney,David E. Moriarty,17
+Nick Cheney,Richard E. Lenski,17
+Antoine Cully,Marc Parizeau,17
+Antoine Cully,William F. Punch,17
+Antoine Cully,Leni Le Goff,17
+Antoine Cully,Marc Schoenauer,17
+Antoine Cully,Risto Miikkulainen,17
+Antoine Cully,Babak Hodjat,17
+Antoine Cully,Danesh Tarapore,17
+Antoine Cully,Robert MacCurdy,17
+Antoine Cully,Jean-Baptiste Mouret,17
+Antoine Cully,Jason Yosinski,17
+Antoine Cully,Carlos Maestre,17
+Antoine Cully,Westley Weimer,17
+Antoine Cully,Frank Hutter,17
+Antoine Cully,Simon Thibault,17
+Antoine Cully,Sara Mitri,17
+Antoine Cully,Anh Nguyen,17
+Antoine Cully,Laurent Keller,17
+Antoine Cully,Christian Gagné,17
+Antoine Cully,David Parsons,17
+Antoine Cully,Carole Knibbe,17
+Antoine Cully,Laura M. Grabowski,17
+Antoine Cully,Richard Watson,17
+Antoine Cully,Stephanie Forrest,17
+Antoine Cully,Robert Feldt,17
+Antoine Cully,Stephane Doncieux,17
+Antoine Cully,Antoine Frénoy,17
+Antoine Cully,Karl Sims,17
+Antoine Cully,François Taddei,17
+Antoine Cully,Hod Lipson,17
+Antoine Cully,Fred C. Dyer,17
+Antoine Cully,Eric Shulte,17
+Antoine Cully,Robert T. Pennock,17
+Antoine Cully,Peter Krcah,17
+Antoine Cully,Thomas S. Ray,17
+Antoine Cully,Stephan Fischer,17
+Antoine Cully,Kai Olav Ellefsen,17
+Antoine Cully,David E. Moriarty,17
+Antoine Cully,Richard E. Lenski,17
+Stephane Doncieux,Marc Parizeau,17
+Stephane Doncieux,William F. Punch,17
+Stephane Doncieux,Leni Le Goff,17
+Stephane Doncieux,Marc Schoenauer,17
+Stephane Doncieux,Risto Miikkulainen,17
+Stephane Doncieux,Babak Hodjat,17
+Stephane Doncieux,Danesh Tarapore,17
+Stephane Doncieux,Robert MacCurdy,17
+Stephane Doncieux,Jean-Baptiste Mouret,17
+Stephane Doncieux,Jason Yosinski,17
+Stephane Doncieux,Carlos Maestre,17
+Stephane Doncieux,Westley Weimer,17
+Stephane Doncieux,Frank Hutter,17
+Stephane Doncieux,Simon Thibault,17
+Stephane Doncieux,Sara Mitri,17
+Stephane Doncieux,Anh Nguyen,17
+Stephane Doncieux,Laurent Keller,17
+Stephane Doncieux,Christian Gagné,17
+Stephane Doncieux,David Parsons,17
+Stephane Doncieux,Carole Knibbe,17
+Stephane Doncieux,Laura M. Grabowski,17
+Stephane Doncieux,Richard Watson,17
+Stephane Doncieux,Stephanie Forrest,17
+Stephane Doncieux,Robert Feldt,17
+Stephane Doncieux,Antoine Frénoy,17
+Stephane Doncieux,Karl Sims,17
+Stephane Doncieux,François Taddei,17
+Stephane Doncieux,Hod Lipson,17
+Stephane Doncieux,Fred C. Dyer,17
+Stephane Doncieux,Eric Shulte,17
+Stephane Doncieux,Robert T. Pennock,17
+Stephane Doncieux,Peter Krcah,17
+Stephane Doncieux,Thomas S. Ray,17
+Stephane Doncieux,Stephan Fischer,17
+Stephane Doncieux,Kai Olav Ellefsen,17
+Stephane Doncieux,David E. Moriarty,17
+Stephane Doncieux,Richard E. Lenski,17
+Fred C. Dyer,Marc Parizeau,17
+Fred C. Dyer,William F. Punch,17
+Fred C. Dyer,Leni Le Goff,17
+Fred C. Dyer,Marc Schoenauer,17
+Fred C. Dyer,Risto Miikkulainen,17
+Fred C. Dyer,Babak Hodjat,17
+Fred C. Dyer,Danesh Tarapore,17
+Fred C. Dyer,Robert MacCurdy,17
+Fred C. Dyer,Jean-Baptiste Mouret,17
+Fred C. Dyer,Jason Yosinski,17
+Fred C. Dyer,Carlos Maestre,17
+Fred C. Dyer,Westley Weimer,17
+Fred C. Dyer,Frank Hutter,17
+Fred C. Dyer,Simon Thibault,17
+Fred C. Dyer,Sara Mitri,17
+Fred C. Dyer,Anh Nguyen,17
+Fred C. Dyer,Laurent Keller,17
+Fred C. Dyer,Christian Gagné,17
+Fred C. Dyer,David Parsons,17
+Fred C. Dyer,Carole Knibbe,17
+Fred C. Dyer,Laura M. Grabowski,17
+Fred C. Dyer,Richard Watson,17
+Fred C. Dyer,Stephanie Forrest,17
+Fred C. Dyer,Robert Feldt,17
+Fred C. Dyer,Antoine Frénoy,17
+Fred C. Dyer,Karl Sims,17
+Fred C. Dyer,François Taddei,17
+Fred C. Dyer,Hod Lipson,17
+Fred C. Dyer,Eric Shulte,17
+Fred C. Dyer,Robert T. Pennock,17
+Fred C. Dyer,Peter Krcah,17
+Fred C. Dyer,Thomas S. Ray,17
+Fred C. Dyer,Stephan Fischer,17
+Fred C. Dyer,Kai Olav Ellefsen,17
+Fred C. Dyer,David E. Moriarty,17
+Fred C. Dyer,Richard E. Lenski,17
+Kai Olav Ellefsen,Marc Parizeau,17
+Kai Olav Ellefsen,William F. Punch,17
+Kai Olav Ellefsen,Leni Le Goff,17
+Kai Olav Ellefsen,Marc Schoenauer,17
+Kai Olav Ellefsen,Risto Miikkulainen,17
+Kai Olav Ellefsen,Babak Hodjat,17
+Kai Olav Ellefsen,Danesh Tarapore,17
+Kai Olav Ellefsen,Robert MacCurdy,17
+Kai Olav Ellefsen,Jean-Baptiste Mouret,17
+Kai Olav Ellefsen,Jason Yosinski,17
+Kai Olav Ellefsen,Carlos Maestre,17
+Kai Olav Ellefsen,Westley Weimer,17
+Kai Olav Ellefsen,Frank Hutter,17
+Kai Olav Ellefsen,Simon Thibault,17
+Kai Olav Ellefsen,Sara Mitri,17
+Kai Olav Ellefsen,Anh Nguyen,17
+Kai Olav Ellefsen,Laurent Keller,17
+Kai Olav Ellefsen,Christian Gagné,17
+Kai Olav Ellefsen,David Parsons,17
+Kai Olav Ellefsen,Carole Knibbe,17
+Kai Olav Ellefsen,Laura M. Grabowski,17
+Kai Olav Ellefsen,Richard Watson,17
+Kai Olav Ellefsen,Stephanie Forrest,17
+Kai Olav Ellefsen,Robert Feldt,17
+Kai Olav Ellefsen,Antoine Frénoy,17
+Kai Olav Ellefsen,Karl Sims,17
+Kai Olav Ellefsen,François Taddei,17
+Kai Olav Ellefsen,Hod Lipson,17
+Kai Olav Ellefsen,Eric Shulte,17
+Kai Olav Ellefsen,Robert T. Pennock,17
+Kai Olav Ellefsen,Peter Krcah,17
+Kai Olav Ellefsen,Thomas S. Ray,17
+Kai Olav Ellefsen,Stephan Fischer,17
+Kai Olav Ellefsen,David E. Moriarty,17
+Kai Olav Ellefsen,Richard E. Lenski,17
+Robert Feldt,Marc Parizeau,17
+Robert Feldt,William F. Punch,17
+Robert Feldt,Leni Le Goff,17
+Robert Feldt,Marc Schoenauer,17
+Robert Feldt,Risto Miikkulainen,17
+Robert Feldt,Babak Hodjat,17
+Robert Feldt,Danesh Tarapore,17
+Robert Feldt,Robert MacCurdy,17
+Robert Feldt,Jean-Baptiste Mouret,17
+Robert Feldt,Jason Yosinski,17
+Robert Feldt,Carlos Maestre,17
+Robert Feldt,Westley Weimer,17
+Robert Feldt,Frank Hutter,17
+Robert Feldt,Simon Thibault,17
+Robert Feldt,Sara Mitri,17
+Robert Feldt,Anh Nguyen,17
+Robert Feldt,Laurent Keller,17
+Robert Feldt,Christian Gagné,17
+Robert Feldt,David Parsons,17
+Robert Feldt,Carole Knibbe,17
+Robert Feldt,Laura M. Grabowski,17
+Robert Feldt,Richard Watson,17
+Robert Feldt,Stephanie Forrest,17
+Robert Feldt,Karl Sims,17
+Robert Feldt,Antoine Frénoy,17
+Robert Feldt,François Taddei,17
+Robert Feldt,Hod Lipson,17
+Robert Feldt,Eric Shulte,17
+Robert Feldt,Robert T. Pennock,17
+Robert Feldt,Peter Krcah,17
+Robert Feldt,Thomas S. Ray,17
+Robert Feldt,Stephan Fischer,17
+Robert Feldt,David E. Moriarty,17
+Robert Feldt,Richard E. Lenski,17
+Stephan Fischer,Marc Parizeau,17
+Stephan Fischer,William F. Punch,17
+Stephan Fischer,Leni Le Goff,17
+Stephan Fischer,Marc Schoenauer,17
+Stephan Fischer,Risto Miikkulainen,17
+Stephan Fischer,Babak Hodjat,17
+Stephan Fischer,Danesh Tarapore,17
+Stephan Fischer,Robert MacCurdy,17
+Stephan Fischer,Jean-Baptiste Mouret,17
+Stephan Fischer,Jason Yosinski,17
+Stephan Fischer,Carlos Maestre,17
+Stephan Fischer,Westley Weimer,17
+Stephan Fischer,Frank Hutter,17
+Stephan Fischer,Simon Thibault,17
+Stephan Fischer,Sara Mitri,17
+Stephan Fischer,Anh Nguyen,17
+Stephan Fischer,Laurent Keller,17
+Stephan Fischer,Christian Gagné,17
+Stephan Fischer,David Parsons,17
+Stephan Fischer,Carole Knibbe,17
+Stephan Fischer,Laura M. Grabowski,17
+Stephan Fischer,Richard Watson,17
+Stephan Fischer,Stephanie Forrest,17
+Stephan Fischer,Antoine Frénoy,17
+Stephan Fischer,Karl Sims,17
+Stephan Fischer,François Taddei,17
+Stephan Fischer,Hod Lipson,17
+Stephan Fischer,Eric Shulte,17
+Stephan Fischer,Robert T. Pennock,17
+Stephan Fischer,Peter Krcah,17
+Stephan Fischer,Thomas S. Ray,17
+Stephan Fischer,David E. Moriarty,17
+Stephan Fischer,Richard E. Lenski,17
+Stephanie Forrest,Marc Parizeau,17
+Stephanie Forrest,William F. Punch,17
+Stephanie Forrest,Leni Le Goff,17
+Stephanie Forrest,Marc Schoenauer,17
+Stephanie Forrest,Risto Miikkulainen,17
+Stephanie Forrest,Babak Hodjat,17
+Stephanie Forrest,Danesh Tarapore,17
+Stephanie Forrest,Robert MacCurdy,17
+Stephanie Forrest,Jean-Baptiste Mouret,17
+Stephanie Forrest,Jason Yosinski,17
+Stephanie Forrest,Carlos Maestre,17
+Stephanie Forrest,Westley Weimer,17
+Stephanie Forrest,Frank Hutter,17
+Stephanie Forrest,Simon Thibault,17
+Stephanie Forrest,Sara Mitri,17
+Stephanie Forrest,Anh Nguyen,17
+Stephanie Forrest,Laurent Keller,17
+Stephanie Forrest,Christian Gagné,17
+Stephanie Forrest,David Parsons,17
+Stephanie Forrest,Carole Knibbe,17
+Stephanie Forrest,Laura M. Grabowski,17
+Stephanie Forrest,Richard Watson,17
+Stephanie Forrest,Antoine Frénoy,17
+Stephanie Forrest,Karl Sims,17
+Stephanie Forrest,François Taddei,17
+Stephanie Forrest,Hod Lipson,17
+Stephanie Forrest,Eric Shulte,17
+Stephanie Forrest,Robert T. Pennock,17
+Stephanie Forrest,Peter Krcah,17
+Stephanie Forrest,Thomas S. Ray,17
+Stephanie Forrest,David E. Moriarty,17
+Stephanie Forrest,Richard E. Lenski,17
+Antoine Frénoy,Marc Parizeau,17
+Antoine Frénoy,William F. Punch,17
+Antoine Frénoy,Leni Le Goff,17
+Antoine Frénoy,Marc Schoenauer,17
+Antoine Frénoy,Risto Miikkulainen,17
+Antoine Frénoy,Babak Hodjat,17
+Antoine Frénoy,Danesh Tarapore,17
+Antoine Frénoy,Robert MacCurdy,17
+Antoine Frénoy,Jean-Baptiste Mouret,17
+Antoine Frénoy,Jason Yosinski,17
+Antoine Frénoy,Carlos Maestre,17
+Antoine Frénoy,Westley Weimer,17
+Antoine Frénoy,Frank Hutter,17
+Antoine Frénoy,Simon Thibault,17
+Antoine Frénoy,Sara Mitri,17
+Antoine Frénoy,Anh Nguyen,17
+Antoine Frénoy,Laurent Keller,17
+Antoine Frénoy,Christian Gagné,17
+Antoine Frénoy,David Parsons,17
+Antoine Frénoy,Carole Knibbe,17
+Antoine Frénoy,Laura M. Grabowski,17
+Antoine Frénoy,Richard Watson,17
+Antoine Frénoy,Karl Sims,17
+Antoine Frénoy,François Taddei,17
+Antoine Frénoy,Hod Lipson,17
+Antoine Frénoy,Eric Shulte,17
+Antoine Frénoy,Robert T. Pennock,17
+Antoine Frénoy,Peter Krcah,17
+Antoine Frénoy,Thomas S. Ray,17
+Antoine Frénoy,David E. Moriarty,17
+Antoine Frénoy,Richard E. Lenski,17
+Christian Gagné,Marc Parizeau,17
+Christian Gagné,William F. Punch,17
+Christian Gagné,Leni Le Goff,17
+Christian Gagné,Marc Schoenauer,17
+Christian Gagné,Risto Miikkulainen,17
+Christian Gagné,Babak Hodjat,17
+Christian Gagné,Danesh Tarapore,17
+Christian Gagné,Robert MacCurdy,17
+Christian Gagné,Jean-Baptiste Mouret,17
+Christian Gagné,Jason Yosinski,17
+Christian Gagné,Carlos Maestre,17
+Christian Gagné,Westley Weimer,17
+Christian Gagné,Frank Hutter,17
+Christian Gagné,Simon Thibault,17
+Christian Gagné,Sara Mitri,17
+Christian Gagné,Anh Nguyen,17
+Christian Gagné,Laurent Keller,17
+Christian Gagné,David Parsons,17
+Christian Gagné,Carole Knibbe,17
+Christian Gagné,Laura M. Grabowski,17
+Christian Gagné,Richard Watson,17
+Christian Gagné,Karl Sims,17
+Christian Gagné,François Taddei,17
+Christian Gagné,Hod Lipson,17
+Christian Gagné,Eric Shulte,17
+Christian Gagné,Robert T. Pennock,17
+Christian Gagné,Peter Krcah,17
+Christian Gagné,Thomas S. Ray,17
+Christian Gagné,David E. Moriarty,17
+Christian Gagné,Richard E. Lenski,17
+Leni Le Goff,Marc Parizeau,17
+Leni Le Goff,William F. Punch,17
+Leni Le Goff,Marc Schoenauer,17
+Leni Le Goff,Risto Miikkulainen,17
+Leni Le Goff,Babak Hodjat,17
+Leni Le Goff,Danesh Tarapore,17
+Leni Le Goff,Robert MacCurdy,17
+Leni Le Goff,Jean-Baptiste Mouret,17
+Leni Le Goff,Jason Yosinski,17
+Leni Le Goff,Carlos Maestre,17
+Leni Le Goff,Westley Weimer,17
+Leni Le Goff,Frank Hutter,17
+Leni Le Goff,Simon Thibault,17
+Leni Le Goff,Sara Mitri,17
+Leni Le Goff,Anh Nguyen,17
+Leni Le Goff,Laurent Keller,17
+Leni Le Goff,David Parsons,17
+Leni Le Goff,Carole Knibbe,17
+Leni Le Goff,Laura M. Grabowski,17
+Leni Le Goff,Richard Watson,17
+Leni Le Goff,Karl Sims,17
+Leni Le Goff,François Taddei,17
+Leni Le Goff,Hod Lipson,17
+Leni Le Goff,Eric Shulte,17
+Leni Le Goff,Robert T. Pennock,17
+Leni Le Goff,Peter Krcah,17
+Leni Le Goff,Thomas S. Ray,17
+Leni Le Goff,David E. Moriarty,17
+Leni Le Goff,Richard E. Lenski,17
+Laura M. Grabowski,Marc Parizeau,17
+Laura M. Grabowski,William F. Punch,17
+Laura M. Grabowski,Marc Schoenauer,17
+Laura M. Grabowski,Risto Miikkulainen,17
+Laura M. Grabowski,Babak Hodjat,17
+Laura M. Grabowski,Danesh Tarapore,17
+Laura M. Grabowski,Robert MacCurdy,17
+Laura M. Grabowski,Jean-Baptiste Mouret,17
+Laura M. Grabowski,Jason Yosinski,17
+Laura M. Grabowski,Carlos Maestre,17
+Laura M. Grabowski,Westley Weimer,17
+Laura M. Grabowski,Frank Hutter,17
+Laura M. Grabowski,Simon Thibault,17
+Laura M. Grabowski,Sara Mitri,17
+Laura M. Grabowski,Anh Nguyen,17
+Laura M. Grabowski,Laurent Keller,17
+Laura M. Grabowski,David Parsons,17
+Laura M. Grabowski,Carole Knibbe,17
+Laura M. Grabowski,Richard Watson,17
+Laura M. Grabowski,Karl Sims,17
+Laura M. Grabowski,François Taddei,17
+Laura M. Grabowski,Hod Lipson,17
+Laura M. Grabowski,Eric Shulte,17
+Laura M. Grabowski,Robert T. Pennock,17
+Laura M. Grabowski,Peter Krcah,17
+Laura M. Grabowski,Thomas S. Ray,17
+Laura M. Grabowski,David E. Moriarty,17
+Laura M. Grabowski,Richard E. Lenski,17
+Babak Hodjat,Marc Parizeau,17
+Babak Hodjat,William F. Punch,17
+Babak Hodjat,Marc Schoenauer,17
+Babak Hodjat,Risto Miikkulainen,17
+Babak Hodjat,Danesh Tarapore,17
+Babak Hodjat,Robert MacCurdy,17
+Babak Hodjat,Jean-Baptiste Mouret,17
+Babak Hodjat,Jason Yosinski,17
+Babak Hodjat,Carlos Maestre,17
+Babak Hodjat,Westley Weimer,17
+Babak Hodjat,Frank Hutter,17
+Babak Hodjat,Simon Thibault,17
+Babak Hodjat,Sara Mitri,17
+Babak Hodjat,Anh Nguyen,17
+Babak Hodjat,Laurent Keller,17
+Babak Hodjat,David Parsons,17
+Babak Hodjat,Carole Knibbe,17
+Babak Hodjat,Richard Watson,17
+Babak Hodjat,Karl Sims,17
+Babak Hodjat,Makoto Amamiya,17
+Babak Hodjat,François Taddei,17
+Babak Hodjat,Hod Lipson,17
+Babak Hodjat,Eric Shulte,17
+Babak Hodjat,Robert T. Pennock,17
+Babak Hodjat,Peter Krcah,17
+Babak Hodjat,Thomas S. Ray,17
+Babak Hodjat,David E. Moriarty,17
+Babak Hodjat,Richard E. Lenski,17
+Frank Hutter,Marc Parizeau,17
+Frank Hutter,William F. Punch,17
+Frank Hutter,Marc Schoenauer,17
+Frank Hutter,Risto Miikkulainen,17
+Frank Hutter,Danesh Tarapore,17
+Frank Hutter,Robert MacCurdy,17
+Frank Hutter,Jean-Baptiste Mouret,17
+Frank Hutter,Jason Yosinski,17
+Frank Hutter,Carlos Maestre,17
+Frank Hutter,Westley Weimer,17
+Frank Hutter,Simon Thibault,17
+Frank Hutter,Sara Mitri,17
+Frank Hutter,Anh Nguyen,17
+Frank Hutter,Laurent Keller,17
+Frank Hutter,David Parsons,17
+Frank Hutter,Carole Knibbe,17
+Frank Hutter,Richard Watson,17
+Frank Hutter,Karl Sims,17
+Frank Hutter,François Taddei,17
+Frank Hutter,Hod Lipson,17
+Frank Hutter,Eric Shulte,17
+Frank Hutter,Robert T. Pennock,17
+Frank Hutter,Peter Krcah,17
+Frank Hutter,Thomas S. Ray,17
+Frank Hutter,David E. Moriarty,17
+Frank Hutter,Richard E. Lenski,17
+Laurent Keller,Marc Parizeau,17
+Laurent Keller,William F. Punch,17
+Laurent Keller,Marc Schoenauer,17
+Laurent Keller,Risto Miikkulainen,17
+Laurent Keller,Danesh Tarapore,17
+Laurent Keller,Robert MacCurdy,17
+Laurent Keller,Jean-Baptiste Mouret,17
+Laurent Keller,Jason Yosinski,17
+Laurent Keller,Carlos Maestre,17
+Laurent Keller,Westley Weimer,17
+Laurent Keller,Simon Thibault,17
+Laurent Keller,Sara Mitri,17
+Laurent Keller,Anh Nguyen,17
+Laurent Keller,David Parsons,17
+Laurent Keller,Carole Knibbe,17
+Laurent Keller,Richard Watson,17
+Laurent Keller,Karl Sims,17
+Laurent Keller,François Taddei,17
+Laurent Keller,Hod Lipson,17
+Laurent Keller,Eric Shulte,17
+Laurent Keller,Robert T. Pennock,17
+Laurent Keller,Peter Krcah,17
+Laurent Keller,Thomas S. Ray,17
+Laurent Keller,David E. Moriarty,17
+Laurent Keller,Richard E. Lenski,17
+Carole Knibbe,Marc Parizeau,17
+Carole Knibbe,William F. Punch,17
+Carole Knibbe,Marc Schoenauer,17
+Carole Knibbe,Risto Miikkulainen,17
+Carole Knibbe,Danesh Tarapore,17
+Carole Knibbe,Robert MacCurdy,17
+Carole Knibbe,Jean-Baptiste Mouret,17
+Carole Knibbe,Jason Yosinski,17
+Carole Knibbe,Carlos Maestre,17
+Carole Knibbe,Westley Weimer,17
+Carole Knibbe,Simon Thibault,17
+Carole Knibbe,Sara Mitri,17
+Carole Knibbe,Anh Nguyen,17
+Carole Knibbe,David Parsons,17
+Carole Knibbe,Richard Watson,17
+Carole Knibbe,Karl Sims,17
+Carole Knibbe,François Taddei,17
+Carole Knibbe,Hod Lipson,17
+Carole Knibbe,Eric Shulte,17
+Carole Knibbe,Robert T. Pennock,17
+Carole Knibbe,Peter Krcah,17
+Carole Knibbe,Thomas S. Ray,17
+Carole Knibbe,David E. Moriarty,17
+Carole Knibbe,Richard E. Lenski,17
+Peter Krcah,Marc Parizeau,17
+Peter Krcah,William F. Punch,17
+Peter Krcah,Marc Schoenauer,17
+Peter Krcah,Risto Miikkulainen,17
+Peter Krcah,Danesh Tarapore,17
+Peter Krcah,Robert MacCurdy,17
+Peter Krcah,Jean-Baptiste Mouret,17
+Peter Krcah,Jason Yosinski,17
+Peter Krcah,Carlos Maestre,17
+Peter Krcah,Westley Weimer,17
+Peter Krcah,Simon Thibault,17
+Peter Krcah,Sara Mitri,17
+Peter Krcah,Anh Nguyen,17
+Peter Krcah,David Parsons,17
+Peter Krcah,Richard Watson,17
+Peter Krcah,Karl Sims,17
+Peter Krcah,François Taddei,17
+Peter Krcah,Hod Lipson,17
+Peter Krcah,Eric Shulte,17
+Peter Krcah,Robert T. Pennock,17
+Peter Krcah,Thomas S. Ray,17
+Peter Krcah,David E. Moriarty,17
+Peter Krcah,Richard E. Lenski,17
+Richard E. Lenski,Marc Parizeau,17
+Richard E. Lenski,William F. Punch,17
+Richard E. Lenski,Marc Schoenauer,17
+Richard E. Lenski,Risto Miikkulainen,17
+Richard E. Lenski,Danesh Tarapore,17
+Richard E. Lenski,Robert MacCurdy,17
+Richard E. Lenski,Jean-Baptiste Mouret,17
+Richard E. Lenski,Jason Yosinski,17
+Richard E. Lenski,Carlos Maestre,17
+Richard E. Lenski,Westley Weimer,17
+Richard E. Lenski,Simon Thibault,17
+Richard E. Lenski,Sara Mitri,17
+Richard E. Lenski,Anh Nguyen,17
+Richard E. Lenski,David Parsons,17
+Richard E. Lenski,Richard Watson,17
+Richard E. Lenski,Karl Sims,17
+Richard E. Lenski,François Taddei,17
+Richard E. Lenski,Hod Lipson,17
+Richard E. Lenski,Eric Shulte,17
+Richard E. Lenski,Robert T. Pennock,17
+Richard E. Lenski,Thomas S. Ray,17
+Richard E. Lenski,David E. Moriarty,17
+Hod Lipson,Marc Parizeau,17
+Hod Lipson,William F. Punch,17
+Hod Lipson,Marc Schoenauer,17
+Hod Lipson,Risto Miikkulainen,17
+Hod Lipson,Danesh Tarapore,17
+Hod Lipson,Robert MacCurdy,17
+Hod Lipson,Jean-Baptiste Mouret,17
+Hod Lipson,Jason Yosinski,17
+Hod Lipson,Carlos Maestre,17
+Hod Lipson,Westley Weimer,17
+Hod Lipson,Simon Thibault,17
+Hod Lipson,Sara Mitri,17
+Hod Lipson,Anh Nguyen,17
+Hod Lipson,David Parsons,17
+Hod Lipson,Richard Watson,17
+Hod Lipson,Karl Sims,17
+Hod Lipson,François Taddei,17
+Hod Lipson,Eric Shulte,17
+Hod Lipson,Robert T. Pennock,17
+Hod Lipson,Thomas S. Ray,17
+Hod Lipson,David E. Moriarty,17
+Robert MacCurdy,Marc Parizeau,17
+Robert MacCurdy,William F. Punch,17
+Robert MacCurdy,Marc Schoenauer,17
+Robert MacCurdy,Risto Miikkulainen,17
+Robert MacCurdy,Danesh Tarapore,17
+Robert MacCurdy,Jean-Baptiste Mouret,17
+Robert MacCurdy,Jason Yosinski,17
+Robert MacCurdy,Carlos Maestre,17
+Robert MacCurdy,Westley Weimer,17
+Robert MacCurdy,Simon Thibault,17
+Robert MacCurdy,Sara Mitri,17
+Robert MacCurdy,Anh Nguyen,17
+Robert MacCurdy,David Parsons,17
+Robert MacCurdy,Richard Watson,17
+Robert MacCurdy,Karl Sims,17
+Robert MacCurdy,François Taddei,17
+Robert MacCurdy,Eric Shulte,17
+Robert MacCurdy,Robert T. Pennock,17
+Robert MacCurdy,Thomas S. Ray,17
+Robert MacCurdy,David E. Moriarty,17
+Carlos Maestre,Marc Parizeau,17
+Carlos Maestre,William F. Punch,17
+Carlos Maestre,Marc Schoenauer,17
+Carlos Maestre,Risto Miikkulainen,17
+Carlos Maestre,Danesh Tarapore,17
+Carlos Maestre,Jean-Baptiste Mouret,17
+Carlos Maestre,Jason Yosinski,17
+Carlos Maestre,Westley Weimer,17
+Carlos Maestre,Simon Thibault,17
+Carlos Maestre,Sara Mitri,17
+Carlos Maestre,Anh Nguyen,17
+Carlos Maestre,David Parsons,17
+Carlos Maestre,Richard Watson,17
+Carlos Maestre,Karl Sims,17
+Carlos Maestre,François Taddei,17
+Carlos Maestre,Eric Shulte,17
+Carlos Maestre,Robert T. Pennock,17
+Carlos Maestre,Thomas S. Ray,17
+Carlos Maestre,David E. Moriarty,17
+Risto Miikkulainen,Marc Parizeau,17
+Risto Miikkulainen,William F. Punch,17
+Risto Miikkulainen,Marc Schoenauer,17
+Risto Miikkulainen,Danesh Tarapore,17
+Risto Miikkulainen,Jean-Baptiste Mouret,17
+Risto Miikkulainen,Jason Yosinski,17
+Risto Miikkulainen,Westley Weimer,17
+Risto Miikkulainen,Simon Thibault,17
+Risto Miikkulainen,Sara Mitri,17
+Risto Miikkulainen,Anh Nguyen,17
+Risto Miikkulainen,David Parsons,17
+Risto Miikkulainen,Richard Watson,17
+Risto Miikkulainen,Karl Sims,17
+Risto Miikkulainen,François Taddei,17
+Risto Miikkulainen,Eric Shulte,17
+Risto Miikkulainen,Robert T. Pennock,17
+Risto Miikkulainen,Don Fussell,17
+Risto Miikkulainen,Thomas S. Ray,17
+Risto Miikkulainen,David E. Moriarty,17
+Risto Miikkulainen,Dan Lessin,17
+Sara Mitri,Marc Parizeau,17
+Sara Mitri,William F. Punch,17
+Sara Mitri,Marc Schoenauer,17
+Sara Mitri,Danesh Tarapore,17
+Sara Mitri,Jean-Baptiste Mouret,17
+Sara Mitri,Jason Yosinski,17
+Sara Mitri,Westley Weimer,17
+Sara Mitri,Simon Thibault,17
+Sara Mitri,Anh Nguyen,17
+Sara Mitri,David Parsons,17
+Sara Mitri,Richard Watson,17
+Sara Mitri,Karl Sims,17
+Sara Mitri,François Taddei,17
+Sara Mitri,Eric Shulte,17
+Sara Mitri,Robert T. Pennock,17
+Sara Mitri,Thomas S. Ray,17
+Sara Mitri,David E. Moriarty,17
+David E. Moriarty,Marc Parizeau,17
+David E. Moriarty,William F. Punch,17
+David E. Moriarty,Marc Schoenauer,17
+David E. Moriarty,Danesh Tarapore,17
+David E. Moriarty,Jean-Baptiste Mouret,17
+David E. Moriarty,Jason Yosinski,17
+David E. Moriarty,Westley Weimer,17
+David E. Moriarty,Simon Thibault,17
+David E. Moriarty,Anh Nguyen,17
+David E. Moriarty,David Parsons,17
+David E. Moriarty,Richard Watson,17
+David E. Moriarty,Karl Sims,17
+David E. Moriarty,François Taddei,17
+David E. Moriarty,Eric Shulte,17
+David E. Moriarty,Robert T. Pennock,17
+David E. Moriarty,Thomas S. Ray,17
+Jean-Baptiste Mouret,Marc Parizeau,17
+Jean-Baptiste Mouret,William F. Punch,17
+Jean-Baptiste Mouret,Marc Schoenauer,17
+Jean-Baptiste Mouret,Danesh Tarapore,17
+Jean-Baptiste Mouret,Jason Yosinski,17
+Jean-Baptiste Mouret,Westley Weimer,17
+Jean-Baptiste Mouret,Simon Thibault,17
+Jean-Baptiste Mouret,Anh Nguyen,17
+Jean-Baptiste Mouret,David Parsons,17
+Jean-Baptiste Mouret,Richard Watson,17
+Jean-Baptiste Mouret,Karl Sims,17
+Jean-Baptiste Mouret,François Taddei,17
+Jean-Baptiste Mouret,Eric Shulte,17
+Jean-Baptiste Mouret,Robert T. Pennock,17
+Jean-Baptiste Mouret,Thomas S. Ray,17
+Anh Nguyen,Marc Parizeau,17
+Anh Nguyen,William F. Punch,17
+Anh Nguyen,Marc Schoenauer,17
+Anh Nguyen,Danesh Tarapore,17
+Anh Nguyen,Jason Yosinski,17
+Anh Nguyen,Westley Weimer,17
+Anh Nguyen,Simon Thibault,17
+Anh Nguyen,David Parsons,17
+Anh Nguyen,Richard Watson,17
+Anh Nguyen,Karl Sims,17
+Anh Nguyen,François Taddei,17
+Anh Nguyen,Eric Shulte,17
+Anh Nguyen,Robert T. Pennock,17
+Anh Nguyen,Thomas S. Ray,17
+Marc Parizeau,William F. Punch,17
+Marc Parizeau,Marc Schoenauer,17
+Marc Parizeau,Danesh Tarapore,17
+Marc Parizeau,Jason Yosinski,17
+Marc Parizeau,Westley Weimer,17
+Marc Parizeau,Simon Thibault,17
+Marc Parizeau,David Parsons,17
+Marc Parizeau,Richard Watson,17
+Marc Parizeau,Karl Sims,17
+Marc Parizeau,François Taddei,17
+Marc Parizeau,Eric Shulte,17
+Marc Parizeau,Robert T. Pennock,17
+Marc Parizeau,Thomas S. Ray,17
+David Parsons,William F. Punch,17
+David Parsons,Marc Schoenauer,17
+David Parsons,Danesh Tarapore,17
+David Parsons,Jason Yosinski,17
+David Parsons,Westley Weimer,17
+David Parsons,Simon Thibault,17
+David Parsons,Richard Watson,17
+David Parsons,Karl Sims,17
+David Parsons,François Taddei,17
+David Parsons,Eric Shulte,17
+David Parsons,Robert T. Pennock,17
+David Parsons,Thomas S. Ray,17
+Robert T. Pennock,William F. Punch,17
+Robert T. Pennock,Marc Schoenauer,17
+Robert T. Pennock,Danesh Tarapore,17
+Robert T. Pennock,Jason Yosinski,17
+Robert T. Pennock,Westley Weimer,17
+Robert T. Pennock,Simon Thibault,17
+Robert T. Pennock,Richard Watson,17
+Robert T. Pennock,Karl Sims,17
+Robert T. Pennock,François Taddei,17
+Robert T. Pennock,Eric Shulte,17
+Robert T. Pennock,Thomas S. Ray,17
+William F. Punch,Marc Schoenauer,17
+William F. Punch,Danesh Tarapore,17
+William F. Punch,Jason Yosinski,17
+William F. Punch,Westley Weimer,17
+William F. Punch,Simon Thibault,17
+William F. Punch,Richard Watson,17
+William F. Punch,Karl Sims,17
+William F. Punch,François Taddei,17
+William F. Punch,Eric Shulte,17
+William F. Punch,Thomas S. Ray,17
+Thomas S. Ray,Marc Schoenauer,17
+Thomas S. Ray,Danesh Tarapore,17
+Thomas S. Ray,Jason Yosinski,17
+Thomas S. Ray,Westley Weimer,17
+Thomas S. Ray,Simon Thibault,17
+Thomas S. Ray,Richard Watson,17
+Thomas S. Ray,Karl Sims,17
+Thomas S. Ray,François Taddei,17
+Thomas S. Ray,Eric Shulte,17
+Marc Schoenauer,Danesh Tarapore,17
+Marc Schoenauer,Jason Yosinski,17
+Marc Schoenauer,Westley Weimer,17
+Marc Schoenauer,Simon Thibault,17
+Marc Schoenauer,Richard Watson,17
+Marc Schoenauer,Karl Sims,17
+Marc Schoenauer,François Taddei,17
+Marc Schoenauer,Eric Shulte,17
+Eric Shulte,Danesh Tarapore,17
+Eric Shulte,Jason Yosinski,17
+Eric Shulte,Westley Weimer,17
+Eric Shulte,Simon Thibault,17
+Eric Shulte,Richard Watson,17
+Eric Shulte,Karl Sims,17
+Eric Shulte,François Taddei,17
+Karl Sims,Danesh Tarapore,17
+Karl Sims,Jason Yosinski,17
+Karl Sims,Westley Weimer,17
+Karl Sims,Simon Thibault,17
+Karl Sims,Richard Watson,17
+Karl Sims,François Taddei,17
+François Taddei,Danesh Tarapore,17
+François Taddei,Jason Yosinski,17
+François Taddei,Westley Weimer,17
+François Taddei,Simon Thibault,17
+François Taddei,Richard Watson,17
+Danesh Tarapore,Jason Yosinski,17
+Danesh Tarapore,Westley Weimer,17
+Danesh Tarapore,Simon Thibault,17
+Danesh Tarapore,Richard Watson,17
+Simon Thibault,Jason Yosinski,17
+Simon Thibault,Westley Weimer,17
+Simon Thibault,Richard Watson,17
+Westley Weimer,Jason Yosinski,17
+Westley Weimer,Richard Watson,17
+Richard Watson,Jason Yosinski,17
+U. Alvarez-Rodriguez,M. Sanz,35
+U. Alvarez-Rodriguez,L. Lamata,35
+U. Alvarez-Rodriguez,E. Solano,35
+M. Sanz,E. Solano,35
+M. Sanz,L. Lamata,35
+L. Lamata,E. Solano,35
+Huimin Lu,Yujie Li,37
+Huimin Lu,Hyoungseop Kim,37
+Huimin Lu,Seiichi Serikawa,37
+Huimin Lu,Min Chen,37
+Yujie Li,Hyoungseop Kim,37
+Yujie Li,Min Chen,37
+Yujie Li,Seiichi Serikawa,37
+Min Chen,Hyoungseop Kim,37
+Min Chen,Seiichi Serikawa,37
+Hyoungseop Kim,Seiichi Serikawa,37
+Thomas Schmickl,Payam Zahadat,38
+Thomas Schmickl,Heiko Hamann,38
+Payam Zahadat,Heiko Hamann,38
+Jean-Paul Delahaye,Clement Vidal,88
+Clement Vidal,Louis Crane,88
+Clement Vidal,Rob Hengeveld,88
+Clement Vidal,Franc Rottiers,88
+Clement Vidal,John Stewart,88
+Clement Vidal,Borje Ekstig,88
+Clement Vidal,Gertrudis Van de Vijver,88
+Clement Vidal,Thomas Durt,88
+Clement Vidal,Giuseppe Longo,88
+Clement Vidal,Alex H. Blin,88
+Clement Vidal,Horace Fairlamb,88
+Clement Vidal,Francis Heylighen,88
+Clement Vidal,Jan Greben,88
+Clement Vidal,Nicolas F. Lori,88
+Clement Vidal,Laurent Nottale,88
+Clement Vidal,Stanley Salthe,88
+Clement Vidal,Gerard Jagers op Akkerhuis,88
+Clement Vidal,Nico M. van Straalen,88
+Clement Vidal,Denis Noble,88
+Clement Vidal,Jean Chaline,88
+Clement Vidal,Ruediger Vaas,88
+Clement Vidal,Charles Auffray,88
+Martin Biehl,Daniel Polani,41
+Dan Lessin,Don Fussell,43
+Keyan Ghazi-Zahedi,Johannes Rauh,50
+Joseph T. Lizier,Paul L. Williams,54
+Joseph T. Lizier,Benjamin Flecker,54
+Marius Buliga,Louis H. Kauffman,58
+Jean-Louis Sikorav,Alan Braslau,59
+Jean-Louis Sikorav,Arach Goldar,59
+Alan Braslau,Arach Goldar,59
+Norbert Rimoux,Patrice Descourt,62
+Alex Graudenzi,Marco Antoniotti,66
+Alex Graudenzi,Giancarlo Mauri,66
+Alex Graudenzi,Giulio Caravagna,66
+Giulio Caravagna,Giancarlo Mauri,66
+Giulio Caravagna,Marco Antoniotti,66
+Giancarlo Mauri,Marco Antoniotti,66
+Thao Dang,Carla Piazza,69
+Benjamin Flecker,Paul L. Williams,54
+Larry Yaeger,Virgil Griffith,76
+Larry Yaeger,Olaf Sporns,76
+Virgil Griffith,Olaf Sporns,76
+Melanie Moses,Soumya Banerjee,86
+Charles Auffray,Louis Crane,88
+Charles Auffray,Rob Hengeveld,88
+Charles Auffray,Franc Rottiers,88
+Charles Auffray,John Stewart,88
+Charles Auffray,Borje Ekstig,88
+Charles Auffray,Gertrudis Van de Vijver,88
+Charles Auffray,Thomas Durt,88
+Charles Auffray,Giuseppe Longo,88
+Charles Auffray,Alex H. Blin,88
+Charles Auffray,Horace Fairlamb,88
+Charles Auffray,Francis Heylighen,88
+Charles Auffray,Jan Greben,88
+Charles Auffray,Nicolas F. Lori,88
+Charles Auffray,Laurent Nottale,88
+Charles Auffray,Stanley Salthe,88
+Charles Auffray,Gerard Jagers op Akkerhuis,88
+Charles Auffray,Nico M. van Straalen,88
+Charles Auffray,Denis Noble,88
+Charles Auffray,Jean Chaline,88
+Charles Auffray,Ruediger Vaas,88
+Alex H. Blin,Louis Crane,88
+Alex H. Blin,Rob Hengeveld,88
+Alex H. Blin,Franc Rottiers,88
+Alex H. Blin,John Stewart,88
+Alex H. Blin,Borje Ekstig,88
+Alex H. Blin,Gertrudis Van de Vijver,88
+Alex H. Blin,Thomas Durt,88
+Alex H. Blin,Giuseppe Longo,88
+Alex H. Blin,Horace Fairlamb,88
+Alex H. Blin,Francis Heylighen,88
+Alex H. Blin,Jan Greben,88
+Alex H. Blin,Nicolas F. Lori,88
+Alex H. Blin,Laurent Nottale,88
+Alex H. Blin,Stanley Salthe,88
+Alex H. Blin,Gerard Jagers op Akkerhuis,88
+Alex H. Blin,Nico M. van Straalen,88
+Alex H. Blin,Denis Noble,88
+Alex H. Blin,Jean Chaline,88
+Alex H. Blin,Ruediger Vaas,88
+Jean Chaline,Louis Crane,88
+Jean Chaline,Rob Hengeveld,88
+Jean Chaline,Franc Rottiers,88
+Jean Chaline,John Stewart,88
+Jean Chaline,Borje Ekstig,88
+Jean Chaline,Gertrudis Van de Vijver,88
+Jean Chaline,Thomas Durt,88
+Jean Chaline,Giuseppe Longo,88
+Jean Chaline,Horace Fairlamb,88
+Jean Chaline,Francis Heylighen,88
+Jean Chaline,Jan Greben,88
+Jean Chaline,Nicolas F. Lori,88
+Jean Chaline,Laurent Nottale,88
+Jean Chaline,Stanley Salthe,88
+Jean Chaline,Gerard Jagers op Akkerhuis,88
+Jean Chaline,Nico M. van Straalen,88
+Jean Chaline,Denis Noble,88
+Jean Chaline,Ruediger Vaas,88
+Louis Crane,Rob Hengeveld,88
+Louis Crane,Franc Rottiers,88
+Louis Crane,John Stewart,88
+Louis Crane,Borje Ekstig,88
+Louis Crane,Gertrudis Van de Vijver,88
+Louis Crane,Thomas Durt,88
+Louis Crane,Giuseppe Longo,88
+Louis Crane,Horace Fairlamb,88
+Louis Crane,Francis Heylighen,88
+Louis Crane,Jan Greben,88
+Louis Crane,Nicolas F. Lori,88
+Louis Crane,Laurent Nottale,88
+Louis Crane,Stanley Salthe,88
+Louis Crane,Gerard Jagers op Akkerhuis,88
+Louis Crane,Nico M. van Straalen,88
+Louis Crane,Denis Noble,88
+Louis Crane,Ruediger Vaas,88
+Thomas Durt,Rob Hengeveld,88
+Thomas Durt,Franc Rottiers,88
+Thomas Durt,John Stewart,88
+Thomas Durt,Borje Ekstig,88
+Thomas Durt,Gertrudis Van de Vijver,88
+Thomas Durt,Giuseppe Longo,88
+Thomas Durt,Horace Fairlamb,88
+Thomas Durt,Francis Heylighen,88
+Thomas Durt,Jan Greben,88
+Thomas Durt,Nicolas F. Lori,88
+Thomas Durt,Laurent Nottale,88
+Thomas Durt,Stanley Salthe,88
+Thomas Durt,Gerard Jagers op Akkerhuis,88
+Thomas Durt,Nico M. van Straalen,88
+Thomas Durt,Denis Noble,88
+Thomas Durt,Ruediger Vaas,88
+Borje Ekstig,Rob Hengeveld,88
+Borje Ekstig,Franc Rottiers,88
+Borje Ekstig,John Stewart,88
+Borje Ekstig,Gertrudis Van de Vijver,88
+Borje Ekstig,Giuseppe Longo,88
+Borje Ekstig,Horace Fairlamb,88
+Borje Ekstig,Francis Heylighen,88
+Borje Ekstig,Jan Greben,88
+Borje Ekstig,Nicolas F. Lori,88
+Borje Ekstig,Laurent Nottale,88
+Borje Ekstig,Stanley Salthe,88
+Borje Ekstig,Gerard Jagers op Akkerhuis,88
+Borje Ekstig,Nico M. van Straalen,88
+Borje Ekstig,Denis Noble,88
+Borje Ekstig,Ruediger Vaas,88
+Horace Fairlamb,Rob Hengeveld,88
+Horace Fairlamb,Franc Rottiers,88
+Horace Fairlamb,John Stewart,88
+Horace Fairlamb,Gertrudis Van de Vijver,88
+Horace Fairlamb,Giuseppe Longo,88
+Horace Fairlamb,Francis Heylighen,88
+Horace Fairlamb,Jan Greben,88
+Horace Fairlamb,Nicolas F. Lori,88
+Horace Fairlamb,Laurent Nottale,88
+Horace Fairlamb,Stanley Salthe,88
+Horace Fairlamb,Gerard Jagers op Akkerhuis,88
+Horace Fairlamb,Nico M. van Straalen,88
+Horace Fairlamb,Denis Noble,88
+Horace Fairlamb,Ruediger Vaas,88
+Jan Greben,Rob Hengeveld,88
+Jan Greben,Franc Rottiers,88
+Jan Greben,John Stewart,88
+Jan Greben,Gertrudis Van de Vijver,88
+Jan Greben,Giuseppe Longo,88
+Jan Greben,Francis Heylighen,88
+Jan Greben,Laurent Nottale,88
+Jan Greben,Nicolas F. Lori,88
+Jan Greben,Stanley Salthe,88
+Jan Greben,Gerard Jagers op Akkerhuis,88
+Jan Greben,Nico M. van Straalen,88
+Jan Greben,Denis Noble,88
+Jan Greben,Ruediger Vaas,88
+Rob Hengeveld,Franc Rottiers,88
+Rob Hengeveld,John Stewart,88
+Rob Hengeveld,Gertrudis Van de Vijver,88
+Rob Hengeveld,Giuseppe Longo,88
+Rob Hengeveld,Francis Heylighen,88
+Rob Hengeveld,Nicolas F. Lori,88
+Rob Hengeveld,Laurent Nottale,88
+Rob Hengeveld,Stanley Salthe,88
+Rob Hengeveld,Gerard Jagers op Akkerhuis,88
+Rob Hengeveld,Nico M. van Straalen,88
+Rob Hengeveld,Denis Noble,88
+Rob Hengeveld,Ruediger Vaas,88
+Francis Heylighen,Franc Rottiers,88
+Francis Heylighen,John Stewart,88
+Francis Heylighen,Gertrudis Van de Vijver,88
+Francis Heylighen,Giuseppe Longo,88
+Francis Heylighen,Laurent Nottale,88
+Francis Heylighen,Nicolas F. Lori,88
+Francis Heylighen,Stanley Salthe,88
+Francis Heylighen,Gerard Jagers op Akkerhuis,88
+Francis Heylighen,Nico M. van Straalen,88
+Francis Heylighen,Denis Noble,88
+Francis Heylighen,Ruediger Vaas,88
+Gerard Jagers op Akkerhuis,Franc Rottiers,88
+Gerard Jagers op Akkerhuis,John Stewart,88
+Gerard Jagers op Akkerhuis,Gertrudis Van de Vijver,88
+Gerard Jagers op Akkerhuis,Giuseppe Longo,88
+Gerard Jagers op Akkerhuis,Nicolas F. Lori,88
+Gerard Jagers op Akkerhuis,Laurent Nottale,88
+Gerard Jagers op Akkerhuis,Stanley Salthe,88
+Gerard Jagers op Akkerhuis,Nico M. van Straalen,88
+Gerard Jagers op Akkerhuis,Denis Noble,88
+Gerard Jagers op Akkerhuis,Ruediger Vaas,88
+Giuseppe Longo,Franc Rottiers,88
+Giuseppe Longo,John Stewart,88
+Giuseppe Longo,Gertrudis Van de Vijver,88
+Giuseppe Longo,Nicolas F. Lori,88
+Giuseppe Longo,Laurent Nottale,88
+Giuseppe Longo,Stanley Salthe,88
+Giuseppe Longo,Nico M. van Straalen,88
+Giuseppe Longo,Denis Noble,88
+Giuseppe Longo,Ruediger Vaas,88
+Nicolas F. Lori,Franc Rottiers,88
+Nicolas F. Lori,John Stewart,88
+Nicolas F. Lori,Gertrudis Van de Vijver,88
+Nicolas F. Lori,Laurent Nottale,88
+Nicolas F. Lori,Stanley Salthe,88
+Nicolas F. Lori,Nico M. van Straalen,88
+Nicolas F. Lori,Denis Noble,88
+Nicolas F. Lori,Ruediger Vaas,88
+Denis Noble,Franc Rottiers,88
+Denis Noble,John Stewart,88
+Denis Noble,Gertrudis Van de Vijver,88
+Denis Noble,Laurent Nottale,88
+Denis Noble,Stanley Salthe,88
+Denis Noble,Nico M. van Straalen,88
+Denis Noble,Ruediger Vaas,88
+Laurent Nottale,Franc Rottiers,88
+Laurent Nottale,John Stewart,88
+Laurent Nottale,Gertrudis Van de Vijver,88
+Laurent Nottale,Stanley Salthe,88
+Laurent Nottale,Nico M. van Straalen,88
+Laurent Nottale,Ruediger Vaas,88
+Franc Rottiers,John Stewart,88
+Franc Rottiers,Gertrudis Van de Vijver,88
+Franc Rottiers,Stanley Salthe,88
+Franc Rottiers,Nico M. van Straalen,88
+Franc Rottiers,Ruediger Vaas,88
+Stanley Salthe,John Stewart,88
+Stanley Salthe,Gertrudis Van de Vijver,88
+Stanley Salthe,Nico M. van Straalen,88
+Stanley Salthe,Ruediger Vaas,88
+John Stewart,Gertrudis Van de Vijver,88
+John Stewart,Nico M. van Straalen,88
+John Stewart,Ruediger Vaas,88
+Ruediger Vaas,Gertrudis Van de Vijver,88
+Ruediger Vaas,Nico M. van Straalen,88
+Gertrudis Van de Vijver,Nico M. van Straalen,88
+D. A. Sofge,M. A. Potter,13
+D. A. Sofge,M. D. Bugajska,13
+D. A. Sofge,A. C. Schultz,13
+M. A. Potter,M. D. Bugajska,13
+M. A. Potter,A. C. Schultz,13
+M. D. Bugajska,A. C. Schultz,13
+Andrei Khrennikov,Marcus Nilsson,14
+Carlos Fernandes,Vitorino Ramos,15
+Carlos Fernandes,Agostinho C. Rosa,15
+Vitorino Ramos,Agostinho C. Rosa,15
+Zsolt Palotai,Andras Lorincz,22
+Zsolt Palotai,Sandor Mandusitz,22
+Sandor Mandusitz,Andras Lorincz,22
+Arnold Smith,Peter Turney,24
+Arnold Smith,Robert Ewaschuk,24
+Peter Turney,Robert Ewaschuk,24
+Jing Han,Jiming Liu,27
+Jing Han,Qingsheng Cai,27
+Jiming Liu,Qingsheng Cai,27
+Johan Chu,Chris Adami,33
+M. E. J. Newman,Kim Sneppen,30
+M. E. J. Newman,Simon M. Fraser,30
+M. E. J. Newman,William A. Tozier,30
+Simon M. Fraser,Kim Sneppen,30
+Simon M. Fraser,William A. Tozier,30
+Kim Sneppen,William A. Tozier,30
+Chris Adami,C. Titus Brown,33
+Dan Ashlock,Leigh Tesfatsion,31
+Dan Ashlock,Mark D. Smucker,31
+Dan Ashlock,E. Ann Stanley,31
+Mark D. Smucker,E. Ann Stanley,31
+Mark D. Smucker,Leigh Tesfatsion,31
+E. Ann Stanley,Leigh Tesfatsion,31

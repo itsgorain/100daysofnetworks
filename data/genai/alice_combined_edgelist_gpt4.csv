@@ -1,0 +1,368 @@
+,idx,source,target,reasoning,support_text
+0,0,Alice,Her Sister,They sit together on the bank while Alice peeps into the book her sister is reading.,Alice was beginning to get very tired of sitting by her sister on the bank
+1,1,Alice,White Rabbit,"Alice sees, hears, and chases the White Rabbit, placing them in the same scene.",a White Rabbit with pink eyes ran close by her
+2,2,Alice,Dinah,"Alice talks about and to Dinah, thinking of her during the fall and dreaming of walking with her.","Dinah'll miss me very much to-night, I should think!"
+3,3,Alice,White Rabbit,Alice directly addresses the White Rabbit for help and he reacts by dropping his gloves and fleeing.,"If you please, sir— The Rabbit started violently, dropped the white kid gloves and the fan, and skurried away"
+4,4,White Rabbit,The Duchess,"The White Rabbit references the Duchess, fearing her anger at being kept waiting.","Oh! the Duchess, the Duchess! Oh! won’t she be savage if I’ve kept her waiting!"
+5,5,Alice,The Mouse,Alice speaks to the Mouse in the pool and they converse with each other.,"O Mouse, do you know the way out of this pool? … Not like cats! cried the Mouse"
+6,6,Alice,Dinah,Alice talks at length about her cat Dinah while addressing the Mouse.,I wish I could show you our cat Dinah: I think you’d take a fancy to cats
+7,7,The Mouse,Dinah,"The Mouse reacts strongly to the mention of Dinah, declaring hatred of cats.","Our family always hated cats: nasty, low, vulgar things!"
+8,8,Alice,Ada,Alice thinks about Ada while questioning her own identity.,"I’m sure I’m not Ada, she said, for her hair goes in such long ringlets"
+9,9,Alice,Mabel,Alice considers whether she might be Mabel and contrasts their knowledge.,"I’m sure I can’t be Mabel, for I know all sorts of things"
+10,10,Ada,Mabel,Ada and Mabel are mentioned together in Alice’s self-comparison within the same sentence.,I’m sure I’m not Ada… and I’m sure I can’t be Mabel
+11,11,Alice,Her Brother,Alice recalls her brother’s Latin Grammar to decide how to address the Mouse.,she remembered having seen in her brother’s Latin Grammar
+12,12,Alice,William the Conqueror,Alice references William the Conqueror while speculating about the Mouse’s origin.,"I daresay it’s a French mouse, come over with William the Conqueror"
+13,13,The Mouse,William the Conqueror,The Mouse and William the Conqueror are mentioned together in the same sentence as Alice speculates about the Mouse’s origin.,"it’s a French mouse, come over with William the Conqueror"
+14,14,Alice,The Farmer,Alice mentions the farmer who owns the clever little dog she describes.,"and it belongs to a farmer, you know, and he says it’s so useful"
+15,15,Alice,Lory,Alice and the Lory argue and later discuss Dinah.,'she had quite a long argument with the Lory' ... 'And who is Dinah...?' said the Lory.
+16,16,Alice,Mouse,Alice and the Mouse repeatedly address each other during the drying lecture and tale.,"'How are you getting on now, my dear?' ... turning to Alice'; 'You are not attending! said the Mouse to Alice.'"
+17,17,Mouse,Lory,The Mouse and the Lory exchange remarks during the history lesson.,'I beg your pardon! said the Mouse... Did you speak?' — 'Not I! said the Lory.'
+18,18,Mouse,Duck,The Duck questions the Mouse about the archbishop's 'finding.',"'Found what? said the Duck.' — 'Found it,' the Mouse replied."
+19,19,Dodo,Eaglet,The Eaglet interrupts the Dodo's speech.,"'In that case, said the Dodo...' — 'Speak English! said the Eaglet.'"
+20,20,Alice,Dodo,The Dodo points to Alice to give prizes and ceremoniously presents her a thimble.,"'Why, she, of course, said the Dodo, pointing to Alice' ... 'the Dodo solemnly presented the thimble.'"
+21,21,Dodo,Mouse,The Mouse proposes Alice should have a prize and the Dodo agrees.,"'But she must have a prize herself, you know, said the Mouse.' — 'Of course,' the Dodo replied."
+22,22,Old Crab,Young Crab,"The old Crab admonishes her daughter, who snaps back.","'Ah, my dear! Let this be a lesson...' — 'Hold your tongue, Ma!' said the young Crab."
+23,23,Alice,Dinah,Alice talks about and longs for her cat Dinah.,"'Dinah's our cat.' ... 'Oh, my dear Dinah! I wonder if I shall ever see you any more!'"
+24,24,Lory,Dinah,The Lory asks who Dinah is.,"'And who is Dinah, if I might venture to ask the question? said the Lory.'"
+25,25,Magpie,Dinah,The Magpie reacts to Alice's speech about Dinah by preparing to leave.,'This speech caused a remarkable sensation... one old Magpie began wrapping itself up very carefully.'
+26,26,Canary,Dinah,The Canary hurriedly calls its children away after Dinah is mentioned.,"'This speech caused a remarkable sensation... and a Canary called out... Come away, my dears!'"
+27,27,Magpie,Canary,The Magpie and the Canary are named in the same sentence reacting to Dinah.,'...one old Magpie... and a Canary called out...'
+28,28,Dodo,Shakespeare,The Dodo is compared in the same sentence to pictures of Shakespeare.,'the Dodo ... (the position in which you usually see Shakespeare...)'
+29,29,Alice,Fury,Alice imagines a tale featuring Fury while the Mouse is speaking.,'she kept on puzzling about it ... Fury said to a mouse...'
+30,30,Mouse,William The Conqueror,The Mouse lectures about William the Conqueror.,"'Ahem! said the Mouse... William the Conqueror, whose cause was favoured by the pope...'"
+31,31,Mouse,Edwin,The Mouse mentions Edwin in the history lesson.,"'Edwin and Morcar, the earls of Mercia and Northumbria, declared for him:'"
+32,32,Mouse,Morcar,The Mouse mentions Morcar in the history lesson.,"'Edwin and Morcar, the earls of Mercia and Northumbria, declared for him:'"
+33,33,Mouse,Stigand,"The Mouse mentions Stigand, the archbishop of Canterbury.","'and even Stigand, the patriotic archbishop of Canterbury, found it advisable...'"
+34,34,Mouse,Edgar Atheling,The Mouse mentions Edgar Atheling going to meet William.,'...to go with Edgar Atheling to meet William and offer him the crown.'
+35,35,Duck,Stigand,"The Duck asks what the archbishop, i.e., Stigand, found.",'Found what? said the Duck... what did the archbishop find?'
+36,36,William The Conqueror,Edwin,William and Edwin are co-mentioned in the same sentence of the history.,'William the Conqueror ... Edwin and Morcar ... declared for him:'
+37,37,William The Conqueror,Morcar,William and Morcar are co-mentioned in the same sentence of the history.,'William the Conqueror ... Edwin and Morcar ... declared for him:'
+38,38,William The Conqueror,Stigand,Stigand is named going to meet William.,'...Stigand ... to go with Edgar Atheling to meet William and offer him the crown.'
+39,39,William The Conqueror,Edgar Atheling,Edgar Atheling is named going to meet William.,'...to go with Edgar Atheling to meet William and offer him the crown.'
+40,40,Edwin,Morcar,Edwin and Morcar are named together as allied earls.,"'Edwin and Morcar, the earls of Mercia and Northumbria, declared for him:'"
+41,41,Stigand,Edgar Atheling,Stigand and Edgar Atheling are named together going to meet William.,'...Stigand ... to go with Edgar Atheling to meet William...'
+42,42,Alice,White Rabbit,They directly interact when the White Rabbit notices Alice and orders her to fetch his gloves and fan.,"Very soon the Rabbit noticed Alice ... 'Run home this moment, and fetch me a pair of gloves and a fan!'"
+43,43,White Rabbit,The Duchess,The White Rabbit repeatedly references and fears The Duchess.,'The Duchess! The Duchess! ... She'll get me executed'
+44,44,White Rabbit,Mary Ann,The White Rabbit calls for Mary Ann and commands her to fetch his gloves.,'Mary Ann! Mary Ann!' ... 'Fetch me my gloves this moment!'
+45,45,Alice,Mary Ann,Alice thinks about the real Mary Ann after being mistaken for her.,Alice ... 'in great fear lest she should meet the real Mary Ann'
+46,46,Alice,Dinah,Alice references Dinah and threatens to set her on the others.,"'If you do, I'll set Dinah at you!'"
+47,47,White Rabbit,Pat,The White Rabbit summons Pat and orders him to help.,Next came an angry voice—the Rabbit's—'Pat! Pat! Where are you? ... Come and help me out of this!'
+48,48,Alice,Pat,"Alice shares the scene with Pat, hearing him outside and reacting by snatching at the window.","Alice ... heard whispers ... 'Sure, then I'm here!'"
+49,49,White Rabbit,Bill,The White Rabbit is involved with Bill being sent down the chimney and calls to catch him.,"'There goes Bill!' ... then the Rabbit's voice along 'Catch him, you by the hedge!'"
+50,50,Alice,Bill,Alice kicks Bill up the chimney and hears his later account.,"said Alice to herself 'This is Bill,' she gave one sharp kick ... 'There goes Bill!'"
+51,51,Pat,Bill,Pat and Bill are both part of the rescue group outside the house in the same scene.,"'Pat! Pat! Where are you?' ... 'Bill's got the other—Bill! fetch it here, lad!'"
+52,52,Alice,Caterpillar,"Alice encounters the Caterpillar atop the mushroom, and their eyes meet.",she peeped over the edge ... and her eyes immediately met those of a large blue caterpillar
+53,53,Alice,The Caterpillar,"They converse extensively, questioning identity and size while addressing each other directly.","'Who are you?' said the Caterpillar ... 'I can't explain myself,' said Alice."
+54,54,Alice,The Pigeon,They directly confront each other when the Pigeon attacks and argues with Alice.,'Serpent!' screamed the Pigeon. 'I'm not a serpent!' said Alice.
+55,55,The Caterpillar,Father William,The Caterpillar references Father William by ordering Alice to recite the poem about him.,"Repeat, 'You are old, Father William,' said the Caterpillar."
+56,56,Alice,Father William,Alice references Father William by reciting lines of the poem that feature him.,"Alice folded her hands, and began: 'You are old, Father William...'"
+57,57,Father William,The Young Man,"Within the recited poem, Father William and the young man speak to each other.","'You are old, Father William,' the young man said ... 'Father William replied to his son'"
+58,58,Father William,His Wife,Father William mentions and references his wife while explaining his jaw strength.,"'I took to the law, And argued each case with my wife'"
+59,59,Alice,The Young Man,"By reciting the poem, Alice references the young man who addresses Father William.","Alice ... began: 'You are old, Father William,' the young man said"
+60,60,Fish-Footman,Frog-Footman,The Fish-Footman delivered a letter to the Frog-Footman and they bowed together at the door.,"he handed over to the other ... Then they both bowed low, and their curls got entangled together."
+61,61,Fish-Footman,The Queen,The Fish-Footman referenced an invitation sent by the Queen.,An invitation from the Queen to play croquet.
+62,62,Fish-Footman,The Duchess,The Fish-Footman stated the letter was for the Duchess.,For the Duchess.
+63,63,Frog-Footman,The Queen,The Frog-Footman repeated that the invitation was from the Queen.,From the Queen.
+64,64,Frog-Footman,The Duchess,The Frog-Footman repeated that the invitation was for the Duchess.,An invitation for the Duchess to play croquet.
+65,65,The Queen,The Duchess,The Duchess said she must get ready to play croquet with the Queen.,"I must go and get ready to play croquet with the Queen,"
+66,66,Alice,Fish-Footman,Alice watched the Fish-Footman with the other footman at the door.,"and both footmen, Alice noticed, had powdered hair"
+67,67,Alice,Frog-Footman,Alice spoke with the Frog-Footman about entering the house.,"'Please, then,' said Alice, 'how am I to get in?'"
+68,68,Alice,The Duchess,Alice conversed with the Duchess and was given the baby to nurse.,"'It's a Cheshire cat,' said the Duchess ... 'Here! you may nurse it a bit,' the Duchess said to Alice."
+69,69,Alice,The Cook,Alice addressed the cook while objects were being thrown.,"'Oh, please mind what you're doing!' cried Alice,"
+70,70,Alice,The Baby,Alice nursed and spoke to the baby.,"Alice caught the baby ... 'Don't grunt,' said Alice;"
+71,71,The Duchess,The Baby,The Duchess nursed and roughly handled her child.,"the Duchess was ... nursing a baby ... she kept tossing the baby violently up and down,"
+72,72,The Cook,The Duchess,The cook threw things at the Duchess and even a frying-pan after her.,set to work throwing everything ... at the Duchess ... The cook threw a frying-pan after her
+73,73,The Cook,The Baby,The cook and the baby joined the chorus together.,CHORUS. (In which the cook and the baby joined): Wow! wow! wow!
+74,74,The Duchess,Cheshire Cat,The Duchess acknowledged the grinning cat as a Cheshire Cat.,"'why your cat grins like that?' 'It's a Cheshire cat,' said the Duchess,"
+75,75,Alice,Cheshire Cat,Alice spoke with the Cheshire Cat about which way to go.,"'Would you tell me, please, which way I ought to go from here?' 'That depends ...' said the Cat."
+76,76,Cheshire Cat,The Queen,The Cheshire Cat asked Alice about playing croquet with the Queen.,'Do you play croquet with the Queen to-day?' said the Cat.
+77,77,Cheshire Cat,The March Hare,The Cheshire Cat told Alice where the March Hare lives and suggested visiting.,lives a March Hare ... 'Visit either you like: they're both mad.'
+78,78,Cheshire Cat,The Hatter,The Cheshire Cat told Alice where the Hatter lives and suggested visiting.,lives a Hatter ... 'Visit either you like: they're both mad.'
+79,79,Alice,The Queen,Alice discussed the idea of playing croquet with the Queen.,"'I should like it very much,' said Alice, 'but I haven't been invited yet.'"
+80,80,Alice,The March Hare,Alice decided to go in the direction where the March Hare was said to live.,she walked on in the direction in which the March Hare was said to live.
+81,81,Alice,The Hatter,Alice thought about hatters and wished she had gone to see the Hatter.,'I've seen hatters before' ... 'I almost wish I'd gone to see the Hatter instead!'
+82,82,Cheshire Cat,The Baby,The Cheshire Cat asked Alice what became of the baby.,"'By-the-bye, what became of the baby?' said the Cat."
+83,83,Alice,Hatter,"Alice and Hatter converse directly during the tea party, addressing each other.","'Your hair wants cutting,' said the Hatter."
+84,84,Alice,March Hare,Alice and March Hare interact at the table when he offers 'wine' and she responds.,"'Have some wine,' the March Hare said ... 'Then it wasn't very civil of you,' said Alice."
+85,85,Alice,Dormouse,Alice speaks with the Dormouse and questions his story.,"Alice ... turned to the Dormouse, and repeated her question."
+86,86,Hatter,March Hare,Hatter and March Hare share the tea table and talk to each other.,the March Hare and the Hatter were having tea at it
+87,87,Hatter,Dormouse,Hatter interacts with the Dormouse by pouring tea on its nose and pinching it.,the Hatter ... poured a little hot tea upon its nose.
+88,88,March Hare,Dormouse,March Hare helps rouse the Dormouse by pinching it.,"'Wake up, Dormouse!' ... they pinched it on both sides at once."
+89,89,Hatter,Time,Hatter personifies and references Time as someone he knows and quarrelled with.,'If you knew Time as well as I do' ... 'He won't stand beating.'
+90,90,Alice,Time,Alice references Time as a person when talking about beating time in music.,'I know I have to beat time when I learn music.'
+91,91,Hatter,Queen Of Hearts,Hatter recounts the Queen Of Hearts ordering his execution at her concert.,"the Queen jumped up and bawled out, 'He's murdering the time! Off with his head!'"
+92,92,Alice,Queen Of Hearts,"Alice comments on the Queen Of Hearts' savage order, referencing her.",'How dreadfully savage!' exclaimed Alice.
+93,93,Dormouse,Elsie,Dormouse tells a story that names Elsie as one of the three sisters.,"their names were Elsie, Lacie, and Tillie;"
+94,94,Dormouse,Lacie,Dormouse tells a story that names Lacie as one of the three sisters.,"their names were Elsie, Lacie, and Tillie;"
+95,95,Dormouse,Tillie,Dormouse tells a story that names Tillie as one of the three sisters.,"their names were Elsie, Lacie, and Tillie;"
+96,96,Elsie,Lacie,Elsie and Lacie appear together as two of the three named sisters in the same sentence.,"their names were Elsie, Lacie, and Tillie;"
+97,97,Elsie,Tillie,Elsie and Tillie appear together as two of the three named sisters in the same sentence.,"their names were Elsie, Lacie, and Tillie;"
+98,98,Lacie,Tillie,Lacie and Tillie appear together as two of the three named sisters in the same sentence.,"their names were Elsie, Lacie, and Tillie;"
+99,99,Alice,Elsie,"Alice asks about the sisters' lives and drawings, referencing Elsie by implication.","their names were Elsie, Lacie, and Tillie ... 'What did they live on?' said Alice."
+100,100,Alice,Lacie,"Alice asks about the sisters' lives and drawings, referencing Lacie by implication.","their names were Elsie, Lacie, and Tillie ... 'What did they live on?' said Alice."
+101,101,Alice,Tillie,"Alice asks about the sisters' lives and drawings, referencing Tillie by implication.","their names were Elsie, Lacie, and Tillie ... 'What did they live on?' said Alice."
+102,102,Five,Seven,"Five and Seven directly argue about the spilled paint and blame, indicating interaction.","'Don't go splashing paint over me like that!' ... 'Seven jogged my elbow.' ... 'That's right, Five!'"
+103,103,Five,Two,"Five involves Two in the dispute and explains the mistake, showing direct engagement.","'Yes, it is his business!' said Five, 'and I'll tell him it was for bringing the cook tulip-roots instead of onions.'"
+104,104,Seven,Two,"Seven addresses Two to shut him out of the discussion, indicating interaction.","'That's none of your business, Two!' said Seven."
+105,105,Alice,Two,Alice asks Two why they are painting the roses and Two answers her.,'Would you tell me... why you are painting those roses?' ... Two began in a low voice...
+106,106,Alice,Five,"Alice confronts the gardeners, including Five, and later protects them.","'Would you tell me... why you are painting those roses?' ... Five and Seven said nothing, but looked at Two."
+107,107,Alice,Seven,"Alice addresses the gardeners, including Seven, and later hides them.","'Would you tell me... why you are painting those roses?' ... Five and Seven said nothing, but looked at Two."
+108,108,Queen of Hearts,Five,"Five reports the Queen threatened beheading, linking them, and she later condemns the gardeners.",'I heard the Queen say only yesterday you deserved to be beheaded!'
+109,109,Queen of Hearts,Seven,Seven is among the gardeners the Queen orders to be executed.,Off with their heads!
+110,110,Queen of Hearts,Two,"Two kneels and speaks to the Queen, who examines the roses and sentences them.","'May it please your Majesty,' said Two ... 'I see!' said the Queen ... 'Off with their heads!'"
+111,111,King of Hearts,Five,"Five bows to the King along with the other gardeners, indicating interaction.","the three gardeners instantly jumped up, and began bowing to the King, the Queen..."
+112,112,King of Hearts,Seven,Seven bows to the King along with the other gardeners.,"the three gardeners instantly jumped up, and began bowing to the King, the Queen..."
+113,113,King of Hearts,Two,Two bows to the King along with the other gardeners.,"the three gardeners instantly jumped up, and began bowing to the King, the Queen..."
+114,114,Knave of Hearts,Five,The Knave turns the gardeners over at the Queen's command.,"The Knave did so, very carefully, with one foot."
+115,115,Knave of Hearts,Seven,The Knave turns the gardeners over at the Queen's command.,"The Knave did so, very carefully, with one foot."
+116,116,Knave of Hearts,Two,The Knave turns the gardeners over at the Queen's command.,"The Knave did so, very carefully, with one foot."
+117,117,Alice,Queen of Hearts,The Queen interrogates Alice and later recruits her to play croquet.,"'What's your name, child?' ... 'My name is Alice, so please your Majesty'"
+118,118,Alice,King of Hearts,"The King speaks to and about Alice, defending her and addressing her directly.","'Who are you talking to?' said the King, going up to Alice"
+119,119,King of Hearts,Queen of Hearts,"The King restrains and appeals to the Queen, showing spousal interaction.","The King laid his hand upon her arm, and timidly said 'Consider, my dear: she is only a child!'"
+120,120,Queen of Hearts,Knave of Hearts,The Queen addresses the Knave for information and orders him to act.,"She said it to the Knave of Hearts, who only bowed and smiled in reply."
+121,121,King of Hearts,Knave of Hearts,"The Knave carries the King's crown, linking them in the procession.","Then followed the Knave of Hearts, carrying the King's crown"
+122,122,Alice,White Rabbit,Alice walks with the White Rabbit and they whisper about the Duchess.,'It's—it's a very fine day!' ... She was walking by the White Rabbit ... 'Where's the Duchess?'
+123,123,White Rabbit,Queen of Hearts,The White Rabbit refers to the Queen while warning Alice to hush.,"'She boxed the Queen's ears,' the Rabbit began."
+124,124,White Rabbit,Duchess,The White Rabbit tells Alice the Duchess is under sentence of execution.,'She's under sentence of execution.'
+125,125,Queen of Hearts,Duchess,The Queen orders the imprisoned Duchess to be fetched.,"'She's in prison,' the Queen said to the executioner: 'fetch her here.'"
+126,126,Alice,Duchess,"Alice asks the White Rabbit where the Duchess is, referencing her directly.",'Where's the Duchess?'
+127,127,Alice,Cheshire Cat,Alice recognizes and converses with the Cheshire Cat during the game.,'It's the Cheshire Cat: now I shall have somebody to talk to.' ... 'How are you getting on?' said the Cat.
+128,128,King of Hearts,Cheshire Cat,The King addresses the Cat and asserts his authority over it.,"'I don't like the look of it at all,' said the King: 'however, it may kiss my hand if it likes.'"
+129,129,Queen of Hearts,Cheshire Cat,The Queen orders the Cat to be executed.,'My dear! I wish you would have this cat removed!' ... 'Off with his head!' she said.
+130,130,Executioner,Cheshire Cat,The Executioner argues about the impossibility of beheading the disembodied Cat.,"The executioner's argument was, that you couldn't cut off a head unless there was a body"
+131,131,Alice,Executioner,Alice is appealed to by the Executioner (and others) to settle the dispute about the Cat.,"The moment Alice appeared, she was appealed to by all three to settle the question"
+132,132,King of Hearts,Executioner,The King volunteers to fetch the Executioner and involves him in the dispute.,"'I'll fetch the executioner myself,' said the King eagerly"
+133,133,Queen of Hearts,Executioner,The Queen commands the Executioner to fetch the Duchess.,"'She's in prison,' the Queen said to the executioner: 'fetch her here.'"
+134,134,Duchess,Cheshire Cat,"Alice states the Cat belongs to the Duchess, linking them.",'It belongs to the Duchess: you'd better ask her about it.'
+135,135,Executioner,Duchess,The Executioner returns with the Duchess when summoned.,"by the time he had come back with the Duchess, it had entirely disappeared."
+136,136,Duchess,Alice,"They walk together with the Duchess linking her arm with Alice and converse throughout, showing direct interaction.","said the Duchess, as she tucked her arm affectionately into Alice’s, and they walked off together."
+137,137,Duchess,Queen,"The Queen confronts the Duchess and threatens execution, forcing her to flee.","either you or your head must be off... Take your choice! The Duchess took her choice, and was gone in a moment."
+138,138,Queen,Alice,The Queen speaks to Alice during the croquet game and leads her away to meet the Mock Turtle.,"Let’s go on with the game, the Queen said to Alice; ... Come on, then, said the Queen, and he shall tell you his history."
+139,139,King,Queen,They share the croquet scene together as the game proceeds and sentences are given.,"all the players, except the King, the Queen, and Alice, were in custody and under sentence of execution."
+140,140,King,Alice,They are present in the same scene and Alice hears the King pardon everyone.,Alice heard the King say in a low voice... 'You are all pardoned.'
+141,141,Queen,Gryphon,The Queen orders the Gryphon to take Alice to the Mock Turtle.,"Up, lazy thing! said the Queen, and take this young lady to see the Mock Turtle"
+142,142,Gryphon,Alice,The Gryphon talks with Alice and leads her to the Mock Turtle.,What fun! said the Gryphon... 'Come on!' ... she went slowly after it
+143,143,Queen,Mock Turtle,The Queen references the Mock Turtle and sends Alice to hear his history.,"Come on, then, said the Queen, and he shall tell you his history."
+144,144,Alice,Mock Turtle,Alice visits and speaks with the Mock Turtle to hear his story.,"This here young lady... she wants for to know your history... 'I’ll tell it her,' said the Mock Turtle"
+145,145,Gryphon,Mock Turtle,They interact directly as the Gryphon urges him to continue and he responds.,"At last the Gryphon said to the Mock Turtle, 'Drive on, old fellow!'"
+146,146,Alice,Tortoise,Alice asks about the schoolmaster called Tortoise by name.,"Why did you call him Tortoise, if he wasn’t one? Alice asked."
+147,147,Mock Turtle,Tortoise,"The Mock Turtle refers to his former master, the Tortoise, from school.",The master was an old Turtle—we used to call him Tortoise
+148,148,Alice,Mock Turtle,"They interact directly as he speaks to her, dances around her, and sings while circling her.",…dancing round and round Alice… while the Mock Turtle sang…
+149,149,Alice,Gryphon,"They converse, he orders her to recite, and later takes her by the hand to run to the trial.","'Stand up and repeat…' said the Gryphon… 'taking Alice by the hand, it hurried off'"
+150,150,Gryphon,Mock Turtle,They coordinate the dance and song together and speak to each other throughout.,"'Come, let's try the first figure!' said the Mock Turtle to the Gryphon… 'Oh, you sing,' said the Gryphon."
+151,151,Alice,White Rabbit,Alice references the White Rabbit while recounting her adventures.,Alice began telling them her adventures from the time when she first saw the White Rabbit.
+152,152,Alice,Caterpillar,"She describes reciting 'You are old, Father William' to the Caterpillar.","…about her repeating 'You are old, Father William,' to the Caterpillar…"
+153,153,Alice,Father William,She mentions the poem character Father William during her narration.,"…repeating 'You are old, Father William,'…"
+154,154,Whiting,Snail,"In the song, the Whiting directly addresses the Snail to invite him to the dance.",'Will you walk a little faster?' said a whiting to a snail.
+155,155,Whiting,Porpoise,The Whiting references the Porpoise being close behind him in the same scene.,"There's a porpoise close behind us, and he's treading on my tail."
+156,156,Snail,Porpoise,The Porpoise is described as immediately behind the Snail in the scene.,…a porpoise close behind us…
+157,157,Owl,Panther,They are depicted together sharing a pie.,…the Owl and the Panther were sharing a pie.
+158,158,Alice,Whiting,Alice explicitly talks about the whiting and its name.,'I do so like that curious song about the whiting!'
+159,159,Alice,Porpoise,She imagines addressing the Porpoise as the Whiting would.,"'If I'd been the whiting,' said Alice… 'Keep back, please…'"
+160,160,Mock Turtle,Whiting,He explains what whitings are like and why they have their tails in their mouths.,"'Oh, as to the whiting,' said the Mock Turtle… 'But they have their tails in their mouths;'"
+161,161,Gryphon,Whiting,He explains why it is called a whiting and what it does.,"'Do you know why it's called a whiting?'… 'It does the boots and shoes,'"
+162,162,Mock Turtle,Porpoise,He asserts that no wise fish would go anywhere without a porpoise.,…'no wise fish would go anywhere without a porpoise.'
+163,163,Alice,Lobster,She recites lines centered on the Lobster in her misremembered verse.,'Tis the voice of the Lobster; I heard him declare…
+164,164,Lobster,Shark,The Lobster is said to talk of the Shark and change his tone when sharks are around.,…talk in contemptuous tones of the Shark… when the tide rises and sharks are around…
+165,165,Alice,Owl,She recites a verse featuring the Owl.,…'I passed by his garden… the Owl… were sharing a pie'
+166,166,Alice,Panther,She recites a verse featuring the Panther.,…'the Owl and the Panther were sharing a pie'
+167,167,King Of Hearts,Queen Of Hearts,"They preside together over the trial, seated on the same throne.",The King and Queen of Hearts were seated on their throne...
+168,168,King Of Hearts,Knave Of Hearts,The Knave stands before the King as the chained prisoner.,"the Knave was standing before them, in chains..."
+169,169,Queen Of Hearts,Knave Of Hearts,The Knave stands before the Queen and King as the accused.,"the Knave was standing before them, in chains..."
+170,170,King Of Hearts,White Rabbit,The White Rabbit stands near and serves the King as herald.,"near the King was the White Rabbit, with a trumpet..."
+171,171,Queen Of Hearts,White Rabbit,They are present together at the opening of the trial.,The King and Queen of Hearts were seated... and near the King was the White Rabbit...
+172,172,Alice,King Of Hearts,Alice identifies the King as the judge of the court.,"That's the judge, she said to herself... The judge, by the way, was the King;"
+173,173,Alice,Gryphon,"Alice whispers a question to the Gryphon, who replies.","What are they doing? Alice whispered to the Gryphon. ... the Gryphon whispered in reply,"
+174,174,Alice,Bill The Lizard,Alice secretly takes Bill’s squeaking pencil.,"This... Alice could not stand... she... found an opportunity of taking it away... (it was Bill, the Lizard)"
+175,175,White Rabbit,Knave Of Hearts,The White Rabbit reads the accusation naming the Knave as the thief.,"the White Rabbit... read as follows: ... The Knave of Hearts, he stole those tarts,"
+176,176,White Rabbit,Queen Of Hearts,The White Rabbit reads a verse naming the Queen as the maker of the tarts.,"the White Rabbit... read as follows: The Queen of Hearts, she made some tarts,"
+177,177,White Rabbit,Hatter,The White Rabbit summons the Hatter as the first witness.,"the White Rabbit... called out, First witness! The first witness was the Hatter."
+178,178,King Of Hearts,Hatter,The King questions and commands the Hatter during testimony.,"Take off your hat, the King said to the Hatter."
+179,179,Hatter,March Hare,The Hatter looks to and disputes with the March Hare.,The Hatter looked at the March Hare... 'You did!' said the Hatter. 'I deny it!' said the March Hare.
+180,180,March Hare,Dormouse,The March Hare enters the court arm-in-arm with the Dormouse.,"who had followed him into the court, arm-in-arm with the Dormouse."
+181,181,Hatter,Dormouse,The Hatter refers to the Dormouse while giving evidence.,"Well, at any rate, the Dormouse, said the Hatter... but the Dormouse denied nothing, being fast asleep."
+182,182,Alice,Dormouse,They speak when Alice grows and squeezes him by accident.,"'I wish you wouldn't squeeze so,' said the Dormouse... 'I can't help it,' said Alice"
+183,183,Queen Of Hearts,Hatter,The Queen fixates on the Hatter and later orders his beheading.,"the Queen... began staring at the Hatter... 'and just take his head off outside,' the Queen added"
+184,184,King Of Hearts,March Hare,The King responds to the March Hare’s denial during testimony.,"'I deny it!' said the March Hare. 'He denies it,' said the King"
+185,185,King Of Hearts,Duchess's Cook,The King questions the Duchess’s Cook as a witness.,"The next witness was the Duchess's cook. 'Give your evidence,' said the King. 'Shan't,' said the cook."
+186,186,Duchess's Cook,Dormouse,The Cook answers about the tarts and the Dormouse pipes up behind her.,"'Pepper, mostly,' said the cook. 'Treacle,' said a sleepy voice behind her."
+187,187,Queen Of Hearts,Dormouse,The Queen orders the Dormouse seized and punished.,"'Collar that Dormouse,' the Queen shrieked out. 'Behead that Dormouse!'"
+188,188,Alice,White Rabbit,Alice observes the White Rabbit managing the witness list and later calling her name.,Alice watched the White Rabbit as he fumbled over the list... the White Rabbit read out... the name Alice!
+189,189,Alice,The King,The King directly questions Alice during the trial.,"""What do you know about this business?"" the King said to Alice."
+190,190,Alice,Bill,Alice notices and rights Bill the Lizard after putting him head downwards.,"...she had put the Lizard in head downwards... She soon got it out again, and put it right;"
+191,191,The White Rabbit,The King,The White Rabbit corrects the King and addresses him as Your Majesty.,"...the White Rabbit interrupted: ""Unimportant, your Majesty means, of course,"""
+192,192,The White Rabbit,The Queen,The White Rabbit answers the Queen’s question about the paper.,"""What's in it?"" said the Queen. ""I haven't opened it yet,"" said the White Rabbit..."
+193,193,The Knave,The King,The Knave pleads to the King that he did not write the verses and is later questioned by him.,"""Please your Majesty,"" said the Knave, ""I didn't write it..."""
+194,194,The Queen,The Knave,The Queen declares the Knave guilty during the trial.,"""That proves his guilt,"" said the Queen."
+195,195,The King,The Queen,The King speaks to the Queen about fits and she answers.,"""...you never had fits, my dear, I think?"" he said to the Queen. ""Never!"" said the Queen..."
+196,196,The Queen,Bill,The Queen throws an inkstand at Bill the Lizard.,"""Never!"" said the Queen furiously, throwing an inkstand at the Lizard..."
+197,197,Alice,The Queen,Alice defies the Queen and they argue in court.,"""Stuff and nonsense!"" said Alice... ""Hold your tongue!"" said the Queen."
+198,198,Alice,Her Sister,Alice wakes on the bank with her head in her sister’s lap and they speak.,"""Wake up, Alice dear!"" said her sister; ""Why, what a long sleep you've had!"""
+199,199,Her Sister,The White Rabbit,Her Sister dreams of the White Rabbit hurrying by.,...the White Rabbit hurried by...
+200,200,Her Sister,The Mouse,Her Sister imagines the frightened Mouse splashing through the pool.,...the frightened Mouse splashed his way through the neighbouring pool...
+201,201,Her Sister,The March Hare,Her Sister hears the March Hare at his never-ending tea.,...the rattle of the teacups as the March Hare and his friends shared their never-ending meal...
+202,202,Her Sister,The Queen,Her Sister hears the Queen’s shrill voice ordering executions.,...the shrill voice of the Queen ordering off her unfortunate guests to execution...
+203,203,Her Sister,The Duchess,Her Sister pictures the pig-baby sneezing on the Duchess’s knee.,...the pig-baby was sneezing on the Duchess's knee...
+204,204,Her Sister,The Gryphon,Her Sister hears the shriek of the Gryphon in her reverie.,...the shriek of the Gryphon...
+205,205,Her Sister,Bill,Her Sister hears the squeaking of the Lizard’s slate-pencil (Bill the Lizard).,...the squeaking of the Lizard's slate-pencil...
+206,206,Her Sister,The Mock Turtle,Her Sister hears the distant sobs of the miserable Mock Turtle.,...the distant sobs of the miserable Mock Turtle.
+207,207,Alice,Kitty,"Alice scolds, kisses, and talks at length to Kitty, the black kitten.","Oh, you wicked little thing! cried Alice, catching up the kitten... Do you know what to-morrow is, Kitty?"
+208,208,Alice,Dinah,Alice reproaches Dinah for not teaching Kitty better manners.,"Really, Dinah ought to have taught you better manners! You ought, Dinah, you know you ought!"
+209,209,Dinah,Kitty,Dinah had washed Kitty’s face earlier that morning.,you squeaked twice while Dinah was washing your face this morning.
+210,210,Dinah,Snowdrop,"Dinah was washing Snowdrop, the white kitten’s, face.",the white kitten had been having its face washed by the old cat for the last quarter of an hour
+211,211,Alice,Snowdrop,Alice mentions Snowdrop while listing Kitty’s faults.,you pulled Snowdrop away by the tail just as I had put down the saucer of milk before her!
+212,212,Kitty,Snowdrop,Kitty pulled Snowdrop by the tail.,you pulled Snowdrop away by the tail
+213,213,Alice,Her Sister,Alice recalls arguing with her sister about pretending to be kings and queens.,She had had quite a long argument with her sister only the day before
+214,214,Alice,Her Nurse,Alice remembers startling her old nurse by shouting in her ear.,"she had really frightened her old nurse by shouting suddenly in her ear, Nurse!"
+215,215,Alice,Red Queen,Alice points out and later handles the Red Queen.,Here are the Red King and the Red Queen... And Alice got the Red Queen off the table
+216,216,Alice,Red King,Alice points out the Red King among the walking chessmen.,Here are the Red King and the Red Queen
+217,217,Alice,White Queen,Alice picks up the White Queen and sets her beside Lily.,she hastily picked up the Queen and set her on the table by the side of her noisy little daughter.
+218,218,Alice,White King,Alice gently picks up and dusts the White King.,So Alice picked him up very gently... and... dusted [him]
+219,219,Red King,Red Queen,They are seen together as a pair among the walking chessmen.,Here are the Red King and the Red Queen
+220,220,White King,White Queen,They sit together and later whisper to each other.,there are the White King and the White Queen... he and the Queen were talking together in a frightened whisper
+221,221,White Queen,Lily,The White Queen rushes to and embraces her daughter Lily.,My precious Lily!... [she] could do nothing but hug the little Lily
+222,222,White King,Lily,Lily and the White King are mentioned in the same moment as the Queen rushes past him to her child.,the White Queen cried out... as she rushed past the King... My precious Lily!
+223,223,Alice,Lily,Alice places the White Queen on the table beside Lily.,set her on the table by the side of her noisy little daughter
+224,224,Kitty,Red Queen,Kitty is set to imitate the Red Queen as a model.,"Let’s pretend that you’re the Red Queen, Kitty!... set it up before the kitten as a model"
+225,225,Red King,White King,The Red King and White King are mentioned together in the same sentence about the chessmen.,Here are the Red King... and there are the White King
+226,226,Red King,White Queen,The Red King and White Queen co-appear in the same sentence describing the chessmen.,Here are the Red King... and there are the... White Queen
+227,227,Red Queen,White King,The Red Queen and White King are mentioned together in the same sentence.,Here are the... Red Queen... and there are the White King
+228,228,Red Queen,White Queen,The Red and White Queens are both named in the same sentence.,Here are the... Red Queen... and there are the... White Queen
+229,229,Alice,White Knight,Alice writes a memorandum that mentions the White Knight.,The White Knight is sliding down the poker. He balances very badly
+230,230,The Father,Beamish Boy,"The father addresses and embraces his son, the beamish boy.","Beware the Jabberwock, my son!... Come to my arms, my beamish boy!... He chortled in his joy."
+231,231,Beamish Boy,Jabberwock,The beamish boy slays the Jabberwock.,"He left it dead, and with its head He went galumphing back."
+232,232,The Father,Jabberwock,The father warns his son to beware the Jabberwock.,"Beware the Jabberwock, my son!"
+233,233,The Father,Jubjub Bird,The father warns about the Jubjub bird.,Beware the Jubjub bird
+234,234,The Father,Bandersnatch,The father tells his son to shun the Bandersnatch.,and shun The frumious Bandersnatch!
+235,235,Jubjub Bird,Bandersnatch,They are mentioned together in the same sentence of the poem.,"Beware the Jubjub bird, and shun The frumious Bandersnatch!"
+236,236,Alice,Tiger-Lily,Alice and Tiger-Lily speak directly to each other in the flower-bed.,"“O Tiger-lily,” said Alice ... “We can talk,” said the Tiger-lily"
+237,237,Alice,Rose,Alice converses with the Rose who comments on her and answers questions.,"“It isn’t manners for us to begin,” said the Rose"
+238,238,Tiger-Lily,Rose,"Tiger-Lily and Rose discuss Alice together, critiquing her 'petals'.","“If only her petals curled up a little more,” said the Tiger-lily ... “you’re beginning to fade,” the Rose added"
+239,239,Alice,A Daisy,Alice exchanges words with a Daisy and threatens to pick them if they don’t be quiet.,"“It says Bough-wough!” cried a Daisy ... “If you don’t hold your tongues, I’ll pick you!”"
+240,240,Alice,Another Daisy,Another Daisy joins the chatter that Alice hushes.,"“cried another Daisy ... she whispered, ‘If you don’t hold your tongues, I’ll pick you!’”"
+241,241,Tiger-Lily,A Daisy,Tiger-Lily rebukes the daisies and orders them to be silent.,"“Silence, every one of you!” cried the Tiger-lily"
+242,242,Tiger-Lily,Another Daisy,Tiger-Lily’s command also targets the other Daisy who is shouting.,"“Silence, every one of you!” ... “they wouldn’t dare to do it!”"
+243,243,Alice,Violet,"A Violet insults Alice directly, startling her.","“I never saw anybody that looked stupider,” a Violet said ... Alice quite jumped"
+244,244,Tiger-Lily,Violet,Tiger-Lily tells the Violet to hold its tongue and mocks it.,“Hold your tongue!” cried the Tiger-lily ... “You keep your head under the leaves”
+245,245,Alice,Larkspur,Larkspur’s warning prompts Alice to look for the approaching figure.,“She’s coming!” cried the Larkspur ... Alice looked round eagerly
+246,246,Larkspur,Red Queen,Larkspur announces the Red Queen’s approach.,“She’s coming!” ... found that it was the Red Queen
+247,247,Rose,Red Queen,"The Rose describes the other moving flower, who proves to be the Red Queen.","“I daresay you’ll see her soon,” said the Rose. “She’s one of the thorny kind.”"
+248,248,Tiger-Lily,Red Queen,"Tiger-Lily describes the moving flower’s neat petals, referring to the Red Queen.","“Her petals are done up close, almost like a dahlia,” the Tiger-lily interrupted"
+249,249,Alice,Red Queen,"Alice meets, talks with, and runs hand in hand with the Red Queen.",“Where do you come from?” said the Red Queen ... “they were running hand in hand”
+250,250,Red Queen,White Queen,The Red Queen mentions the White Queen when assigning Alice a chess role.,"“You can be the White Queen’s Pawn, if you like”"
+251,251,Red Queen,Lily,The Red Queen references Lily by name as being too young to play.,“as Lily’s too young to play”
+252,252,White Queen,Lily,White Queen and Lily are co-mentioned in the same sentence about the pawn’s role.,“You can be the White Queen’s Pawn ... as Lily’s too young to play”
+253,253,Alice,White Queen,Alice is told she can serve as the White Queen’s pawn.,"“You can be the White Queen’s Pawn, if you like”"
+254,254,Alice,Lily,"Alice is positioned to take Lily’s place as pawn, linking them.",“You can be the White Queen’s Pawn ... as Lily’s too young to play”
+255,255,Red Queen,Tweedledum,The Red Queen names Tweedledum when mapping out the squares for Alice.,“that square belongs to Tweedledum and Tweedledee”
+256,256,Red Queen,Tweedledee,The Red Queen also mentions Tweedledee in the same instruction.,“belongs to Tweedledum and Tweedledee”
+257,257,Red Queen,Humpty Dumpty,The Red Queen tells Alice that the Sixth Square belongs to Humpty Dumpty.,“the Sixth belongs to Humpty Dumpty”
+258,258,Red Queen,A Knight,The Red Queen says one of the Knights will guide the way.,“one of the Knights will show you the way”
+259,259,Alice,Tweedledum,Tweedledum is mentioned directly to Alice as owning a square she will pass.,“that square belongs to Tweedledum and Tweedledee”
+260,260,Alice,Tweedledee,Tweedledee is likewise mentioned to Alice in the travel directions.,“belongs to Tweedledum and Tweedledee”
+261,261,Alice,Humpty Dumpty,Humpty Dumpty is named to Alice as the owner of the Sixth Square.,“the Sixth belongs to Humpty Dumpty”
+262,262,Alice,A Knight,Alice is told that a Knight will show her the way.,“one of the Knights will show you the way”
+263,263,Tweedledum,Tweedledee,Tweedledum and Tweedledee are co-mentioned together as joint owners of a square.,“that square belongs to Tweedledum and Tweedledee”
+264,264,Alice,Guard,Alice and Guard interact on the train when he demands her ticket and looks at her angrily.,"Tickets, please!... Show your ticket, child!... looking angrily at Alice."
+265,265,Alice,Gentleman In White Paper,Alice and the Gentleman In White Paper speak directly when he advises her about return-tickets and she refuses.,"'Never mind what they all say, my dear, but take a return-ticket...' 'Indeed I shan't!' said Alice."
+266,266,Alice,Goat,"Alice shares the carriage with the Goat, who comments on her and whose beard she grabs in fright.",'A Goat... said...' and 'she... caught at... the Goat's beard.'
+267,267,Alice,Beetle,"Alice is in the same carriage as the Beetle, who speaks about sending her back as luggage.",'There was a Beetle... 'She'll have to go back from here as luggage!'
+268,268,Alice,Horse,Alice and the Horse are in the same carriage when it reassures the passengers about jumping the brook.,"The Horse... said, 'It's only a brook we have to jump over.'"
+269,269,Goat,Gentleman In White Paper,"The Goat is seated next to the Gentleman In White Paper, placing them together in the same scene.","A Goat, that was sitting next to the gentleman in white..."
+270,270,Goat,Beetle,"The Beetle is sitting next to the Goat, indicating co-presence in the carriage.",There was a Beetle sitting next to the Goat
+271,271,Alice,Gnat,Alice and the Gnat converse at length under the tree about insects and names.,"the Gnat... 'then you don't like all insects?' 'I like them when they can talk,' Alice said."
+272,272,Alice,Rocking-Horse-Fly,"Alice observes the Rocking-Horse-Fly that the Gnat points out, placing them in the same scene.",you'll see a Rocking-horse-fly... Alice looked up at the Rocking-horse-fly with great interest
+273,273,Gnat,Rocking-Horse-Fly,The Gnat identifies and describes the Rocking-Horse-Fly to Alice.,"'half way up that bush, you'll see a Rocking-horse-fly' ... 'Sap and sawdust,' said the Gnat."
+274,274,Alice,Snap-Dragon-Fly,Alice looks at the Snap-Dragon-Fly above her head after the Gnat directs her to it.,Look on the branch above your head... there you'll find a snap-dragon-fly.
+275,275,Gnat,Snap-Dragon-Fly,The Gnat points out and describes the Snap-Dragon-Fly to Alice.,there you'll find a snap-dragon-fly... its body is made of plum-pudding...
+276,276,Alice,Bread-And-Butterfly,Alice observes the Bread-And-Butterfly crawling at her feet and asks about its food.,Crawling at your feet... you may observe a Bread-and-Butterfly.
+277,277,Gnat,Bread-And-Butterfly,The Gnat describes the Bread-And-Butterfly and answers Alice's questions about it.,Its wings are thin slices of Bread-and-butter... 'Weak tea with cream in it.'
+278,278,Alice,Fawn,Alice and the Fawn speak and walk together through the wood until it recognizes her as a human child.,'What do you call yourself?' the Fawn said... 'So they walked on together...'
+279,279,Alice,Tweedledum,Alice thinks about visiting Tweedledum and follows finger-posts to his house.,TO TWEEDLEDUM'S HOUSE... 'I’ll just call and say how d'you do?'
+280,280,Alice,Tweedledee,Alice thinks about visiting Tweedledee and follows finger-posts to his house.,TO THE HOUSE OF TWEEDLEDEE... 'I’ll just call and say how d'you do?'
+281,281,Alice,Dash,Alice references a named dog Dash while imagining advertisements for lost animals.,answers to the name of Dash: had on a brass collar
+282,282,Tweedledum,Tweedledee,"They appear together constantly, address each other, hug, and plan a battle.",And here the two brothers gave each other a hug.
+283,283,Alice,Tweedledum,"Alice speaks with Tweedledum, shakes hands, dances with him, and helps dress him for the fight.","'Do I look very pale?' said Tweedledum... 'Well—yes—a little,' Alice replied."
+284,284,Alice,Tweedledee,"Alice converses with Tweedledee, dances with him, and pins protection on him.",as she arranged a bolster round the neck of Tweedledee
+285,285,Alice,Her Sister,"Alice later tells her sister the history of the events, indicating interaction.","(Alice said afterwards, when she was telling her sister the history of all this,)"
+286,286,Tweedledum,Red King,Tweedledum talks about the Red King and stands beside his sleeping form.,"'If that there King was to wake,' added Tweedledum, 'you’d go out bang!'"
+287,287,Tweedledee,Red King,Tweedledee explains that the Red King is dreaming about Alice while they look at him.,"'He’s dreaming now,' said Tweedledee."
+288,288,Alice,Red King,Alice observes the sleeping Red King and comments on him.,"'I’m afraid he’ll catch cold with lying on the damp grass,' said Alice."
+289,289,Tweedledee,The Walrus,Tweedledee references the Walrus when comparing his eating to the Carpenter’s.,"'He ate more than the Carpenter, though,' said Tweedledee."
+290,290,Tweedledee,The Carpenter,Tweedledee mentions the Carpenter by name when contrasting him with the Walrus.,"'He ate more than the Carpenter, though,' said Tweedledee."
+291,291,Tweedledum,The Walrus,"Tweedledum proposes reciting The Walrus and the Carpenter, thereby referencing the Walrus.","'The Walrus and the Carpenter is the longest,' Tweedledum replied."
+292,292,Tweedledum,The Carpenter,Tweedledum remarks that the Carpenter ate as many as he could get.,"'But he ate as many as he could get,' said Tweedledum."
+293,293,Alice,The Walrus,Alice explicitly states she prefers the Walrus after the poem.,"'I like the Walrus best,' said Alice."
+294,294,Alice,The Carpenter,Alice then says she prefers the Carpenter if he ate fewer than the Walrus.,'Then I like the Carpenter best if he didn’t eat so many as the Walrus.'
+295,295,The Walrus,The Carpenter,"Within the recited poem, the Walrus and the Carpenter walk and act together.",The Walrus and the Carpenter were walking close at hand;
+296,296,The Walrus,The Eldest Oyster,The Walrus invites the oysters and the Eldest Oyster looks at him and refuses.,"'O Oysters, come and walk with us!' ... 'The eldest Oyster looked at him.'"
+297,297,The Carpenter,The Eldest Oyster,The Carpenter shares the scene with the Eldest Oyster during the oysters’ episode.,"'I doubt it,' said the Carpenter... 'The eldest Oyster looked at him.'"
+298,298,Tweedledee,The Eldest Oyster,"By reciting the poem, Tweedledee names and references the Eldest Oyster.",The eldest Oyster looked at him. But never a word he said:
+299,299,Alice,White Queen,Alice and the White Queen meet and converse while Alice helps the Queen with her shawl and hair.,the White Queen came running... and Alice very civilly went to meet her with the shawl.
+300,300,White Queen,King's Messenger,"The White Queen references the King’s Messenger, explaining he is in prison and his trial is yet to begin.","there’s the King’s Messenger. He’s in prison now, being punished"
+301,301,Alice,King's Messenger,Alice talks about the King’s Messenger by questioning what happens if he never commits the crime.,Suppose he never commits the crime? said Alice.
+302,302,Alice,Sheep,Alice interacts with the Sheep in the shop and while rowing as the Sheep knits and instructs her.,"opposite to her was an old Sheep, sitting in an arm-chair knitting... Feather! cried the Sheep"
+303,303,Alice,Humpty Dumpty,Alice and Humpty Dumpty directly converse for the whole scene and even shake hands.,tell me your name and your business ... My name is Alice ... you may shake hands with me ... she took it
+304,304,Humpty Dumpty,White King,"Humpty Dumpty references the White King, saying the King promised help if he fell and that the White King (with the Queen) gave him his cravat.",It is a present from the White King and Queen
+305,305,Humpty Dumpty,White Queen,Humpty Dumpty mentions the White Queen as a giver of his cravat.,It is a present from the White King and Queen
+306,306,Alice,Tweedledee,Alice references Tweedledee as the one who repeated poetry to her earlier.,"by Tweedledee, I think it was"
+307,307,Alice,White King,Alice references the King when she quotes and completes the line about the King's horses and men (here the King is the White King in the Looking-Glass world).,"All the King's horses and all the King's men ... To send all his horses and all his men, Alice interrupted"
+308,308,Alice,White King,Alice meets and speaks with the White King as he questions her and she replies.,"'where she found the White King seated on the ground... 'I've sent them all!'... 'Yes, I did,' said Alice."
+309,309,Alice,Haigha,Alice interacts with Haigha as he whispers to her and later he introduces her to the Unicorn.,'Haigha whispered to Alice'
+310,310,Alice,Hatta,Alice and Hatta exchange remarks about the refreshments during the fight.,"'Then I suppose they'll soon bring the white bread and the brown?' ... 'It's waiting for 'em now,' said Hatta."
+311,311,Alice,Lion,The Lion directly addresses Alice while she serves cake.,The Lion looked at Alice wearily. 'Are you animal vegetable or mineral?'
+312,312,Alice,Unicorn,Alice and the Unicorn speak and agree to believe in each other.,"'if you'll believe in me, I'll believe in you.' 'Yes, if you like,' said Alice."
+313,313,Alice,White Queen,Alice spots and points out the White Queen running across the country.,"'Look, look!' ... 'There's the White Queen running across the country!'"
+314,314,White King,Haigha,The White King directs Haigha during the scene and relies on him for provisions.,"the King muttered, and beckoned to Haigha."
+315,315,White King,Hatta,The White King speaks to Hatta and orders him to start the drums.,"'I don't think they'll fight any more to-day,' the King said to Hatta: 'go and order the drums to begin.'"
+316,316,White King,Lion,The Lion addresses the King during the cake scene.,"'And sit down, both of you,' (to the King and the Unicorn) said the Lion."
+317,317,White King,Unicorn,The Unicorn talks directly to the King about the fight.,'I had the best of it this time?' he said to the King.
+318,318,White King,White Queen,The White King discusses the White Queen as she runs past and declines to help her.,"'There's the White Queen...' ... 'No use, no use!' said the King."
+319,319,Haigha,Hatta,Haigha affectionately addresses Hatta and asks about his time in prison.,"putting his arm affectionately round Hatta's neck... 'Were you happy in prison, dear child?'"
+320,320,Haigha,Lion,Haigha serves refreshments in the same scene where the Lion pauses the fight to eat.,"the Lion and the Unicorn sat down, panting... Haigha and Hatta set to work at once, carrying... bread."
+321,321,Haigha,Unicorn,Haigha responds to the Unicorn by identifying Alice as a child.,'What is this?' ... 'This is a child!' Haigha replied eagerly.
+322,322,Hatta,Lion,Hatta serves food during the refreshment break while the Lion sits to eat.,"the Lion and the Unicorn sat down, panting... Hatta set to work... carrying... bread."
+323,323,Hatta,Unicorn,Hatta serves refreshments to the Unicorn during the break.,"the Lion and the Unicorn sat down... Hatta set to work at once, carrying... bread."
+324,324,Lion,Unicorn,The Lion and the Unicorn repeatedly fight for the crown and share a truce for refreshments.,The Lion and the Unicorn were fighting for the crown.
+325,325,Alice,Red Knight,"The Red Knight confronts Alice, declares her his prisoner, and speaks with her before and after the fight.",'You're my prisoner!' the Knight cried.
+326,326,Alice,White Knight,"Alice and the White Knight travel together, she helps him repeatedly, and he sings her a song.","'Thank you very much,' said Alice. 'May I help you off with your helmet?'"
+327,327,White Knight,Red Knight,"The two Knights meet, claim Alice, and fight each other according to the Rules of Battle.","'We must fight for her, then,' said the Red Knight."
+328,328,Alice,Red King,Alice explicitly wonders if she is in the Red King's dream and thinks about waking him.,"'I do hope it's my dream, and not the Red King's!'"
+329,329,Alice,Lion,Alice recalls having dreamed about the Lion.,she must have been dreaming about the Lion and the Unicorn
+330,330,Alice,Unicorn,Alice recalls having dreamed about the Unicorn.,she must have been dreaming about the Lion and the Unicorn
+331,331,Lion,Unicorn,The Lion and the Unicorn are mentioned together as figures in Alice's dream.,dreaming about the Lion and the Unicorn
+332,332,White Knight,Other White Knight,The White Knight recounts an encounter where the other White Knight put on the helmet he was stuck in.,the other White Knight came and put it on.
+333,333,Alice,Punch,Alice compares the Knights' club-holding to Punch and Judy.,as if they were Punch and Judy
+334,334,Alice,Judy,Alice compares the Knights' club-holding to Punch and Judy.,as if they were Punch and Judy
+335,335,Punch,Judy,Punch and Judy are referenced together as a pair in Alice's comparison.,as if they were Punch and Judy
+336,336,Alice,Red Queen,"Alice and the Red Queen directly converse and interact repeatedly, including scolding, questioning, and dinner orders.","“So you did, you know,” the Red Queen said to Alice."
+337,337,Alice,White Queen,"Alice and the White Queen interact closely, including conversation and the White Queen resting on Alice’s shoulder.","“The White Queen gave a deep sigh, and laid her head on Alice’s shoulder.”"
+338,338,Red Queen,White Queen,The Red Queen and White Queen speak to each other and coordinate invitations at Alice’s dinner-party.,"“The Red Queen... to the White Queen, ‘I invite you to Alice’s dinner-party...’ — ‘And I invite you.’”"
+339,339,White Queen,Humpty Dumpty,The White Queen recounts Humpty Dumpty’s actions and presence during a thunderstorm.,"“Humpty Dumpty saw it too, the White Queen went on... He came to the door with a corkscrew in his hand.”"
+340,340,Red Queen,Humpty Dumpty,The Red Queen references Humpty Dumpty by asking what he wanted in the White Queen’s story.,“What did he want?” said the Red Queen.
+341,341,Alice,Humpty Dumpty,Alice references Humpty Dumpty by asserting she knows why he came.,"“I know what he came for,” said Alice."
+342,342,Alice,Frog,Alice and the Frog directly converse at the doorway about answering the door.,"“What is it, now?” the Frog said... “This door, of course!”"
+343,343,Alice,Her Sister,"The narration states Alice later told her sister the history of the feast, indicating a reference/interaction.","(...she said afterwards, when she was telling her sister the history of the feast.)"
+344,344,Alice,The Red Queen,Alice directly interacts with the Red Queen by taking her off the table and shaking her in the same scene.,The Red Queen made no resistance whatever ... as Alice went on shaking her
+345,345,Alice,Kitty,"Alice speaks to and kisses Kitty, directly interacting with her.","Your majesty shouldn’t purr so loud, Alice said... And she caught it up and gave it one little kiss"
+346,346,Alice,Red Queen,Alice handles the Red Queen chess piece and sets it before Kitty.,she had found the Red Queen: then she... put the kitten and the Queen to look at each other
+347,347,Kitty,Red Queen,Kitty is placed facing the Red Queen and is said to have turned into her.,put the kitten and the Queen to look at each other... it must have been the Red Queen
+348,348,Alice,Snowdrop,"Alice addresses Snowdrop, the White Kitten, during the scene.","Snowdrop, my pet! she went on, looking over her shoulder at the White Kitten"
+349,349,Alice,Dinah,Alice talks to Dinah about washing and the dream.,Dinah! do you know that you’re scrubbing a White Queen?
+350,350,Snowdrop,Dinah,"Dinah is described as washing Snowdrop, indicating interaction.","the White Kitten, which was still patiently undergoing its toilet... when will Dinah have finished with your White Majesty"
+351,351,Dinah,White Queen,Alice says Dinah is scrubbing a White Queen in the dream.,Dinah! do you know that you’re scrubbing a White Queen?
+352,352,Snowdrop,White Queen,"Snowdrop is addressed as a White Majesty, implying she turned into the White Queen.",your White Majesty... you’re scrubbing a White Queen
+353,353,Alice,White Queen,Alice references the White Queen while speaking to the kittens.,you’re scrubbing a White Queen
+354,354,Alice,Humpty Dumpty,Alice wonders if Dinah turned into Humpty Dumpty.,"Tell me, Dinah, did you turn to Humpty Dumpty?"
+355,355,Dinah,Humpty Dumpty,Alice links Dinah with Humpty Dumpty by suggesting a transformation.,"Tell me, Dinah, did you turn to Humpty Dumpty?"
+356,356,Alice,The Walrus,Alice says she will recite The Walrus and the Carpenter.,I’ll repeat The Walrus and the Carpenter to you
+357,357,Alice,The Carpenter,Alice mentions the Carpenter as part of the poem she will recite.,I’ll repeat The Walrus and the Carpenter to you
+358,358,Kitty,The Walrus,Kitty is the listener for The Walrus and the Carpenter recitation.,I’ll repeat The Walrus and the Carpenter to you
+359,359,Kitty,The Carpenter,Kitty is addressed in the sentence naming the Carpenter.,I’ll repeat The Walrus and the Carpenter to you
+360,360,Alice,Red King,Alice debates whether she or the Red King dreamed it.,it must have been either me or the Red King
+361,361,Kitty,Red King,"Alice tells Kitty she was the Red King’s wife, invoking him with her.","Was it the Red King, Kitty? You were his wife, my dear"
+362,362,Alice,Her Sister,Alice later explains the incident to her sister.,"she said, when she was explaining the thing afterwards to her sister"
+363,363,Kitty,Snowdrop,Both kittens are present and watched together in the same scene.,"Snowdrop, my pet!... By the way, Kitty"
+364,364,Her Sister,Red Queen,"While speaking to her sister, Alice says the kitten must have been the Red Queen.",she was explaining the thing afterwards to her sister... so I think it must have been the Red Queen
+365,365,Her Sister,Kitty,Alice tells her sister that the kitten (Kitty) refused to look at the Queen.,"it wouldn’t look at it, she said... to her sister"
+366,366,The Walrus,The Carpenter,The two are named together as the poem’s protagonists.,The Walrus and the Carpenter

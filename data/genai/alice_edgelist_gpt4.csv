@@ -1,0 +1,129 @@
+idx,source,target,reasoning,support_text
+0,Alice,Sister,Alice interacts with her sister as they sit together on the bank.,"Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do."
+1,Alice,White Rabbit,"Alice sees the White Rabbit run by, prompting her curiosity and pursuit.",when suddenly a White Rabbit with pink eyes ran close by her.
+2,Alice,Dinah,"Alice expresses a desire for Dinah, her cat, to be with her while falling down the rabbit hole.","Dinah ll miss me very much to-night, I should think! (Dinah was the cat.)"
+3,Alice,Dinah,Alice talks about Dinah to herself while pondering about animals she could encounter down the hole.,I wish you were down here with me!
+4,Alice,Alice,"Alice keeps talking to herself during her fall, showing her thoughts and curiosities.","she was rather glad there _was_ no one listening, this time, as it didn t sound at all the right word."
+5,Alice,Alice,"Alice scolds herself for crying, revealing her inner dialogue.","Come, there s no use in crying like that! said Alice to herself, rather sharply."
+6,Alice,Alice,"Alice contemplates her situation and feels diminished, reflecting on her identity.","Why, there s hardly enough of me left to make _one_ respectable person!"
+7,Alice,Alice,Alice dreams of being with Dinah while associating with her own imagination.,she had just begun to dream that she was walking hand in hand with Dinah.
+8,Alice,Alice,Alice having a conversation with herself about the cake she found and its potential effects.,"I ll eat it, said Alice, and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door."
+9,Alice,White Rabbit,They interacted when Alice spoke to the White Rabbit.,"It was the White Rabbit returning, splendidly dressed, with a pair of white kid gloves in one hand and a large fan in the other: he came trotting along in a great hurry, muttering to himself as he came, Oh! the Duchess, the Duchess!"
+10,Alice,Mouse,They interacted when Alice tried to speak to the Mouse in the pool.,"So she began: O Mouse, do you know the way out of this pool? I am very tired of swimming about here, O Mouse!"
+11,Alice,Dinah,Alice mentioned Dinah the cat while talking to the Mouse.,And yet I wish I could show you our cat Dinah: I think you d take a fancy to cats if you could only see her.
+12,Mouse,Dinah,"The Mouse expressed a strong dislike of cats, indicating a relationship with Dinah indirectly.","Our family always hated cats: nasty, low, vulgar things!"
+13,Alice,Dodo,"Alice was associated with the Dodo in the pool of tears scene, as part of the crowd of creatures.","for the pool was getting quite crowded with the birds and animals that had fallen into it: there were a Duck and a Dodo, a Lory and an Eaglet, and several other curious creatures."
+14,Alice,Duck,Alice was associated with the Duck in the pool of tears scene.,"for the pool was getting quite crowded with the birds and animals that had fallen into it: there were a Duck and a Dodo, a Lory and an Eaglet, and several other curious creatures."
+15,Alice,Lory,Alice was associated with the Lory in the pool of tears scene.,"for the pool was getting quite crowded with the birds and animals that had fallen into it: there were a Duck and a Dodo, a Lory and an Eaglet, and several other curious creatures."
+16,Alice,Eaglet,Alice was associated with the Eaglet in the pool of tears scene.,"for the pool was getting quite crowded with the birds and animals that had fallen into it: there were a Duck and a Dodo, a Lory and an Eaglet, and several other curious creatures."
+17,Alice,Lory,Alice and the Lory had a long argument about age.,"Indeed, she had quite a long argument with the Lory, who at last turned sulky..."
+18,Alice,Mouse,Alice interacted with the Mouse as it called for attention.,the Mouse in the middle. Alice kept her eyes anxiously fixed on it...
+19,Alice,Dodo,Alice was addressed by the Dodo during a serious discussion on drying off.,"How are you getting on now, my dear? it continued, turning to Alice as it spoke."
+20,Alice,Duck,Alice interacted with the Duck when it asked about the archbishop's findings.,Found what? said the Duck.
+21,Dodo,Eaglet,The Dodo was offended by the Eaglet's interruption during its speech.,"What I was going to say, said the Dodo in an offended tone..."
+22,Lory,Mouse,The Lory interrupted the Mouse while it was speaking.,"Ugh! said the Lory, with a shiver. I beg your pardon! said the Mouse..."
+23,Mouse,Lory,The Mouse and the Lory had a conversation during the meeting.,"I thought you did, said the Mouse."
+24,Mouse,Duck,The Mouse interacted with the Duck during the discussion about the archbishop.,"The question is, what did the archbishop find?"
+25,Dodo,Alice,The Dodo pointed out Alice as the one to present prizes after the race.,"Why, she, of course, said the Dodo, pointing to Alice with one finger."
+26,Alice,Dinah,"Alice expressed her wishes and affection for her pet cat, Dinah.","I wish I had our Dinah here, I know I do! said Alice aloud..."
+27,Lory,Alice,The Lory asked Alice about her pet cat Dinah.,"And who is Dinah, if I might venture to ask the question? said the Lory."
+28,Alice,Young Crab,Alice interacted with the young Crab during the exchange of opinions.,"Hold your tongue, Ma! said the young Crab, a little snappishly."
+29,White Rabbit,Alice,They interact when the Rabbit mistakes Alice for Mary Ann and asks her to fetch his gloves and fan.,"Why, Mary Ann, what _are_ you doing out here? Run home this moment, and fetch me a pair of gloves and a fan! Quick, now!"
+30,Alice,Dinah,Alice mentions Dinah when she thinks about who might send her on errands.,I suppose Dinah ll be sending me on messages next!
+31,Alice,Mary Ann,"The Rabbit calls for Mary Ann multiple times, indicating that Alice is mistaken for her.",Mary Ann! Mary Ann! said the voice.
+32,Rabbit,Bill,"The Rabbit commands Bill to go down the chimney, indicating a relationship of authority.",the master says you re to go down the chimney!
+33,Bill,Rabbit,"Bill responds to the Rabbit's commands, indicating a subordinate relationship.","Shy, they seem to put everything upon Bill!"
+34,Rabbit,Pat,The Rabbit calls for Pat to help him out after Alice's actions cause chaos.,Pat! Pat! Where are you?
+35,Alice,Bill,Alice speculates about Bill being in a difficult position and thinks about giving him a kick.,"I wouldn t be in Bill s place for a good deal: this fireplace is narrow, to be sure; but I _think_ I can kick a little!"
+36,Alice,Caterpillar,Alice interacts with the Caterpillar when she observes it on top of a mushroom.,"she might as well look and see what was on the top of it. She stretched herself up on tiptoe, and peeped over the edge of the mushroom, and her eyes immediately met those of a large blue caterpillar."
+37,Bill,Guinea-Pigs,"Bill is being held by the guinea-pigs, showing interaction among them.","the poor little Lizard, Bill, was in the middle, being held up by two guinea-pigs, who were giving it something out of a bottle."
+38,Dinah,Alice,Alice reflects on Dinah and imagines what she would say to her.,I do wish I hadn t drunk quite so much!
+39,Alice,Caterpillar,Alice and the Caterpillar interact in conversation about identity and change.,"The Caterpillar and Alice looked at each other for some time in silence: at last the Caterpillar took the hookah out of its mouth, and addressed her in a languid, sleepy voice."
+40,Alice,Caterpillar,Alice feels irritated at the Caterpillar's short replies during their conversation.,Alice felt a little irritated at the Caterpillar s making such _very_ short remarks.
+41,Alice,Caterpillar,Alice asks the Caterpillar to explain itself as they discuss their changes.,"I think, you ought to tell me who _you_ are, first."
+42,Caterpillar,Alice,The Caterpillar expresses its discontent with Alice's explanations.,"Not _quite_ right, I m afraid, said Alice, timidly; some of the words have got altered."
+43,Alice,Pigeon,"Alice encounters the Pigeon, who mistakes her for a serpent.",Serpent! screamed the Pigeon.
+44,Pigeon,Alice,"The Pigeon continues to insist that Alice is a serpent, leading to their interaction.",A likely story indeed! said the Pigeon in a tone of the deepest contempt.
+45,Alice,Pigeon,Alice insists she is not a serpent during her confrontation with the Pigeon.,"I m _not_ a serpent, I tell you! said Alice."
+46,Pigeon,Alice,"The Pigeon implies that Alice is looking for eggs, furthering their dialogue.","You re looking for eggs, I know _that_ well enough; and what does it matter to me whether you re a little girl or a serpent?"
+47,Alice,Footman,Alice interacts with the Footman when she tries to knock on the door and ask how to get in.,"Please, then, said Alice, how am I to get in?"
+48,Footman,Duchess,The Footman mentions the Duchess in relation to the invitation he is delivering.,For the Duchess. An invitation from the Queen to play croquet.
+49,Alice,Duchess,Alice meets the Duchess in the kitchen where they have a conversation about the cat.,"It s a Cheshire cat, said the Duchess, and that s why."
+50,Duchess,Baby,The Duchess interacts with the Baby by nursing and shaking it while singing.,"the Duchess was sitting on a three-legged stool in the middle, nursing a baby."
+51,Alice,Baby,Alice catches the Baby when it is thrown to her by the Duchess.,"Here! you may nurse it a bit, if you like! the Duchess said to Alice, flinging the baby at her as she spoke."
+52,Alice,CheshireCat,Alice converses with the Cheshire Cat as she seeks guidance on her path.,"Cheshire Puss, she began, rather timidly, as she did not at all know whether it would like the name."
+53,CheshireCat,Baby,The Cheshire Cat mentions the Baby in the context of it turning into a pig.,"By-the-bye, what became of the baby? said the Cat."
+54,Duchess,Cook,The Duchess shares a scene with the Cook as she interacts with the cook throwing things during dinner preparation.,"The cook was busily stirring the soup, and seemed not to be listening."
+55,Alice,MarchHare,Alice mentions the March Hare as she approaches the house.,she walked on in the direction in which the March Hare was said to live.
+56,CheshireCat,Alice,The Cheshire Cat engages in dialogue with Alice about her being mad.,"Oh, you can t help that, said the Cat: we re all mad here."
+57,CheshireCat,Hatter,The Cheshire Cat mentions the Hatter while giving directions to Alice.,"In _that_ direction, the Cat said, waving its right paw round, lives a Hatter: and in _that_ direction, waving the other paw, lives a March Hare."
+58,Alice,Hatter,Alice considers visiting the Hatter after learning about him from the Cheshire Cat.,"I ve seen hatters before, she said to herself; the March Hare will be much the most interesting..."
+59,Alice,March Hare,They interacted during the tea party discussing the lack of wine.,"Have some wine, the March Hare said in an encouraging tone."
+60,Alice,Hatter,They interacted during the tea party where the Hatter made comments about Alice's hair.,"Your hair wants cutting, said the Hatter."
+61,Alice,Dormouse,They interacted during the tea party; Alice requested the Dormouse to tell a story.,"Yes, please do! pleaded Alice."
+62,March Hare,Hatter,"They interacted during the tea party, engaging in a conversation about Time.",I told you butter wouldn t suit the works! he added looking angrily at the March Hare.
+63,Hatter,Dormouse,"They interacted during the tea party, where the Hatter poured tea on the Dormouse.","The Dormouse is asleep again, said the Hatter, and he poured a little hot tea upon its nose."
+64,March Hare,Dormouse,They interacted by discussing the Dormouse's unwillingness to wake up.,"Wake up, Dormouse! And they pinched it on both sides at once."
+65,Alice,Time,Alice referenced Time during her conversation with the Hatter.,"If you knew Time as well as I do, said the Hatter, you wouldn t talk about wasting it."
+66,Dormouse,Elsie,The Dormouse mentioned the names of the sisters in the story it began to tell.,"Once upon a time there were three little sisters, the Dormouse began in a great hurry; and their names were Elsie, Lacie, and Tillie."
+67,Dormouse,Lacie,The Dormouse mentioned the names of the sisters in the story it began to tell.,"their names were Elsie, Lacie, and Tillie."
+68,Dormouse,Tillie,The Dormouse mentioned the names of the sisters in the story it began to tell.,"their names were Elsie, Lacie, and Tillie."
+69,Alice,Five,Included because Alice watched Five painting the roses and they interacted directly.,"Alice thought this a very curious thing, and she went nearer to watch them."
+70,Five,Seven,Included because Five and Seven were discussing blame and presented together in the same scene.,I heard the Queen say only yesterday you deserved to be beheaded! What for? said the one who had spoken first.
+71,Seven,Two,Included because Seven and Two interacted when discussing their mistake with the rose tree.,Always lay the blame on others! You d better not talk! said Five.
+72,Alice,Queen,Included because Alice directly spoke to the Queen when she questioned her presence.,"What s your name, child?"
+73,Queen,King,Included because the Queen and King appeared together and interacted multiple times.,"The King laid his hand upon her arm, and timidly said Consider, my dear: she is only a child!"
+74,Alice,White Rabbit,Included because Alice asked the White Rabbit where the Duchess was and they interacted.,"Very, said Alice: where s the Duchess?"
+75,White Rabbit,Queen,Included because the White Rabbit mentioned the Queen while discussing the Duchess's fate.,She boxed the Queen s ears the Rabbit began.
+76,Cheshire Cat,Alice,Included because the Cheshire Cat engaged in conversation with Alice.,"How are you getting on? said the Cat, as soon as there was mouth enough for it to speak with."
+77,Alice,Cheshire Cat,Included because Alice initiated conversation with the Cheshire Cat.,Alice began an account of the game.
+78,Queen,Cheshire Cat,Included as the Queen expressed her desire to have the Cat removed.,I wish you would have this cat removed!
+79,King,Queen,Included because the King appealed to the Queen regarding the removal of the Cat.,My dear! I wish you would have this cat removed!
+80,Alice,Duchess,Included because Alice referenced the Duchess while trying to deflect the Queen's wrath.,It belongs to the Duchess: you d better ask her about it.
+81,Executioner,Queen,Included because the Executioner was responding directly to the Queen in the conversation about beheading.,The Queen said to the executioner: fetch her here.
+82,Alice,Duchess,"Alice interacts and walks with the Duchess, reflecting on her previous encounter.","You can t think how glad I am to see you again, you dear old thing! said the Duchess, as she tucked her arm affectionately into Alice s, and they walked off together."
+83,Alice,Queen,Alice is directly addressed by the Queen and has a tense interaction regarding the executions.,"Now, I give you fair warning, shouted the Queen, stamping on the ground as she spoke; either you or your head must be off, and that in about half no time!"
+84,Duchess,Queen,"The Duchess refers to the Queen when she begins to speak, showing their interaction.","A fine day, your Majesty! the Duchess began in a low, weak voice."
+85,Alice,Gryphon,"Alice converses with the Gryphon, who is tasked with taking her to the Mock Turtle.","Up, lazy thing! said the Queen, and take this young lady to see the Mock Turtle, and to hear his history."
+86,Gryphon,Mock Turtle,"The Gryphon introduces Alice to the Mock Turtle, establishing the relationship between the two creatures.","This here young lady, said the Gryphon, she wants for to know your history, she do."
+87,Mock Turtle,Gryphon,The Mock Turtle and Gryphon are conversing during the story and showing their companionship.,"Hold your tongue! added the Gryphon, before Alice could speak again."
+88,Alice,Mock Turtle,Alice engages in a conversation questioning the Mock Turtle about his past.,"What is his sorrow? she asked the Gryphon, and the Gryphon answered, very nearly in the same words as before, It s all his fancy, that: he hasn t got no sorrow, you know."
+89,Alice,Mock Turtle,Alice interacts with the Mock Turtle during their conversation about the Lobster Quadrille.,"He looked at Alice, and tried to speak, but for a minute or two sobs choked his voice."
+90,Alice,Gryphon,Alice and the Gryphon have a back-and-forth conversation about various topics.,"Would you like to see a little of it? said the Mock Turtle. Very much indeed, said Alice."
+91,Mock Turtle,Gryphon,The Mock Turtle frequently speaks to the Gryphon and they share in leading the discussion about the dance.,"Come, let s try the first figure! said the Mock Turtle to the Gryphon."
+92,Gryphon,Alice,The Gryphon prompts Alice to share her adventures and engages in dialogue with her.,"Come, let s hear some of your adventures."
+93,Mock Turtle,Gryphon,They both participate in the discussion about the Lobster Quadrille and each other's sayings.,"That s very curious. It s all about as curious as it can be, said the Gryphon."
+94,Mock Turtle,Alice,The Mock Turtle addresses Alice directly during their interactions.,I should like to hear her try and repeat something now.
+95,Gryphon,Mock Turtle,The Gryphon and Mock Turtle converse and respond to each other's statements throughout the text.,"Well, I never heard it before, said the Mock Turtle; but it sounds uncommon nonsense."
+96,Mock Turtle,Gryphon,The Mock Turtle often seeks the Gryphon's approval or responds to Gryphon's inquiries.,It s the first position in dancing.
+97,Alice,Whiting,Alice's conversation about the whiting leads to her learning more about it indirectly from the Mock Turtle.,"I can tell you more than that, if you like, said the Gryphon."
+98,Mock Turtle,Whiting,The Mock Turtle explains the relationship of the whiting to the items associated with boots and shoes.,"The reason is, said the Gryphon, that they would go with the lobsters to the dance."
+99,Mock Turtle,Porpoise,The Mock Turtle mentions the porpoise while explaining why a fish wouldn't travel without it.,no wise fish would go anywhere without a porpoise.
+100,Alice,Snail,"Alice discusses the concept of the snail in relation to the dance, referencing its desire to join.","Will you, won t you, will you, won t you, will you join the dance?"
+101,Mock Turtle,Lobsters,The Mock Turtle and Gryphon discuss lobsters as part of the dance instruction.,Change lobsters again! yelled the Gryphon at the top of its voice.
+102,Gryphon,Lobsters,The Gryphon talks about lobsters in the context of the dance they are explaining.,"Of course, the Mock Turtle said: advance twice, set to partners change lobsters."
+103,Alice,Caterpillar,Alice references her experience with the Caterpillar when telling her story.,"her repeating _You are old, Father William_, to the Caterpillar."
+104,Mock Turtle,Owl,The Mock Turtle references the Owl in the context of a poem they discuss.,How the Owl and the Panther were sharing a pie.
+105,Mock Turtle,Panther,The Mock Turtle includes the Panther as part of the story while discussing her poem.,How the Owl and the Panther were sharing a pie.
+106,King,Queen of Hearts,They are both seated on the throne together.,The King and Queen of Hearts were seated on their throne when they arrived.
+107,King,White Rabbit,They interact during the court proceedings.,"The White Rabbit cried out, Silence in the court! and the King put on his spectacles."
+108,King,Alice,Alice thinks about the King as the judge.,"That s the judge, she said to herself, because of his great wig."
+109,Queen of Hearts,Hatter,The Queen is staring at the Hatter during the trial.,All this time the Queen had never left off staring at the Hatter.
+110,Hatter,March Hare,They are together in the court.,"The Hatter looked at the March Hare, who had followed him into the court."
+111,Hatter,Dormouse,The Hatter is in the court with the Dormouse.,"The Hatter looked at the March Hare, who had followed him into the court, arm-in-arm with the Dormouse."
+112,Alice,Dormouse,Alice interacts with Dormouse who is sitting next to her.,"I wish you wouldn t squeeze so, said the Dormouse, who was sitting next to her."
+113,Dormouse,Queen of Hearts,The Dormouse is mentioned in relation to the Queen's reaction.,Behead that Dormouse! Turn that Dormouse out of court!
+114,Hatter,King,The Hatter is addressing the King during his testimony.,"Give your evidence, said the King; and don t be nervous."
+115,King,Bill,The King interacts with Bill in the context of the trial.,"the poor little juror (it was Bill, the Lizard) could not make out at all what had become of it."
+116,White Rabbit,Hatter,The White Rabbit calls the Hatter as a witness.,"Call the first witness, said the King; and the White Rabbit blew three blasts on the trumpet, and called out, First witness!"
+117,White Rabbit,Alice,Alice is surprised to hear her own name called by the White Rabbit.,"Imagine her surprise, when the White Rabbit read out, at the top of his shrill little voice, the name Alice!"
+118,Alice,King,Alice interacted with the King during the trial and responded to his questions.,"What do you know about this business? the King said to Alice. Nothing, said Alice."
+119,Alice,Queen,Alice had a confrontation with the Queen during the trial.,Off with her head! the Queen shouted at the top of her voice.
+120,Alice,White Rabbit,Alice interacted with the White Rabbit who played a role in the trial proceedings.,"What s in it? said the Queen. I haven t opened it yet, said the White Rabbit."
+121,Alice,Lizard,Alice showed concern for the Lizard during the trial.,"she had put the Lizard in head downwards, and the poor little thing was waving its tail about."
+122,Alice,Sister,Alice interacted with her sister at the end of the chapter when she woke up from her dream.,"Wake up, Alice dear! said her sister; Why, what a long sleep you ve had!"
+123,Sister,Alice,"The sister thought about Alice and her adventures, reflecting on her childhood.",thinking of little Alice and all her wonderful Adventures.
+124,King,Queen,The King and Queen interacted during the trial and discussed the proceedings.,"You are, said the King. Nearly two miles high, added the Queen."
+125,White Rabbit,King,The White Rabbit spoke to the King about evidence during the trial.,"Please your Majesty, said the Knave, I didn t write it, and they can t prove I did."
+126,Queen,Lizard,"The Queen reacted violently towards the Lizard, indicating her authority over him.","Never! said the Queen furiously, throwing an inkstand at the Lizard as she spoke."
+127,King,Knave,The King and the Knave had a discussion about the evidence presented.,"Please your Majesty, said the Knave, I didn t write it, and they can t prove I did."
