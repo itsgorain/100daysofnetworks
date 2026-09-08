@@ -1,4 +1,5 @@
 entity,genre
+Crystal Ballroom,folk
 Pokey LaFarge,folk
 Aladdin Theater,folk
 Cicada Rhythm,folk
@@ -20,12 +21,15 @@ Band of Horses,folk
 Moda Center,folk
 Allen Stone,folk
 Lila Forde,folk
-Shawn James,folk
 McMenamins Mission Theater,folk
 Great Lake Swimmers,folk
+Shawn James,folk
 Maggie Ray,folk
 Jackson Warner and the Damn Well Please,folk
 ReveleveR,folk
+Olive Klug,folk
+Frail Talk,folk
+Wise Hall,folk
 Polaris Hall,folk
 Laura Veirs,folk
 Joshua Josue,folk
@@ -55,8 +59,8 @@ The Old Church Concert Hall,folk
 Beth Orton,folk
 Hillbilly Supper Club,folk
 Maya de Vitry,folk
-Crys Matthews,folk
 Artichoke Music,folk
+Crys Matthews,folk
 Ben Landsverk,folk
 Kyleen King,folk
 Shawn Brown,folk
@@ -70,13 +74,13 @@ The Tillinghast Mtn Duo,folk
 Clay Street Studios,folk
 Downey Chase,folk
 Cole Scheifele,folk
+Showdown Saloon,folk
+Madeline Hawthorne,folk
+Cristina Vane,folk
 Free Creatures,folk
 Emily Turner,folk
 Alcyon Massive,folk
 Heaven Zest,folk
-Showdown Saloon,folk
-Madeline Hawthorne,folk
-Cristina Vane,folk
 Natalie Ribbons,folk
 Tele Novella,folk
 Jason Chronis,folk
@@ -111,12 +115,12 @@ Brian McClintic,folk
 Z Musikmakers,folk
 Portland Dance Center,folk
 Bethany Village Shopping Complex,folk
+Eihwar,folk
 Mississippi Pizza & Atlantis Lounge,folk
 Barry Walker Unit,folk
 Serafima,folk
 Sanae Yamada,folk
 Richard B. Simon,folk
-Eihwar,folk
 Jess Ray,folk
 John Van Deusen,folk
 Village Grace Church,folk
@@ -131,7 +135,6 @@ Xander Hitzig,folk
 Nicole Olney,folk
 The Abettors,folk
 Happy For No Reason,folk
-Crystal Ballroom,folk
 Altin Gün,folk
 Marin Seven,folk
 Drift.Co,folk
@@ -214,11 +217,11 @@ Shawn Brown Band,folk
 Brooks Robertson,folk
 Amy Helm,folk
 Sean Hayes,folk
+Ryder Wolfe and the Hunt,folk
 Revolution Hall,folk
 Grateful Dead,folk
 David Rawlings,folk
 Gillian Welch,folk
-Ryder Wolfe and the Hunt,folk
 BAILEN,folk
 Falcon Heart,folk
 The Get Ahead,folk
@@ -230,9 +233,9 @@ River Spell,folk
 John-Robert,folk
 Edda Glass,folk
 Max Hatt,folk
-Pedro Pastor,folk
 The BraziBites,folk
 Nei Van Soria,folk
+Pedro Pastor,folk
 Destinie Lynn,folk
 Damn Tall Buildings,folk
 Glitterfox,folk
@@ -324,13 +327,13 @@ Searows,folk
 Alec Duckart,folk
 Josh Fortenbery,folk
 smilepile,folk
+John Gorka,folk
 Hannah Lew,folk
 Grass Widow,folk
 Nowhere Flower,folk
 Strange Babes,folk
 Lila Jarzombek,folk
 Cold Beat,folk
-John Gorka,folk
 Alexis Mahler,folk
 Joe Kye,folk
 Mother Foucault's Bookshop,folk
@@ -362,9 +365,9 @@ Yasmin Williams,folk
 The Turkey Buzzards,folk
 Ásgeir,folk
 Kyle Glenn & The Wandering Kind,folk
+Jaimee Harris,folk
 Taylor Kingman,folk
 Brett Dennen,folk
-Jaimee Harris,folk
 Gretta Seabird,folk
 Joel Shelley,folk
 Paolo Angeli,folk
@@ -409,8 +412,8 @@ Hayley Lynn,folk
 Laura Gibson,folk
 Blair Borax,folk
 Second Story Studios,folk
-Amos Heart,folk
 buffchick,folk
+Amos Heart,folk
 The Riff,folk
 Portland Radio Project,folk
 B-Side Records & Vintage,folk
@@ -567,6 +570,171 @@ Isiah Driessen,folk
 Mississippi Pizza Pub,folk
 Madison Cunningham,folk
 Ken Pomeroy,folk
+Clyde McGee,folk
+King Strang,folk
+Lightnin' Luke,folk
+Bridge City Sinners,folk
+The Minus 5,folk
+Casey Neill,folk
+Scott McCaughey,folk
+the Norway Rats,folk
+Briggs Yahn,folk
+Caliko,folk
+Redwood Revue,folk
+Jacob Weldon and the Cobras,folk
+Sam Weber,folk
+The Rabbit Box Theatre,folk
+Berkley,folk
+Pedro Pastor y Los Locos Descalzos,folk
+Band of Comerados,folk
+Essie and The Hum,folk
+Scarypoolparty,folk
+Tyler Stone,folk
+ALEJANDRO ARANDA,folk
+Jed Arkley,folk
+Portland Cello Project,folk
+Conjunto Alegre,folk
+The Norman Sylvester Band,folk
+The BrazilTones,folk
+Blonde Neon,folk
+Grupo Masato,folk
+Soul Vaccination,folk
+Ural Thomas and the Pain,folk
+Ache Son,folk
+Bloco Alegria,folk
+Jarrell Hosley,folk
+Kimberly Holt,folk
+Bridgetown Get Down,folk
+Ants Ants Ants,folk
+BridgeCity Soul,folk
+Kevin Selfe and The Tornadoes,folk
+Iron Prophecy,folk
+Picante,folk
+Brigitta & the Cocktail Cats,folk
+Boka Marimba,folk
+Wendy Eisenberg,folk
+More Eaze,folk
+Nina Gerber,folk
+Eliza Gilkyson,folk
+Alberta Abbey,folk
+John Nilsen,folk
+SWIMFISH,folk
+Doom Scroll,folk
+Sister Wife Sex Strike,folk
+Orange Vanilla,folk
+The Last Arizona,folk
+Andy Grummon,folk
+Probably Poly String Band,folk
+Ruthie Foster,folk
+Adam Gabriel,folk
+No Fun,folk
+skrdycat,folk
+Hannah Gedlaman,folk
+Sloan Cary,folk
+Caroline Oakley,folk
+Old Time Highway,folk
+Shadowgrass,folk
+Crystal Damore,folk
+Ordinary Elephant,folk
+Pete Damore,folk
+Folk Alliance International,folk
+Caroline Strickland,folk
+MJ Upstairs,folk
+Ayla Loon,folk
+Odd Blossom,folk
+Threshold Brewing,folk
+Jonah Kagen,folk
+Haymaker,folk
+Tow'rs,folk
+Mission Theater,folk
+Kyle Miller,folk
+Gretta Miller,folk
+Samuel Aaron,folk
+Hopworks Brewery,folk
+Orillia,folk
+Jet Black Pearl,folk
+Charming Disaster,folk
+Saloon Ensemble,folk
+Lazy Fair,folk
+Adam Stockman,folk
+Tigran Hamasyan,folk
+PDX Jazz,folk
+Blue Cranes,folk
+Whitney,folk
+Prewn,folk
+May Erlewine,folk
+Packy Lundholm,folk
+Taylor Rae,folk
+The Coffis Brothers,folk
+Tim Bluhm,folk
+Blue Flags and Black Grass,folk
+Mississippi Pizza Pub & Atlantis Lounge,folk
+Chervona,folk
+The Bad Things,folk
+Stephan Weis,folk
+Montavilla Brew Works,folk
+Hannah Mayree,folk
+Paper Wings,folk
+Soft Spot,folk
+E.T. Fondle,folk
+Noah Powell,folk
+Bex & the Bees,folk
+Amy Hofer,folk
+Chris Mikes,folk
+Squatchula,folk
+Clarke Allen Rose,folk
+Firkin Tavern,folk
+Kim Danbro,folk
+Jeffrey Lewis & The Voltage,folk
+Jason Eady,folk
+Billy Stoops,folk
+Kathleen Edwards,folk
+Marta King,folk
+Silver Star Stringband,folk
+Caleb Klauder,folk
+Reeb Willms Country Band,folk
+Transition Projects,folk
+Dylan May,folk
+Doug Smith,folk
+Mark Moebeck,folk
+Brad Price,folk
+Donny Wright,folk
+The Loafers,folk
+Gary Furlow,folk
+Judy Smith,folk
+Sad Times Productions,folk
+Maude Maeve,folk
+Rum River Cult,folk
+G.A.B.,folk
+Business Of Misery,folk
+Grimiss,folk
+Liminal House,folk
+Gary Furlow & The Loafers,folk
+Lera Lynn,folk
+Peter Bradley Adams,folk
+Marley Hale,folk
+Wild Flowers,folk
+Mac Cornish,folk
+LaVerne’s,folk
+Ye Vagabonds,folk
+Joshua Burnside,folk
+Amy Kaye,folk
+Katie Darke,folk
+Frank Meriwether,folk
+Ryan Montbleau,folk
+Hayes Carll,folk
+Al Lesieutre,folk
+Batfaith Bolshet,folk
+Max Band Aydz,folk
+Makin' Groceries,folk
+Westbound City Train,folk
+Winebox Massacre,folk
+Davey McSpedon,folk
+Long Face,folk
+The Boxcar Collective,folk
+Rose Parade,folk
+Beer for Breakfast,folk
+Crystal Ballroom,americana
 White Eagle Saloon,americana
 Maggie Ray,americana
 Jackson Warner and the Damn Well Please,americana
@@ -590,9 +758,9 @@ Juhlin Wayne,americana
 Kalida,americana
 Oxbow Brewing Company,americana
 Great Lake Swimmers,americana
-Artichoke Music,americana
-Crys Matthews,americana
 Artichoke Community Music,americana
+Crys Matthews,americana
+Artichoke Music,americana
 Jody Carroll,americana
 Singacoustic,americana
 KC Craine,americana
@@ -640,11 +808,11 @@ Showdown Saloon,americana
 Casual Eddie,americana
 Ben Rice & The PDX Hustle,americana
 Hwy 99 Blues Allstars,americana
+Dander,americana
+The Wood Dusters,americana
 Etta Dean,americana
 Aslin,americana
 Haymaker Bar,americana
-Dander,americana
-The Wood Dusters,americana
 Ween,americana
 mollyBANG,americana
 Moonrow,americana
@@ -666,12 +834,12 @@ Deke Dickerson & The Whippersnappers,americana
 Falcon Heart,americana
 The Get Ahead,americana
 Destinie Lynn,americana
+Grateful Dead,americana
+JT Wise Band,americana
 Nighttime Hotline,americana
 Eric Stalker,americana
 AC Sapphire,americana
 Mississippi Pizza & Atlantis Lounge,americana
-Grateful Dead,americana
-JT Wise Band,americana
 DUG,americana
 The Showdown,americana
 Chris Costalupes,americana
@@ -705,14 +873,14 @@ Rattlesnake Mama,americana
 The Turkey Buzzards,americana
 Nigel Wearne,americana
 Kyle Glenn & The Wandering Kind,americana
-Taylor Kingman,americana
 Jaimee Harris,americana
-Bad Assets,americana
-The Two Tracks,americana
+Taylor Kingman,americana
 Rob Leines,americana
 Jacob Weldon,americana
 Spare Room Restaurant & Lounge,americana
 The Cobras,americana
+Bad Assets,americana
+The Two Tracks,americana
 The Montvales,americana
 Creekbed,americana
 Carter Hogan,americana
@@ -788,7 +956,6 @@ Sunstone Way,americana
 Glitterfox,americana
 Bart Budwig,americana
 Greg Holden,americana
-Crystal Ballroom,americana
 Family Worship Center,americana
 Camille Tredoux,americana
 PFF Song Contest Winners,americana
@@ -805,6 +972,51 @@ The Apricots,americana
 Chibia,americana
 Rizo,americana
 Miko Marks,americana
+Clyde McGee,americana
+King Strang,americana
+Lightnin' Luke,americana
+Bridge City Sinners,americana
+Haley Johnsen,americana
+Jed Arkley,americana
+Portland Cello Project,americana
+Conjunto Alegre,americana
+The Norman Sylvester Band,americana
+The BrazilTones,americana
+Blonde Neon,americana
+Grupo Masato,americana
+Soul Vaccination,americana
+Ural Thomas and the Pain,americana
+Ache Son,americana
+Bloco Alegria,americana
+Jarrell Hosley,americana
+Kimberly Holt,americana
+Bridgetown Get Down,americana
+Ants Ants Ants,americana
+BridgeCity Soul,americana
+Kevin Selfe and The Tornadoes,americana
+Iron Prophecy,americana
+Picante,americana
+Brigitta & the Cocktail Cats,americana
+Boka Marimba,americana
+Nina Gerber,americana
+Eliza Gilkyson,americana
+Rebecca Roudman,americana
+Dirty Cello,americana
+Crystal Damore,americana
+Ordinary Elephant,americana
+Pete Damore,americana
+Folk Alliance International,americana
+Taylor Rae,americana
+The Coffis Brothers,americana
+Tim Bluhm,americana
+Stephan Weis,americana
+Montavilla Brew Works,americana
+48 NORTH PIZZERIA & PUB,americana
+The Smelts,americana
+Sproose,americana
+Lera Lynn,americana
+Peter Bradley Adams,americana
+Nefesh Mountain,americana
 The Old Church,blues
 Julianne Johnson,blues
 Michael Allen Harrison,blues
@@ -841,8 +1053,8 @@ Corey Fonville,blues
 Sam Fribush Organ Trio,blues
 Jackie Venson,blues
 Matthew Lindley,blues
-MEL BROWN B3 ORGAN GROUP,blues
 Mel Brown B3 Organ Group,blues
+MEL BROWN B3 ORGAN GROUP,blues
 Jason Ricci,blues
 Nick Moss Band,blues
 The Blue Diamond Bar & Grill,blues
@@ -891,9 +1103,9 @@ Palmetto Motel,blues
 Duane Betts,blues
 Black Joe Lewis and the Honeybears,blues
 Ben Rice & The PDX Hustle,blues
-Hwy 99 Blues Allstars,blues
 Soul'd Out Productions,blues
 HWY 99 Blues Allstars,blues
+Hwy 99 Blues Allstars,blues
 Bottleneck Blues Band,blues
 Ween,blues
 Poopship,blues
@@ -995,9 +1207,6 @@ Timmer,blues
 Portland,blues
 Downtown Portland,blues
 Waterfront Park,blues
-The Revivalists,blues
-Portland Oregon,blues
-Oregon,blues
 The Record Company,blues
 The Motet,blues
 Curtis Salgado,blues
@@ -1007,9 +1216,12 @@ Alen Stone,blues
 Low Cut Connie,blues
 Mel Brown,blues
 Norman Sylvester,blues
+The Revivalists,blues
+Portland Oregon,blues
 Cymande,blues
 Dead Moon,blues
 Durand Jones & the Indications,blues
+Oregon,blues
 Chuck Prophet,blues
 The Alberta Rose Theatre,blues
 John Gorka,blues
@@ -1078,8 +1290,8 @@ Dmitri Matheny Group,blues
 Louis Prima,blues
 Joe Bagg,blues
 Adam Harris,blues
-Vanessa Collier,blues
 Jr.,blues
+Vanessa Collier,blues
 Tevis Hodge,blues
 Louis Pain,blues
 Peter Dammann,blues
@@ -1111,11 +1323,11 @@ Leah Hinchcliff,blues
 Naomi LaViolette,blues
 The Cider Janes,blues
 Rachel Brashear,blues
-Nadine Stanton,blues
-The Shanghai Woolies,blues
 Union Station,blues
 Wilfs Restaurant & Bar,blues
 Lenanne Miller,blues
+Nadine Stanton,blues
+The Shanghai Woolies,blues
 SML,blues
 ST VINCENT,blues
 JUNGLE FIRE,blues
@@ -1186,11 +1398,91 @@ Miko Marks,blues
 No Soap Radio,blues
 Sean McClean & The Vibetenders,blues
 The Goodfoot,blues
+Oxbow Blending & Bottling,blues
+Rigometrics,blues
+Bensbeendead,blues
+NW Women Rhythm & Blues,blues
+Vincent Fossett Jr.,blues
+Johnny Stachela,blues
+Max Butler,blues
+Pedro Arevalo,blues
+Carolyn Wonderland,blues
+Kelly's Lot,blues
+Jed Arkley,blues
+Portland Cello Project,blues
+Conjunto Alegre,blues
+The BrazilTones,blues
+Blonde Neon,blues
+Grupo Masato,blues
+Soul Vaccination,blues
+Ural Thomas and the Pain,blues
+Ache Son,blues
+Bloco Alegria,blues
+Jarrell Hosley,blues
+Kimberly Holt,blues
+Bridgetown Get Down,blues
+Story & Tune,blues
+Ants Ants Ants,blues
+BridgeCity Soul,blues
+Kevin Selfe and The Tornadoes,blues
+Iron Prophecy,blues
+Picante,blues
+Brigitta & the Cocktail Cats,blues
+Boka Marimba,blues
+AC Porter,blues
+Rebecca Roudman,blues
+Dirty Cello,blues
+Too Slim & The Taildraggers,blues
+Sixth+Main,blues
+Tyler Waltner Trio,blues
+Ruthie Foster,blues
+Adam Gabriel,blues
+48 North Pizzeria & Pub,blues
+Kenny Lavitz,blues
+Stephan Weis,blues
+Montavilla Brew Works,blues
+G. Love & Special Sauce,blues
+MAKUA,blues
+PNC Live Studio,blues
+Sleeper Wave,blues
+Lonnie Brooks,blues
+Nikki Jones Band,blues
+Sad Times Productions,blues
+Maude Maeve,blues
+Rum River Cult,blues
+G.A.B.,blues
+Business Of Misery,blues
+Grimiss,blues
+Liminal House,blues
+Marley Hale,blues
+Wild Flowers,blues
+Mac Cornish,blues
+LaVerne’s,blues
+Mississippi Pizza Pub,blues
+Cascade Blues Association,blues
+International Blues Challenge,blues
+Portland Elvis,blues
+HOPELESS JACK,blues
+TK & The Holy Know-Nothings,blues
+Al Lesieutre,blues
+Batfaith Bolshet,blues
+Max Band Aydz,blues
+Makin' Groceries,blues
+Westbound City Train,blues
+Winebox Massacre,blues
+Davey McSpedon,blues
+Long Face,blues
+The Boxcar Collective,blues
+George Benson,blues
+Morgan Freeman,blues
+Revolution Hall,indie
+French 79,indie
+Moda Center,indie
+Del Water Gap,indie
 Star Theater,indie
 Genevieve Artadi,indie
 Louis Cole,indie
 Chiquita Magic,indie
-Revolution Hall,indie
 Strawberry Guy,indie
 Polaris Hall,indie
 HARBOUR,indie
@@ -1228,15 +1520,14 @@ Candi Carpenter,indie
 Show Bar,indie
 Hot Flash Heat Wave,indie
 French Police,indie
+Ponderosa Lounge & Grill,indie
+Dakota Robins,indie
 The Get Down,indie
 Tim Bernhardt,indie
 Satin Jackets,indie
 Trinity Jane,indie
-Ponderosa Lounge & Grill,indie
-Dakota Robins,indie
 The Menzingers,indie
 Oxbow Brewing Company,indie
-Moda Center,indie
 SOMBR,indie
 BALU BRIGADA,indie
 THE HELLP,indie
@@ -1249,9 +1540,9 @@ Goodfoot Pub & Lounge,indie
 The Den,indie
 Nessi Gomes,indie
 Hanna Leigh,indie
-Arlo Parks,indie
 Tele Novella,indie
 Solya,indie
+Arlo Parks,indie
 Aladdin Theater,indie
 Everything Everything,indie
 Psymon Spine,indie
@@ -1270,15 +1561,15 @@ Carsie Blanton,indie
 The Burning Hell,indie
 Arlene Schnitzer Concert Hall,indie
 Gregory Alan Isakov,indie
-Adrian Younge,indie
-J Rocc,indie
-Cortex,indie
 Manchester Orchestra,indie
 brother bird,indie
 Atlantis Lounge,indie
 Grob Gob Glob Grod,indie
 Sanity Please,indie
 Paraffin Dove,indie
+Adrian Younge,indie
+J Rocc,indie
+Cortex,indie
 Reverse Death,indie
 Collar de Lunas,indie
 Queen Rodeo,indie
@@ -1296,14 +1587,14 @@ Nicholas James & The Giant Peach,indie
 Mitch Gonzales Trio,indie
 McMenamins Kennedy School,indie
 Jerry Bell Jr.,indie
-Marin Seven,indie
-Drift.Co,indie
-Marin & Rare Company,indie
-Drift Co,indie
 Kelly's Olympian,indie
 JAYMES BAND,indie
 PALE VIOLET,indie
 ZAP STAR,indie
+Marin Seven,indie
+Drift.Co,indie
+Marin & Rare Company,indie
+Drift Co,indie
 Brady Tucson,indie
 Noble Strangers,indie
 Luminous Things,indie
@@ -1338,8 +1629,8 @@ Kathryn Claire and the Whylands,indie
 Victor Artis,indie
 Shawn Brown Band,indie
 Hawthorne Theatre,indie
-Krooked Kings,indie
 Boyscott,indie
+Krooked Kings,indie
 Ryder Wolfe and the Hunt,indie
 Marielle Kraft,indie
 BAILEN,indie
@@ -1354,8 +1645,8 @@ Pioneer Courthouse Square,indie
 Japanese Breakfast,indie
 Alberta Rose Theatre,indie
 Pedro Pastor,indie
-Annie DiRusso,indie
 MUNA,indie
+Annie DiRusso,indie
 Glitterfox,indie
 Nighttime Hotline,indie
 Eric Stalker,indie
@@ -1384,10 +1675,10 @@ Black Moth Super Rainbow,indie
 of Montreal,indie
 Kevin Barnes,indie
 Closebye,indie
-The Happys,indie
 The Prairie Benders,indie
 Garreson,indie
 SUNTEX,indie
+The Happys,indie
 Kells Brewery,indie
 Sensah Duet,indie
 Soul’d Out Productions,indie
@@ -1429,18 +1720,18 @@ Starz Of Da Bizzare,indie
 The Crane Wives,indie
 Yasmin Williams,indie
 Makeout Reef,indie
+Ásgeir,indie
 The Showdown,indie
 Nik Parr & The Selfless Lovers,indie
-Ásgeir,indie
 Kyle Glenn & The Wandering Kind,indie
 Lee DeWyze,indie
 Diego,indie
 dyego,indie
 Taylor Kingman,indie
+Tigers Jaw,indie
 Pretoria,indie
 Moon Walker,indie
 Super Cassette,indie
-Tigers Jaw,indie
 The Noshpit Sandwich Bar,indie
 Five Big Rocks,indie
 Brite,indie
@@ -1448,9 +1739,9 @@ Hawthorne Hideaway,indie
 Megan Cronin,indie
 Brody Schenk,indie
 TsuShiMaMiRe,indie
+Slippers,indie
 The Hugs,indie
 Positivity Club,indie
-Slippers,indie
 Alice Sandahl,indie
 Fox and Bones,indie
 Dustin Dale Gaspard,indie
@@ -1511,14 +1802,14 @@ Eli Moore,indie
 Nathaniel Talbot,indie
 Floating Clouds,indie
 LAKE,indie
-Buddy Wynkoop,indie
-Glen Phillips,indie
-Garrison Starr,indie
-TV Star,indie
 LINOY,indie
 Mississippi Pizza,indie
 Solange Paape-Igoa,indie
 Mercury Rev,indie
+Buddy Wynkoop,indie
+Glen Phillips,indie
+Garrison Starr,indie
+TV Star,indie
 Louisa Stancioff,indie
 Mon Rovia,indie
 Oshima Brothers,indie
@@ -1528,12 +1819,12 @@ Mannequin Pussy,indie
 Coma Cinema,indie
 Trace Mountains,indie
 Elvis Depressedly,indie
+Alex Bergan,indie
+Tylor & the Train Robbers,indie
 Girls in Trouble,indie
 Alicia Jo Rabins,indie
 The Eastside Jewish Commons,indie
 Portland Jewish Music festival,indie
-Alex Bergan,indie
-Tylor & the Train Robbers,indie
 Lostboycrow,indie
 10 Barrel Brewing Portland,indie
 dadamusik,indie
@@ -1612,6 +1903,112 @@ Typhoon,indie
 Black Belt Eagle Scout,indie
 LaurelThirst Public House,indie
 Tommy Oeffling,indie
+Oxbow Blending & Bottling,indie
+Bensbeendead,indie
+Shore Pines,indie
+Fox Walker,indie
+Keep Going,indie
+Jakki and the Pink Smudge,indie
+Johnny Franco and His Real Brother Dom,indie
+Essie and The Hum,indie
+Cathedral Bells,indie
+Holy Water,indie
+Haunt Me,indie
+Darius Davila,indie
+DJs Danse Du Corpse,indie
+Final Girl,indie
+2charm,indie
+Floats,indie
+Camp Blu,indie
+Famous Friend,indie
+Vienna Vienna,indie
+Daisy Grenade,indie
+OFOSHO,indie
+Oakshire Brewing,indie
+bugsy,indie
+Worry Club,indie
+Edgehill,indie
+Big Pink,indie
+Reisender,indie
+Paul Conroy,indie
+Oceanator,indie
+WAR ON WOMEN,indie
+Landon Conrath,indie
+Abby Holliday,indie
+Nonbinary Girlfriend,indie
+Portland Immigrant Rights Coalition,indie
+PISS,indie
+Kill Michael,indie
+Hound,indie
+Caroline Strickland,indie
+No Fun,indie
+MJ Upstairs,indie
+Ayla Loon,indie
+Odd Blossom,indie
+Threshold Brewing,indie
+Mister Heavy,indie
+Grolixies,indie
+Gondos,indie
+Tow'rs,indie
+Mission Theater,indie
+Kyle Miller,indie
+Gretta Miller,indie
+Frail Talk,indie
+Valkerie,indie
+Dream Theory,indie
+Teddy Sunday,indie
+Jason Lenyer Buchanan,indie
+Lazy Fair,indie
+Adam Stockman,indie
+Bad Bad Hats,indie
+Margaux,indie
+The Outcome,indie
+Under Utopia,indie
+Cool Style Golf,indie
+Maita,indie
+The Get Up Kids,indie
+Small Uncle,indie
+Matt Pryor,indie
+New Here,indie
+Gravure,indie
+Stale,indie
+Kate Koller,indie
+LASKA,indie
+Sword Swallower,indie
+Soft Spot,indie
+E.T. Fondle,indie
+Noah Powell,indie
+MarchFourth,indie
+Avalanche Lily,indie
+The Chinese Cowboy,indie
+Ruune,indie
+Squatchula,indie
+Clarke Allen Rose,indie
+Kim Danbro,indie
+Jeffrey Lewis & The Voltage,indie
+Julian,indie
+Bass Shaker Presley,indie
+Fair Stand The Fields of France,indie
+Dystoria,indie
+Baby Grendel,indie
+Roach Clip,indie
+Pyromancer,indie
+SPLINTERHEAD,indie
+Living Hour,indie
+The Prids,indie
+The Pains Of Being Pure At Heart,indie
+Rose Parade,indie
+Beer for Breakfast,indie
+Karen Caskets,indie
+Splinterhead,indie
+low tide ritual,indie
+Sad Times Productions,indie
+Keysmash,indie
+Sex-Ed,indie
+Jean Wilder,indie
+Velcro Wallets,indie
+Five For Fighting,rock
+Aladdin Theater,rock
 Mississippi Studios,rock
 Swervedriver,rock
 Jack London Revue,rock
@@ -1636,7 +2033,6 @@ Adam Neely,rock
 Lau Noah,rock
 Zepparella,rock
 Aladdin Theatre,rock
-Aladdin Theater,rock
 Roseland Theater,rock
 The Amity Affliction,rock
 Todd Rundgren,rock
@@ -1678,10 +2074,10 @@ Revolution Hall Portland,rock
 Moda Center,rock
 Allen Stone,rock
 Roger Clyne & The Peacemakers,rock
-Stop Light Observations,rock
 Roger Clyne and The Peacemakers,rock
 Pedro the Lion,rock
 David Bazan,rock
+Stop Light Observations,rock
 Will Blackburn,rock
 The Midnight PDX,rock
 Frecks,rock
@@ -1706,13 +2102,13 @@ Shawn James,rock
 Beauty School Dropout,rock
 Oxbow Brewing Company,rock
 No Love for the Middle Child,rock
+Death From Above 1979,rock
+Medium Build,rock
 Wine Lips,rock
 White Eagle Saloon,rock
 Maggie Ray,rock
 Jackson Warner and the Damn Well Please,rock
 ReveleveR,rock
-Death From Above 1979,rock
-Medium Build,rock
 Team Dresch,rock
 Catch Your Breath,rock
 Colorblind (TX),rock
@@ -1722,10 +2118,10 @@ CHERRY POPPIN DADDIES,rock
 Star Theater Portland,rock
 Cherry Poppin Daddies,rock
 Jackie Venson,rock
-Portland,rock
-Snuggle,rock
 Matthew Lindley,rock
 Joshua Josue,rock
+Portland,rock
+Snuggle,rock
 Dinosaur Jr.,rock
 Kelsey Lynn,rock
 Big Murph,rock
@@ -1758,18 +2154,18 @@ Trinity Jane,rock
 Atlantis Lounge,rock
 Juhlin Wayne,rock
 Kalida,rock
-Hot Water Music,rock
 The Menzingers,rock
+Hot Water Music,rock
 Weakened Friends,rock
 Devon Gilfillian,rock
 Phillip Phillips,rock
 Sanguisugabogg,rock
 Dying Fetus,rock
-LEAP,rock
 Kelly's Olympian,rock
 RED HOOF,rock
 WALLCRAWLER,rock
 WITCH AGONY,rock
+LEAP,rock
 Cradle of Filth,rock
 Radio Clash,rock
 Champale Supernova,rock
@@ -1790,8 +2186,8 @@ The Jack London Revue,rock
 Sababa 5,rock
 Holocene,rock
 Forest,rock
-Killswitch Engage,rock
 Machine Head,rock
+Killswitch Engage,rock
 Lost Ox,rock
 Banshee Tree,rock
 Goodfoot Pub & Lounge,rock
@@ -1814,16 +2210,16 @@ Peter Hook and The Light,rock
 Chicago,rock
 Hillsboro Hops,rock
 Hillsboro Hops Ballpark,rock
-Lauren Sanderson,rock
 Keller Auditorium,rock
-The Rock Orchestra by Candlelight,rock
 Jack White,rock
 Showdown Saloon,rock
 Madeline Hawthorne,rock
 Cristina Vane,rock
+The Rock Orchestra by Candlelight,rock
+Lauren Sanderson,rock
+Sleep,rock
 Tele Novella,rock
 Solya,rock
-Sleep,rock
 Everything Everything,rock
 Psymon Spine,rock
 Richard Gilewitz,rock
@@ -1850,18 +2246,18 @@ Hoist The King,rock
 Guided By Voices,rock
 Bobby Bare Jr,rock
 Dante's Live,rock
+Carsie Blanton,rock
+The Burning Hell,rock
 48 North Pizzeria,rock
 the Midnight Travelers,rock
 Richie Bean,rock
-Carsie Blanton,rock
-The Burning Hell,rock
-Tommy Castro & the Painkillers,rock
 Dogstar,rock
-Boz Scaggs,rock
+Tommy Castro & the Painkillers,rock
 Earkiller,rock
 Wasted,rock
 Half Mast,rock
 SERTRALINE,rock
+Boz Scaggs,rock
 Manchester Orchestra,rock
 brother bird,rock
 Grob Gob Glob Grod,rock
@@ -1882,22 +2278,25 @@ Reverse Death,rock
 Collar de Lunas,rock
 Queen Rodeo,rock
 Big Top,rock
-Floydian Slips,rock
-Left of the Dial,rock
-The Snug PDX,rock
-Molly Bang,rock
-Pink Floyd,rock
-Floydian Slip,rock
 Tate Peterson,rock
 Sydney Nash,rock
 Chelsea Luker,rock
 Tomorrow's Verse Taproom,rock
 Future Ensemble,rock
 Joshua Corry,rock
+Left of the Dial,rock
+The Snug PDX,rock
+Molly Bang,rock
+Floydian Slips,rock
+Pink Floyd,rock
+Floydian Slip,rock
 Turn Turn Turn,rock
 The Bloodtypes,rock
 Perfect Buzz,rock
 The No-Gos,rock
+Spare Room Restaurant & Lounge,rock
+Ira and The Half Moon,rock
+Spare Room Lounge,rock
 Seckond Chaynce,rock
 Mississippi Pizza & Atlantis Lounge,rock
 Barry Walker Unit,rock
@@ -1907,13 +2306,13 @@ Richard B. Simon,rock
 Volume Plan,rock
 Tecolote,rock
 Contrabando,rock
-Silversun Pickups,rock
-Rose Quarter,rock
-Soft Kill,rock
+Weezer,rock
 Nordia House,rock
 nordicnorthwest.org,rock
 Casey Schissler,rock
-Weezer,rock
+Soft Kill,rock
+Silversun Pickups,rock
+Rose Quarter,rock
 The Shins,rock
 The Get Down,rock
 Legend Zeppelin,rock
@@ -1943,12 +2342,12 @@ Matthew Rev Rieger,rock
 Dwelling Unit,rock
 CHALK TEETH,rock
 Eric Johanson,rock
+Less Cash,rock
 EVELYNS CASKET,rock
 MISMITHS,rock
 Brady Tucson,rock
 Noble Strangers,rock
 Luminous Things,rock
-Less Cash,rock
 Amargada,rock
 Dead Steady,rock
 DJs Lasserette,rock
@@ -1976,14 +2375,14 @@ Sleepbomb,rock
 Palmetto Motel,rock
 Duane Betts,rock
 Osees,rock
+the COMPLAINT DEPT,rock
+SOMERSET MEADOWS,rock
+TROUBLE CUTS,rock
 Turn! Turn! Turn!,rock
 Conan Neutron & the Secret Friends,rock
 Death Lens,rock
 Grave Secrets,rock
 Heart to Gold,rock
-the COMPLAINT DEPT,rock
-SOMERSET MEADOWS,rock
-TROUBLE CUTS,rock
 Fear of Dissolving,rock
 Dear Assassin,rock
 Die Robot,rock
@@ -1992,6 +2391,8 @@ The GOBS,rock
 Amy Beth & Thee Creeps,rock
 DJ Sonic Moronic,rock
 Happy Deathmen,rock
+Mexican Gunfight,rock
+The Allen Bush Project,rock
 Ben Rice & The PDX Hustle,rock
 Hwy 99 Blues Allstars,rock
 Andrew Jones,rock
@@ -2005,19 +2406,17 @@ Ulric Cowley,rock
 Peter Nimphius,rock
 Scott Benoit,rock
 Kyle McInnis,rock
-Mexican Gunfight,rock
-The Allen Bush Project,rock
 Spoon Benders,rock
 The Sword,rock
 Red Fang,rock
 Mission Ballroom,rock
-The Last Argonauts,rock
 Eagles of Death Metal,rock
-Paradise Vultures,rock
+Eagles Of Death Metal,rock
 The Boars,rock
 Los Spooks,rock
 Thee Daywalkers,rock
-Eagles Of Death Metal,rock
+The Last Argonauts,rock
+Paradise Vultures,rock
 Laurelthirst Public House,rock
 Kendall Lujan,rock
 Ezza Rose,rock
@@ -2064,9 +2463,9 @@ Shawn Brown Band,rock
 Built To Spill,rock
 Sean Hayes,rock
 Red Elvises,rock
-The Breeders,rock
-Krooked Kings,rock
 Boyscott,rock
+Krooked Kings,rock
+The Breeders,rock
 Hillsboro Tuesday Nights Market,rock
 Glitter & Gasoline,rock
 DJ F,rock
@@ -2075,9 +2474,9 @@ Filling,rock
 Shanghai Tunnel Bar & Venue,rock
 Street Play,rock
 Zailee Haze,rock
-Ryder Wolfe and the Hunt,rock
 Corbyn Besson,rock
 Soulidified,rock
+Ryder Wolfe and the Hunt,rock
 BAILEN,rock
 Dryland,rock
 The Beths,rock
@@ -2120,8 +2519,8 @@ MGK,rock
 Will Swinton,rock
 Tyler Vincent,rock
 Zack Keim,rock
-Cashier,rock
 River Spell,rock
+Cashier,rock
 Modest Mouse,rock
 Swan Dive,rock
 Destrends,rock
@@ -2145,12 +2544,12 @@ The Pretty Reckless,rock
 The Grateful Dead,rock
 Rhapsody in Red,rock
 Dead Sometimes,rock
+Glitterfox,rock
 Nighttime Hotline,rock
 Eric Stalker,rock
 AC Sapphire,rock
 Grateful Dead,rock
 JT Wise Band,rock
-Glitterfox,rock
 Lorna Shore,rock
 Fit For A King,rock
 Static Dress,rock
@@ -2163,17 +2562,17 @@ Muna,rock
 Valeria June,rock
 The Melvins,rock
 Vince Staples,rock
-Eve 6,rock
 Stomach Sleeper,rock
 EVE 6,rock
-SLIPPY AND THE SHEETS,rock
-SILVERTONGUE,rock
-NEW OLD STOCK,rock
-The Throwbacks,rock
+Eve 6,rock
 Tom Petty,rock
 Fleetwood Mac,rock
 Amy Winehouse,rock
+The Throwbacks,rock
 River Shook,rock
+SLIPPY AND THE SHEETS,rock
+SILVERTONGUE,rock
+NEW OLD STOCK,rock
 Second Chance Records LLC,rock
 Change It,rock
 RA,rock
@@ -2212,9 +2611,9 @@ of Montreal,rock
 Kevin Barnes,rock
 Sloppy Jane,rock
 Of Montreal,rock
-Closebye,rock
 American Idol,rock
 Alejandro Aranda,rock
+Closebye,rock
 Jackie Greene,rock
 Legacy Ukelele Ensemble,rock
 Peter Luongo,rock
@@ -2223,27 +2622,27 @@ Dan Duval,rock
 Los Chavo Rucos,rock
 Tyson Stubelek,rock
 John Craig,rock
-Cue The Sun,rock
 TEETH FOR EYES,rock
 Red Hoof,rock
-Strangle The Priest,rock
 Getlin,rock
 Kourtney Branchfield,rock
+Cue The Sun,rock
+Strangle The Priest,rock
+The Prairie Benders,rock
+Garreson,rock
+SUNTEX,rock
 The Happys,rock
 New Order,rock
 Joy Division,rock
 The White Eagle,rock
 Decadent '80s,rock
-The Prairie Benders,rock
-Garreson,rock
-SUNTEX,rock
 8-Bit Brass Band,rock
 East 18th Brass Band,rock
 Brassless Chaps,rock
-CRIMES!,rock
-TECHGRL,rock
 Montavilla Station,rock
 Tombstone Shadows,rock
+CRIMES!,rock
+TECHGRL,rock
 Kells Brewery,rock
 Sensah Duet,rock
 Soul’d Out Productions,rock
@@ -2263,11 +2662,11 @@ Spiritbox,rock
 Nova Twins,rock
 Cascades Amphitheater,rock
 Evanescence,rock
+Riff Wood,rock
 Cole Young,rock
 Nolen Durham,rock
 Vacation Manor,rock
 Nathan Towles,rock
-Riff Wood,rock
 Sinferno Cabaret,rock
 ELVIS,rock
 Garret T. Willie,rock
@@ -2302,14 +2701,14 @@ Belmont,rock
 Mekong Bistro,rock
 The Bayou Boyz,rock
 Low Cut Connie,rock
-NOVA PDX,rock
-CKY,rock
-YEAR OF THE COBRA,rock
-HÖG,rock
 DJ Barbie Saint,rock
 Paradigm Shyft,rock
 Particle Son,rock
 Fear Of Dissolving,rock
+NOVA PDX,rock
+CKY,rock
+YEAR OF THE COBRA,rock
+HÖG,rock
 Hannah Glavor,rock
 Sister Sigh,rock
 Rue Badly,rock
@@ -2318,10 +2717,10 @@ Porchfest,rock
 Overlook Neighborhood,rock
 The Apricots,rock
 Smokey Brights,rock
-Have a Nice Life,rock
-Rhododendron,rock
 Lucero,rock
 Barrel Room Portland,rock
+Have a Nice Life,rock
+Rhododendron,rock
 Swinging,rock
 Devin Shaffer,rock
 Maddi Baird,rock
@@ -2407,30 +2806,29 @@ Super Cassette,rock
 The Noshpit Sandwich Bar,rock
 Five Big Rocks,rock
 Brite,rock
-Bad Assets,rock
-The Two Tracks,rock
 Rob Leines,rock
 Jacob Weldon,rock
-Spare Room Restaurant & Lounge,rock
 The Cobras,rock
+Bad Assets,rock
+The Two Tracks,rock
 TsuShiMaMiRe,rock
 Blackberry Smoke,rock
 The Kenneth Brian Band,rock
-Lee Siyeon,rock
-ChRocktikal,rock
 Nick Cassarino,rock
 The Nth Power,rock
 Nikki Glaspie,rock
 Nate Edgar,rock
+Lee Siyeon,rock
+ChRocktikal,rock
 Toadies,rock
 Local H,rock
+Hard Pill,rock
+The Angry Toons,rock
+Polkadot Cadaver,rock
 Josh Scogin,rock
 Nikko Yamada,rock
 Nate Bergman,rock
 68,rock
-Hard Pill,rock
-The Angry Toons,rock
-Polkadot Cadaver,rock
 2TheTeeth,rock
 No Choice,rock
 Nihil,rock
@@ -2499,11 +2897,11 @@ Ashleigh Flynn,rock
 Danger Kitty,rock
 Tim Langford,rock
 Too Slim and the Taildraggers,rock
-The Last Dinner Party,rock
 Mei Semones,rock
 The Fine Print,rock
 Risley,rock
 The Hugs,rock
+The Last Dinner Party,rock
 buffchick,rock
 Liam Kazar,rock
 Kevin Morby,rock
@@ -2516,20 +2914,20 @@ Portland Radio Project,rock
 B-Side Records & Vintage,rock
 Patina,rock
 Sullivan King,rock
-Toad the Wet Sprocket,rock
-Glen Phillips,rock
 Eli Moore,rock
 Nathaniel Talbot,rock
 Floating Clouds,rock
 LAKE,rock
+Toad the Wet Sprocket,rock
+Glen Phillips,rock
 Brickhouse Bar,rock
 Fete Music Hall,rock
 Newmark Theatre,rock
 Brent Gunter,rock
-Buddy Wynkoop,rock
-Garrison Starr,rock
 The Afghan Whigs,rock
 TV Star,rock
+Buddy Wynkoop,rock
+Garrison Starr,rock
 Louisa Stancioff,rock
 Mon Rovia,rock
 Oshima Brothers,rock
@@ -2601,7 +2999,7 @@ Rival Cults,rock
 Ghost Fetish,rock
 Together Pangea,rock
 The Red Pears,rock
-Rose Gerber,rock
+Curtis Salgado,rock
 Dumbo Gets Mad,rock
 Firkin Tavern,rock
 Burnside Project,rock
@@ -2610,7 +3008,7 @@ Big Mother Gig,rock
 Richard Jankovich,rock
 Albert Kurniawan,rock
 Mon Draggor,rock
-Curtis Salgado,rock
+Rose Gerber,rock
 Dante Elephante,rock
 James Taylor,rock
 Carole King,rock
@@ -2675,11 +3073,11 @@ Andrea Algieri,rock
 Attack on Titan,rock
 KOHTA YAMAMOTO,rock
 Hiroyuki SAWANO,rock
+Gvth Dvddy,rock
+Wooden Overcoat,rock
 Vana Liya,rock
 CoLoSo,rock
 Pepper's LAW Records,rock
-Gvth Dvddy,rock
-Wooden Overcoat,rock
 Chris Duarte Group,rock
 Pretty Bitter,rock
 Dear Maryanne,rock
@@ -2712,16 +3110,16 @@ Squandry,rock
 Advisory,rock
 Pleb_Talk,rock
 Isaiah Sharkey,rock
-MILLIONAIRE$,rock
-All Hype,rock
-Wrung,rock
 Positivity Club,rock
 Motorvue,rock
 The Roses,rock
-Left on Tenth,rock
-Camille Tredoux,rock
+MILLIONAIRE$,rock
+All Hype,rock
+Wrung,rock
 Charlie Hunter Trio,rock
 Kaul Auditorium,rock
+Left on Tenth,rock
+Camille Tredoux,rock
 McMenamins White Eagle Saloon,rock
 Pink Skies,rock
 Blackwater Holylight,rock
@@ -2818,6 +3216,293 @@ Tommy Oeffling,rock
 The Supernatural Beavers,rock
 The Goodfoot,rock
 Fox Walker,rock
+Oxbow Blending & Bottling,rock
+Bensbeendead,rock
+The Minus 5,rock
+Casey Neill,rock
+Scott McCaughey,rock
+the Norway Rats,rock
+Himalayas,rock
+CHEZ,rock
+The Haunt,rock
+Chez,rock
+El Vez,rock
+Duderella,rock
+The Centuries,rock
+Shore Pines,rock
+Keep Going,rock
+Foxy Shazam,rock
+Waterparks,rock
+Story Of The Year,rock
+Senses Fail,rock
+Ben Folds,rock
+Ttáwaxt Birth Justice Center,rock
+Black Chvrch,rock
+T. Rex,rock
+Queen,rock
+DJ @thylacine.queen,rock
+Jakki and the Pink Smudge,rock
+Sam Weber,rock
+The Rabbit Box Theatre,rock
+Berkley,rock
+Clinton Street Theater,rock
+Frankenstein,rock
+Boris Karloff,rock
+Vincent Fossett Jr.,rock
+Johnny Stachela,rock
+Max Butler,rock
+Pedro Arevalo,rock
+Carolyn Wonderland,rock
+Kelly's Lot,rock
+Die Spitz,rock
+Essie and The Hum,rock
+Lesser Demons,rock
+As Above,rock
+Grieven,rock
+Scarypoolparty,rock
+Tyler Stone,rock
+ALEJANDRO ARANDA,rock
+Curse Mackey,rock
+Pigface,rock
+Cathedral Bells,rock
+Holy Water,rock
+Haunt Me,rock
+Darius Davila,rock
+DJs Danse Du Corpse,rock
+Final Girl,rock
+Courtney Act,rock
+Wendy Eisenberg,rock
+More Eaze,rock
+Vienna Vienna,rock
+Daisy Grenade,rock
+Rebecca Roudman,rock
+Dirty Cello,rock
+Too Slim & The Taildraggers,rock
+Pure Prairie League,rock
+Clark Engine Company,rock
+Brigitte Calls Me Baby,rock
+The Messthetics,rock
+James Brandon Lewis,rock
+Echos,rock
+ESSENGER,rock
+John Nilsen,rock
+SWIMFISH,rock
+bugsy,rock
+Worry Club,rock
+Edgehill,rock
+DJ Tic Toc,rock
+Weekend Kids,rock
+SoulSuckers,rock
+MESS,rock
+First Attack,rock
+Twilight Bar & Cafe,rock
+DJ Fernando,rock
+Ultra Sect,rock
+Valentina Magaletti,rock
+Moin,rock
+Raime,rock
+METALACHI,rock
+The Wonder Years,rock
+Knuckle Puck,rock
+Initiate,rock
+Morgan James,rock
+Nonbinary Girlfriend,rock
+Portland Immigrant Rights Coalition,rock
+PISS,rock
+Kill Michael,rock
+Hound,rock
+Gil's Speakeasy,rock
+Life Rips,rock
+Not Here Anymore,rock
+Baby and The Nobodies,rock
+Sorry Holly,rock
+The Bangles,rock
+Blondie,rock
+Berlin,rock
+Benatar,rock
+Mississippi Pizza Pub & Atlantis Lounge,rock
+Still Depths,rock
+Milkdog,rock
+The Cascadians,rock
+Ruthie Foster,rock
+Adam Gabriel,rock
+Dirty Three,rock
+Rum River Cult,rock
+Killmer,rock
+Exceptional Failures,rock
+The World Famous Kenton Club,rock
+Bijoux Cone,rock
+Etta Dean,rock
+skrdycat,rock
+Olivia Lyon,rock
+The Xennial,rock
+Mississippi Pizza Pub,rock
+Hannah Gedlaman,rock
+Sloan Cary,rock
+Crossover Music,rock
+Caroline Strickland,rock
+MJ Upstairs,rock
+Ayla Loon,rock
+Odd Blossom,rock
+PUNKTUALS,rock
+Uvula,rock
+Iron Sheep,rock
+Haymaker,rock
+Mister Heavy,rock
+Grolixies,rock
+Gondos,rock
+Tow'rs,rock
+Kyle Miller,rock
+Gretta Miller,rock
+Frail Talk,rock
+Samuel Aaron,rock
+Hopworks Brewery,rock
+Orillia,rock
+Charlie Hunter,rock
+Valkerie,rock
+Dream Theory,rock
+Teddy Sunday,rock
+48 North Pizzeria & Pub,rock
+Kenny Lavitz,rock
+Bad Bad Hats,rock
+Margaux,rock
+Serpents of Heresy,rock
+Dismantle Me,rock
+Streetbound,rock
+Gurriers,rock
+Whitney,rock
+Prewn,rock
+Two Feet,rock
+Sub Urban,rock
+Brothel,rock
+The Outcome,rock
+Under Utopia,rock
+Cool Style Golf,rock
+Gleneden,rock
+Greg Rubin,rock
+Taylor Rae,rock
+The Coffis Brothers,rock
+Tim Bluhm,rock
+MARBLE,rock
+IX OF SWORDS,rock
+Left on Read,rock
+As Cities Burn,rock
+Emery,rock
+The Classic Crime,rock
+Leader-1,rock
+Ritual of Ruin,rock
+Shaylee,rock
+Brood22,rock
+Star Chamber,rock
+HoneyDrome,rock
+Kevin Mckeown,rock
+Alain Johannes,rock
+Ben Rector,rock
+Jon McLaughlin,rock
+Soft Spot,rock
+E.T. Fondle,rock
+Noah Powell,rock
+Baby Grendel,rock
+Andromeda,rock
+House of Warmth,rock
+Trans Panic,rock
+NE Emergency Food Program,rock
+Within Destruction,rock
+Face Yourself,rock
+The Browning,rock
+Dead Eyes,rock
+Squatchula,rock
+Clarke Allen Rose,rock
+Kim Danbro,rock
+Strangle the Priest,rock
+Amy Beth & thee Creeps,rock
+Monty Vega & The Sittin's Shivas,rock
+Avalanche Lily,rock
+The Chinese Cowboy,rock
+Ruune,rock
+The Crawlers,rock
+The Decliners,rock
+Jet Hag,rock
+A Wilhelm Scream,rock
+Doomsday,rock
+Death By Stereo,rock
+Jeffrey Lewis & The Voltage,rock
+Rei Deora,rock
+Taxi,rock
+The Flip,rock
+All Them Witches,rock
+King Buffalo,rock
+Taraneh,rock
+Taraneh Azar,rock
+Julian,rock
+Bass Shaker Presley,rock
+Fair Stand The Fields of France,rock
+PNC Live Studio,rock
+Nikki Jones Band,rock
+Salami Rose Joe Louis,rock
+Puma Blue,rock
+48 NORTH PIZZERIA & PUB,rock
+The Smelts,rock
+Sproose,rock
+Sad Times Productions,rock
+Maude Maeve,rock
+G.A.B.,rock
+Business Of Misery,rock
+Grimiss,rock
+Liminal House,rock
+Lera Lynn,rock
+Peter Bradley Adams,rock
+LONG BEACH DUB ALLSTARS,rock
+Bedouin Soundclash,rock
+Paradise Cleaners,rock
+Attention Earth Dwellers,rock
+Blister,rock
+Dystoria,rock
+Roach Clip,rock
+Pyromancer,rock
+SPLINTERHEAD,rock
+Marley Hale,rock
+Wild Flowers,rock
+Mac Cornish,rock
+LaVerne’s,rock
+Living Hour,rock
+The Prids,rock
+The Pains Of Being Pure At Heart,rock
+Serpents Of Heresy,rock
+Nervous State,rock
+Al Lesieutre,rock
+Batfaith Bolshet,rock
+Max Band Aydz,rock
+Makin' Groceries,rock
+Westbound City Train,rock
+Winebox Massacre,rock
+Davey McSpedon,rock
+Long Face,rock
+The Boxcar Collective,rock
+No Soap,rock
+DJ Bryson Wallace,rock
+Radio,rock
+H-Dawg & The Smawg,rock
+Rose Parade,rock
+Beer for Breakfast,rock
+Galen Clark,rock
+Dan Balmer,rock
+Micah Hummel,rock
+Trio Subtonic,rock
+Bill Athens,rock
+Karen Caskets,rock
+Splinterhead,rock
+low tide ritual,rock
+Keller Williams,rock
+QUEEN MOTHER,rock
+Bowie Love,rock
+Keysmash,rock
+Sex-Ed,rock
+Jean Wilder,rock
+Velcro Wallets,rock
+MIKE DILLON BAND,rock
+Brian Haas,rock
+Sit Pretty,rock
 Star Theater,punk
 Genevieve Artadi,punk
 Louis Cole,punk
@@ -2953,10 +3638,10 @@ punk,punk
 Oubliette,punk
 Swan Dive,punk
 Destrends,punk
+Holocene Portland,punk
 AMARGADA,punk
 DEAD STEADY,punk
 LU,punk
-Holocene Portland,punk
 Pioneer Courthouse Square,punk
 Ani DiFranco,punk
 Japanese Breakfast,punk
@@ -3038,10 +3723,10 @@ Dark Duchess,punk
 Have A Nice Life,punk
 Rhododendron,punk
 Bosse-de-Nage,punk
-Microwave Buddha,punk
-Los Microwaves,punk
 White Eagle Saloon,punk
 Ben Lapidus,punk
+Microwave Buddha,punk
+Los Microwaves,punk
 Jasiah,punk
 Nascar Aloe,punk
 Oddly shrugs,punk
@@ -3128,8 +3813,8 @@ Supersuckers,punk
 Scott H. Biram,punk
 Defier,punk
 More Ephemerol,punk
-Neoni,punk
 Junior Varsity,punk
+Neoni,punk
 P.S. Destroy This,punk
 Truuz,punk
 No Fun Bar,punk
@@ -3231,6 +3916,159 @@ Veradas,punk
 Mike Mannequin,punk
 Morrison Graves,punk
 Bunk Bar,punk
+Clyde McGee,punk
+King Strang,punk
+Lightnin' Luke,punk
+Bridge City Sinners,punk
+Himalayas,punk
+CHEZ,punk
+The Haunt,punk
+El Vez,punk
+Duderella,punk
+The Centuries,punk
+Foxy Shazam,punk
+Waterparks,punk
+Story Of The Year,punk
+Senses Fail,punk
+Ttáwaxt Birth Justice Center,punk
+Black Chvrch,punk
+Jakki and the Pink Smudge,punk
+Emo Nite,punk
+Alberta Rose Theatre,punk
+Die Spitz,punk
+Stunt Drummer,punk
+Micah And The Mirrors,punk
+Advisor,punk
+Masters Of Karate,punk
+Curse Mackey,punk
+Pigface,punk
+Cathedral Bells,punk
+Holy Water,punk
+Haunt Me,punk
+Darius Davila,punk
+DJs Danse Du Corpse,punk
+Final Girl,punk
+Perimeters,punk
+Mayray,punk
+Sylphide,punk
+Floats,punk
+Camp Blu,punk
+Famous Friend,punk
+Andy Stott,punk
+Broadway Calls,punk
+TEENAGE BOTTLEROCKET,punk
+Old Cross,punk
+Nowhere Fast,punk
+bugsy,punk
+Worry Club,punk
+Edgehill,punk
+DJ Tic Toc,punk
+Weekend Kids,punk
+SoulSuckers,punk
+MESS,punk
+First Attack,punk
+Twilight Bar & Cafe,punk
+DJ Fernando,punk
+Ultra Sect,punk
+Valentina Magaletti,punk
+Moin,punk
+Raime,punk
+Doom Scroll,punk
+Sister Wife Sex Strike,punk
+Orange Vanilla,punk
+The Last Arizona,punk
+VJ Disorder,punk
+DJ Gregarious,punk
+Oceanator,punk
+WAR ON WOMEN,punk
+The Wonder Years,punk
+Knuckle Puck,punk
+Initiate,punk
+Portland Immigrant Rights Coalition,punk
+PISS,punk
+Kill Michael,punk
+Hound,punk
+Gil's Speakeasy,punk
+Life Rips,punk
+Not Here Anymore,punk
+Baby and The Nobodies,punk
+Sorry Holly,punk
+Mississippi Pizza Pub & Atlantis Lounge,punk
+Still Depths,punk
+Milkdog,punk
+Rad Max,punk
+Filthy Traitors,punk
+GFL,punk
+NOR/ME,punk
+Sad Times Productions,punk
+We Might Die,punk
+Plastic Blood,punk
+Disbeware,punk
+Toody Cole,punk
+Chatter Box,punk
+PUNKTUALS,punk
+Uvula,punk
+Iron Sheep,punk
+Mister Heavy,punk
+Grolixies,punk
+Gondos,punk
+Valkerie,punk
+Dream Theory,punk
+Teddy Sunday,punk
+Serpents of Heresy,punk
+Streetbound,punk
+Gurriers,punk
+Blue Flags and Black Grass,punk
+Chervona,punk
+The Bad Things,punk
+New Here,punk
+Gravure,punk
+Stale,punk
+Kate Koller,punk
+LASKA,punk
+Sword Swallower,punk
+Baby Grendel,punk
+Andromeda,punk
+House of Warmth,punk
+NE Emergency Food Program,punk
+Avalanche Lily,punk
+The Chinese Cowboy,punk
+Ruune,punk
+Strangle the Priest,punk
+Amy Beth & thee Creeps,punk
+Monty Vega & The Sittin's Shivas,punk
+The Crawlers,punk
+The Decliners,punk
+Jet Hag,punk
+A Wilhelm Scream,punk
+Doomsday,punk
+Death By Stereo,punk
+Witness The End,punk
+Droplaw,punk
+Proven,punk
+Studio 516,punk
+Big Papa Warrior,punk
+Red Dons,punk
+J Magic,punk
+Paradise Cleaners,punk
+Attention Earth Dwellers,punk
+Blister,punk
+Dystoria,punk
+Roach Clip,punk
+Pyromancer,punk
+SPLINTERHEAD,punk
+Amy Kaye,punk
+Katie Darke,punk
+Turn! Turn! Turn!,punk
+Frank Meriwether,punk
+Karen Caskets,punk
+Splinterhead,punk
+low tide ritual,punk
+Pop Underground,punk
+One Drink And Other Lies,punk
+Long Deer,punk
+Soda,punk
+RAD MAX,punk
 Star Theater,electronic
 Genevieve Artadi,electronic
 Louis Cole,electronic
@@ -3327,17 +4165,17 @@ MIENNE,electronic
 Goodfoot Pub & Lounge,electronic
 Brett's House Party,electronic
 leeonn,electronic
+Mississippi Pizza & Atlantis Lounge,electronic
+Dhug,electronic
 Holocene,electronic
 Otha,electronic
 Digital Warthog,electronic
-Mississippi Pizza & Atlantis Lounge,electronic
-Dhug,electronic
+MELDAMOR,electronic
 XEK,electronic
 Casual Decay,electronic
 v1deoboy,electronic
 Alpha Stream,electronic
 Modbang,electronic
-MELDAMOR,electronic
 Jose Gutierrez,electronic
 Vincent Antone,electronic
 OZZTIN,electronic
@@ -3424,9 +4262,6 @@ THE BLACK QUEEN,electronic
 10 Barrel Brewing Portland,electronic
 dadamusik,electronic
 REsy,electronic
-Roniit,electronic
-Subaqueous,electronic
-Amanati,electronic
 BoomBox,electronic
 Yak Attack,electronic
 DMVU,electronic
@@ -3434,10 +4269,13 @@ Snuffy,electronic
 JORDNMOODY,electronic
 Esseks,electronic
 TIGER FOX,electronic
-Oh Wonder,electronic
-Wrabel,electronic
+Roniit,electronic
+Subaqueous,electronic
+Amanati,electronic
 Novalima,electronic
 Hawthorne Theatre,electronic
+Oh Wonder,electronic
+Wrabel,electronic
 Grace Ives,electronic
 Sixth+Main,electronic
 Machado Mijiga,electronic
@@ -3484,6 +4322,82 @@ Monolink,electronic
 LabRats,electronic
 Terra Lopez,electronic
 Rituals of Mine,electronic
+Hex Appeal,electronic
+Beat Kitty,electronic
+Midnight Weasel,electronic
+Moussa,electronic
+Cat Wolf,electronic
+The Cheezy Delights,electronic
+Hot Dawgs,electronic
+Krista Basis,electronic
+High Step Society,electronic
+Twerkaba,electronic
+Oxbow Blending & Bottling,electronic
+Rigometrics,electronic
+Oxbow Live,electronic
+Bensbeendead,electronic
+Daine,electronic
+Club 90s,electronic
+Curse Mackey,electronic
+Pigface,electronic
+Perimeters,electronic
+Mayray,electronic
+Sylphide,electronic
+Wren LaFeet,electronic
+Sheena Medicina,electronic
+Mother Void,electronic
+NOVALIMA,electronic
+Process PDX,electronic
+Thomas Fang,electronic
+SLP,electronic
+CJA,electronic
+Beth Wooten,electronic
+Valentina Magaletti,electronic
+Moin,electronic
+Raime,electronic
+No Fun,electronic
+Terminal 11,electronic
+Desdemona Club,electronic
+Sporothrix,electronic
+d.phono,electronic
+acroyear,electronic
+Mikey V,electronic
+SACHA ROBOTTI,electronic
+Bahb,electronic
+Kevin Saurer,electronic
+Hippie Sabotage,electronic
+Jeff Saurer,electronic
+Tove Lo,electronic
+PNKO,electronic
+Serengeti,electronic
+Pixel Grip,electronic
+Peaches,electronic
+Caroline Strickland,electronic
+MJ Upstairs,electronic
+Ayla Loon,electronic
+Odd Blossom,electronic
+Aladdin Theater,electronic
+East Forest,electronic
+Valkerie,electronic
+Dream Theory,electronic
+Teddy Sunday,electronic
+Two Feet,electronic
+Sub Urban,electronic
+Brothel,electronic
+Mindchatter,electronic
+Bryce Connolly,electronic
+Sappho,electronic
+HAAi,electronic
+OTHRWRLD,electronic
+The Coffin,electronic
+Blood Rave,electronic
+Grizz CLL,electronic
+Taraneh,electronic
+Taraneh Azar,electronic
+Jai Wolf,electronic
+RUMTUM,electronic
+Monster Rally,electronic
+Keller Williams,electronic
 Wonder Ballroom,EDM
 Frost Children,EDM
 Lulu Prost,EDM
@@ -3503,6 +4417,9 @@ NOVA PDX,EDM
 DVBBS,EDM
 McMenamins Crystal Ballroom,EDM
 DJ Shadow,EDM
+BRÜT,EDM
+Alfonso Tan,EDM
+Dan Darlington,EDM
 WonderLove,EDM
 Fourth World,EDM
 Beatrox,EDM
@@ -3569,6 +4486,8 @@ Tracy Why,EDM
 Centrikal,EDM
 Xport PDX,EDM
 Djsmokie,EDM
+DJ Aurora,EDM
+Peacock PDX,EDM
 XEK,EDM
 The Midnight PDX,EDM
 Casual Decay,EDM
@@ -3576,8 +4495,6 @@ The SIX Music Venue,EDM
 v1deoboy,EDM
 Alpha Stream,EDM
 Modbang,EDM
-DJ Aurora,EDM
-Peacock PDX,EDM
 Infected Mushroom,EDM
 Departure Restaurant + Lounge,EDM
 CHANNEL FREED,EDM
@@ -3606,10 +4523,10 @@ Iconic,EDM
 Pineo & Loeb,EDM
 DJ Prashant,EDM
 Wonderlove,EDM
+USBCHECK,EDM
 Sappho,EDM
 Justice,EDM
 Daft Punk,EDM
-USBCHECK,EDM
 YOTTO,EDM
 Punchis,EDM
 DJ Ambush,EDM
@@ -3624,3 +4541,36 @@ WINK,EDM
 The Den Portland,EDM
 Fox Stevenson,EDM
 Yue,EDM
+Brown Paper Tickets,EDM
+Stage 722,EDM
+Pulsar Productions,EDM
+Crystal Ballroom,EDM
+Slayyyter,EDM
+Sixth+Main,EDM
+The AM (Acoustic Minds),EDM
+Amanda Price,EDM
+Jenni Price,EDM
+Reggaetonlandia,EDM
+Calle 6 Nightclub,EDM
+Space Laces,EDM
+Pitbull,EDM
+AYYBO,EDM
+PEEKABOO,EDM
+Flava D,EDM
+Holocene,EDM
+Main Phase,EDM
+Natalie Jane,EDM
+Alberta Rose Theatre,EDM
+Okorie Johnson,EDM
+OkCello,EDM
+Joe Kye,EDM
+Jai Wolf,EDM
+Kiki Alvarez,EDM
+Nova PDX,EDM
+Golden Goddess,EDM
+Milly Wubbs,EDM
+Xavia Purp,EDM
+Cipher,EDM
+Steezo,EDM
+Big Vision Productions,EDM
+Mawmie,EDM
